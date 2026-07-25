@@ -1,0 +1,1415 @@
+﻿sucursal_nombre;direccion_sucursal;comuna_nombre;lugar_nombre;tipo_lugar;capacidad_personas;precio;descuento_socio_evento;tipo_precio;dia_semana;hora_inicio;hora_termino;fecha_inicio_vigencia;fecha_fin_vigencia
+"Santiago Centro";"Av Alameda 900";Santiago;linea1_piscina1;piscina;1;30000;;;jueves;20:00;21:00;2025-11-19;2025-11-26
+"Santiago Centro";"Av Alameda 900";Santiago;linea2_piscina1;piscina;1;230000;21;;martes;20:00;21:00;;2024-12-19
+"Santiago Centro";"Av Alameda 900";Santiago;linea3_piscina1;piscina;1;20000;71;;martes;10:00;11:00;2025-11-02;2025-11-09
+"Santiago Centro";"Av Alameda 900";Santiago;linea4_piscina1;piscina;1;20000;80;;miercoles;12:00;13:00;2025-01-05;2025-04-05
+"Santiago Centro";"Av Alameda 900";Santiago;linea5_piscina1;piscina;1;190000;79;;viernes;12:00;13:00;2025-09-29;2025-10-13
+"Santiago Centro";"Av Alameda 900";Santiago;linea6_piscina1;piscina;1;10000;52;;domingo;11:00;12:00;2024-08-16;2024-11-14
+"Santiago Centro";"Av Alameda 900";Santiago;linea7_piscina1;piscina;1;200000;;;jueves;18:00;19:00;2024-10-04;2024-10-11
+"Santiago Centro";"Av Alameda 900";Santiago;linea8_piscina1;piscina;1;40000;;;martes;20:00;21:00;2025-08-15;2025-08-22
+"Santiago Centro";"Av Alameda 900";Santiago;linea1_piscina2;piscina;1;10000;18;;lunes;08:00;09:00;2025-05-07;2025-06-06
+"Santiago Centro";"Av Alameda 900";Santiago;linea2_piscina2;piscina;1;220000;39;;sabado;17:00;18:00;2024-10-26;2025-01-24
+"Santiago Centro";"Av Alameda 900";Santiago;linea3_piscina2;piscina;1;120000;;;martes;13:00;14:00;2024-04-22;2024-04-29
+"Santiago Centro";"Av Alameda 900";Santiago;linea4_piscina2;piscina;1;10000;27;;jueves;12:00;13:00;2024-05-09;2024-07-08
+"Santiago Centro";"Av Alameda 900";Santiago;linea5_piscina2;piscina;1;130000;;;lunes;09:00;10:00;2025-04-22;2025-06-21
+"Santiago Centro";"Av Alameda 900";Santiago;linea6_piscina2;piscina;1;160000;78;;viernes;13:00;14:00;2024-03-12;2024-04-11
+"Santiago Centro";"Av Alameda 900";Santiago;linea7_piscina2;piscina;1;190000;25;;lunes;17:00;18:00;2025-04-04;2025-07-03
+"Santiago Centro";"Av Alameda 900";Santiago;linea8_piscina2;piscina;1;30000;;;domingo;20:00;21:00;2024-10-19;2024-11-02
+"Santiago Centro";"Av Alameda 900";Santiago;SalonEventos1;salon_eventos;36;180000;68;;viernes;20:00;23:59;2025-11-21;2025-12-21
+"Santiago Centro";"Av Alameda 900";Santiago;SalonEventos2;salon_eventos;140;40000;34;dia;domingo;00:00;23:59;2024-08-02;2024-10-31
+"Santiago Centro";"Av Alameda 900";Santiago;SalonEventos3;salon_eventos;126;120000;1;;miercoles;08:00;14:00;2024-08-12;2024-10-11
+"Santiago Centro";"Av Alameda 900";Santiago;SalonEventos4;salon_eventos;155;240000;55;;martes;08:00;14:00;2024-09-19;2024-12-18
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana1;cabana;4;60000;;dia;lunes;00:00;23:59;2025-05-30;2025-08-28
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana2;cabana;5;160000;;dia;miercoles;00:00;23:59;2024-04-19;2024-06-18
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana4;cabana;8;10000;80;dia;sabado;00:00;23:59;2024-04-23;2024-06-22
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana5;cabana;7;250000;80;dia;lunes;00:00;23:59;2025-09-05;2025-10-05
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana6;cabana;5;120000;1;dia;jueves;00:00;23:59;2025-07-26;2025-08-09
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana7;cabana;7;10000;49;dia;domingo;00:00;23:59;2025-06-07;2025-08-06
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana8;cabana;7;10000;24;dia;viernes;00:00;23:59;2025-06-23;2025-06-30
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana9;cabana;7;10000;20;dia;domingo;00:00;23:59;2025-02-27;2025-04-28
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana10;cabana;4;180000;25;dia;viernes;00:00;23:59;2025-06-22;2025-08-21
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana11;cabana;8;240000;;dia;viernes;00:00;23:59;2024-03-09;2024-04-08
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana12;cabana;5;80000;;dia;sabado;00:00;23:59;2024-09-25;2024-10-25
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana13;cabana;7;150000;;dia;domingo;00:00;23:59;2025-08-28;2025-09-27
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana14;cabana;4;160000;;dia;miercoles;00:00;23:59;2024-07-10;2024-08-09
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana15;cabana;7;250000;48;dia;domingo;00:00;23:59;2025-07-04;2025-07-11
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana16;cabana;4;160000;77;dia;sabado;00:00;23:59;2024-02-05;2024-04-05
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana17;cabana;6;230000;;dia;martes;00:00;23:59;2024-10-12;2024-10-26
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana18;cabana;5;240000;31;dia;sabado;00:00;23:59;2024-09-03;2024-12-02
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana20;cabana;8;140000;71;dia;lunes;00:00;23:59;2024-02-03;2024-03-04
+"Santiago Centro";"Av Alameda 900";Santiago;Cancha_tenis_aire_libre;cancha_aire_libre;11;200000;15;hora;miercoles;21:00;22:00;;2025-05-04
+"Santiago Centro";"Av Alameda 900";Santiago;Cancha_tenis_techada;cancha_techada;14;200000;39;hora;lunes;22:00;23:00;2024-11-01;2024-11-15
+"Santiago Centro";"Av Alameda 900";Santiago;Cancha_basquetbol_aire_libre;cancha_aire_libre;15;100000;;hora;miercoles;22:00;23:00;2025-08-29;2025-09-12
+"Santiago Centro";"Av Alameda 900";Santiago;Cancha_futbolito_aire_libre;cancha_aire_libre;22;200000;;hora;viernes;15:00;16:00;2024-12-26;2025-01-25
+"Santiago Centro";"Av Alameda 900";Santiago;Cancha_futbolito_techada;cancha_techada;10;50000;27;hora;domingo;16:00;17:00;2025-06-24;2025-09-22
+"Santiago Centro";"Av Alameda 900";Santiago;Cancha_padel_aire_libre;cancha_aire_libre;14;70000;6;hora;domingo;16:00;17:00;2025-03-18;2025-04-17
+"Santiago Centro";"Av Alameda 900";Santiago;Cancha_padel_techada;cancha_techada;20;140000;3;hora;miercoles;13:00;14:00;2025-11-18;2025-12-18
+Providencia;"Av Pedro de Valdivia 2100";Providencia;linea1_piscina1;piscina;1;30000;;;viernes;21:00;22:00;2024-06-18;2024-07-02
+Providencia;"Av Pedro de Valdivia 2100";Providencia;linea2_piscina1;piscina;1;220000;;;miercoles;16:00;17:00;2024-05-28;2024-07-27
+Providencia;"Av Pedro de Valdivia 2100";Providencia;linea3_piscina1;piscina;1;230000;;;domingo;19:00;20:00;2025-02-12;2025-02-26
+Providencia;"Av Pedro de Valdivia 2100";Providencia;linea4_piscina1;piscina;1;200000;76;;sabado;16:00;17:00;2025-08-29;2025-10-28
+Providencia;"Av Pedro de Valdivia 2100";Providencia;linea5_piscina1;piscina;1;200000;54;;sabado;18:00;19:00;2024-04-16;2024-04-30
+Providencia;"Av Pedro de Valdivia 2100";Providencia;linea6_piscina1;piscina;1;20000;12;;martes;12:00;13:00;;2024-08-16
+Providencia;"Av Pedro de Valdivia 2100";Providencia;linea8_piscina1;piscina;1;170000;;;jueves;17:00;18:00;2024-01-19;2024-02-02
+Providencia;"Av Pedro de Valdivia 2100";Providencia;linea1_piscina2;piscina;1;40000;;;sabado;20:00;21:00;2024-01-20;2024-02-19
+Providencia;"Av Pedro de Valdivia 2100";Providencia;linea2_piscina2;piscina;1;230000;55;;miercoles;08:00;08:30;2024-12-22;2025-02-20
+Providencia;"Av Pedro de Valdivia 2100";Providencia;linea3_piscina2;piscina;1;60000;62;;martes;18:00;19:00;2025-06-07;2025-09-05
+Providencia;"Av Pedro de Valdivia 2100";Providencia;linea4_piscina2;piscina;1;60000;;;martes;08:00;09:00;2024-05-14;2024-05-21
+Providencia;"Av Pedro de Valdivia 2100";Providencia;linea5_piscina2;piscina;1;10000;;;jueves;11:00;12:00;2024-07-01;2024-07-08
+Providencia;"Av Pedro de Valdivia 2100";Providencia;linea6_piscina2;piscina;1;80000;;;domingo;13:00;14:00;2025-03-06;2025-06-04
+Providencia;"Av Pedro de Valdivia 2100";Providencia;linea7_piscina2;piscina;1;160000;10;;viernes;16:00;17:00;2024-10-14;2024-10-28
+Providencia;"Av Pedro de Valdivia 2100";Providencia;linea8_piscina2;piscina;1;80000;30;;miercoles;09:00;10:00;2024-09-24;2024-10-08
+Providencia;"Av Pedro de Valdivia 2100";Providencia;SalonEventos1;salon_eventos;159;210000;16;;miercoles;20:00;23:59;2024-08-16;2024-08-30
+Providencia;"Av Pedro de Valdivia 2100";Providencia;SalonEventos2;salon_eventos;108;150000;80;;miercoles;14:00;20:00;2025-01-19;2025-03-20
+Providencia;"Av Pedro de Valdivia 2100";Providencia;SalonEventos3;salon_eventos;85;120000;76;;miercoles;20:00;23:59;2024-03-07;2024-03-14
+Providencia;"Av Pedro de Valdivia 2100";Providencia;SalonEventos4;salon_eventos;44;140000;28;;martes;14:00;20:00;2025-04-12;2025-04-26
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana1;cabana;5;60000;;dia;lunes;00:00;23:59;2025-08-19;2025-11-17
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana2;cabana;7;220000;20;dia;miercoles;00:00;23:59;2024-03-12;2024-05-11
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana3;cabana;4;40000;53;dia;miercoles;00:00;23:59;2024-02-20;2024-03-05
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana4;cabana;5;150000;34;dia;jueves;00:00;23:59;2024-08-10;2024-11-08
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana5;cabana;7;60000;34;dia;miercoles;00:00;23:59;2024-09-02;2024-12-01
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana7;cabana;6;160000;10;dia;lunes;00:00;23:59;2024-05-09;2024-08-07
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana8;cabana;4;30000;3;dia;viernes;00:00;23:59;2025-05-11;2025-06-10
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana9;cabana;4;250000;44;dia;miercoles;00:00;23:59;2024-09-16;2024-11-15
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana10;cabana;8;120000;5;dia;domingo;00:00;23:59;2024-05-23;2024-06-06
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana12;cabana;7;140000;9;dia;jueves;00:00;23:59;2024-10-13;2024-10-27
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana13;cabana;5;60000;;dia;sabado;00:00;23:59;2024-03-29;2024-06-27
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana14;cabana;4;200000;33;dia;sabado;00:00;23:59;2025-06-05;2025-06-19
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana15;cabana;5;210000;68;dia;sabado;00:00;23:59;2024-04-27;2024-05-27
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana16;cabana;8;140000;53;dia;martes;00:00;23:59;2025-03-15;2025-05-14
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana17;cabana;4;220000;;dia;domingo;00:00;23:59;2024-04-24;2024-07-23
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana18;cabana;8;140000;;dia;jueves;00:00;23:59;2025-03-16;2025-03-23
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana19;cabana;5;50000;63;dia;lunes;00:00;23:59;2024-03-18;2024-03-25
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana20;cabana;4;100000;69;dia;sabado;00:00;23:59;2025-01-14;2025-02-13
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cancha_tenis_aire_libre;cancha_aire_libre;10;120000;42;hora;miercoles;18:00;19:00;2025-11-04;2025-11-18
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cancha_tenis_techada;cancha_techada;15;180000;;hora;martes;20:00;21:00;2025-08-25;2025-09-01
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cancha_basquetbol_aire_libre;cancha_aire_libre;14;210000;;hora;lunes;08:00;09:00;2025-10-31;2025-12-30
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cancha_basquetbol_techada;cancha_techada;15;150000;4;hora;lunes;16:00;17:00;2024-02-09;2024-02-23
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cancha_futbolito_aire_libre;cancha_aire_libre;12;20000;;hora;domingo;19:00;20:00;2024-05-29;2024-06-12
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cancha_futbolito_techada;cancha_techada;20;240000;22;hora;domingo;19:00;20:00;2025-07-30;2025-08-13
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cancha_padel_aire_libre;cancha_aire_libre;20;210000;67;hora;domingo;20:00;21:00;2024-10-26;2024-12-25
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cancha_padel_techada;cancha_techada;14;100000;73;hora;jueves;17:00;18:00;2024-10-08;2024-10-22
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";linea1_piscina1;piscina;1;80000;1;;sabado;18:00;19:00;2025-10-10;2026-01-08
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";linea2_piscina1;piscina;1;20000;46;;lunes;09:00;10:00;2025-10-17;2025-12-16
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";linea3_piscina1;piscina;1;220000;62;;martes;09:00;10:00;2025-01-08;2025-01-15
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";linea4_piscina1;piscina;1;70000;17;;jueves;18:00;19:00;2025-09-09;2025-09-23
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";linea5_piscina1;piscina;1;110000;;;miercoles;21:00;22:00;2025-07-31;2025-10-29
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";linea6_piscina1;piscina;1;100000;2;;lunes;17:00;18:00;2025-10-09;2025-10-23
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";linea7_piscina1;piscina;1;220000;;;sabado;17:00;18:00;2025-05-02;2025-07-31
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";linea8_piscina1;piscina;1;60000;;;viernes;20:00;21:00;;2025-03-09
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";linea1_piscina2;piscina;1;170000;70;;jueves;08:00;08:30;2024-03-25;2024-04-08
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";linea2_piscina2;piscina;1;250000;79;;lunes;08:00;08:30;2024-01-09;2024-02-08
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";linea3_piscina2;piscina;1;30000;56;;martes;09:00;10:00;2024-03-17;2024-03-24
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";linea6_piscina2;piscina;1;10000;;;domingo;11:00;12:00;2024-09-21;2024-09-28
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";linea7_piscina2;piscina;1;10000;68;;miercoles;16:00;17:00;2024-12-19;2025-01-02
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";linea8_piscina2;piscina;1;140000;;;miercoles;11:00;12:00;2025-06-26;2025-07-03
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";SalonEventos1;salon_eventos;162;220000;;dia;domingo;00:00;23:59;2025-07-23;2025-08-22
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";SalonEventos2;salon_eventos;177;220000;12;;jueves;14:00;20:00;2024-02-29;2024-05-29
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";SalonEventos4;salon_eventos;77;240000;;;viernes;08:00;14:00;2025-02-04;2025-04-05
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana1;cabana;8;250000;73;dia;miercoles;00:00;23:59;2025-04-19;2025-06-18
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana2;cabana;7;130000;44;dia;sabado;00:00;23:59;2024-10-17;2025-01-15
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana3;cabana;4;230000;;dia;viernes;00:00;23:59;2024-06-28;2024-07-05
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana4;cabana;5;60000;41;dia;lunes;00:00;23:59;2025-03-20;2025-03-27
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana5;cabana;4;150000;29;dia;miercoles;00:00;23:59;2024-08-24;2024-09-23
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana6;cabana;8;250000;42;dia;domingo;00:00;23:59;2024-11-25;2024-12-02
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana7;cabana;5;30000;;dia;miercoles;00:00;23:59;2025-03-30;2025-05-29
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana8;cabana;6;80000;;dia;martes;00:00;23:59;2025-09-10;2025-10-10
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana9;cabana;6;180000;27;dia;sabado;00:00;23:59;2024-07-12;2024-10-10
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana10;cabana;4;210000;19;dia;lunes;00:00;23:59;2024-07-01;2024-07-31
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana11;cabana;4;150000;5;dia;domingo;00:00;23:59;2025-02-19;2025-03-21
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana13;cabana;5;60000;68;dia;sabado;00:00;23:59;2025-04-13;2025-07-12
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana14;cabana;5;210000;;dia;jueves;00:00;23:59;2024-06-19;2024-06-26
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana15;cabana;7;150000;25;dia;jueves;00:00;23:59;2024-07-16;2024-07-23
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana16;cabana;4;120000;24;dia;domingo;00:00;23:59;2025-04-13;2025-05-13
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana17;cabana;8;140000;;dia;lunes;00:00;23:59;2025-10-06;2025-11-05
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana18;cabana;7;140000;62;dia;jueves;00:00;23:59;;2025-05-06
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana19;cabana;5;130000;53;dia;sabado;00:00;23:59;2024-08-31;2024-09-30
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana20;cabana;7;110000;;dia;sabado;00:00;23:59;2024-07-17;2024-09-15
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cancha_tenis_aire_libre;cancha_aire_libre;19;10000;;hora;domingo;22:00;23:00;2025-07-29;2025-10-27
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cancha_tenis_techada;cancha_techada;11;220000;35;hora;sabado;22:00;23:00;2024-11-26;2024-12-03
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cancha_basquetbol_aire_libre;cancha_aire_libre;13;160000;52;hora;jueves;11:00;12:00;2024-03-09;2024-06-07
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cancha_basquetbol_techada;cancha_techada;20;40000;26;hora;lunes;15:00;16:00;2024-08-29;2024-09-28
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cancha_futbolito_aire_libre;cancha_aire_libre;13;30000;34;hora;viernes;15:00;16:00;2024-02-18;2024-03-03
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cancha_futbolito_techada;cancha_techada;11;220000;55;hora;viernes;11:00;12:00;2025-03-10;2025-03-17
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cancha_padel_aire_libre;cancha_aire_libre;11;240000;28;hora;jueves;10:00;11:00;2025-03-18;2025-05-17
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cancha_padel_techada;cancha_techada;20;120000;56;hora;lunes;20:00;21:00;2024-02-28;2024-03-06
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";linea1_piscina1;piscina;1;170000;79;;jueves;11:00;12:00;2025-01-02;2025-03-03
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";linea2_piscina1;piscina;1;30000;;;miercoles;12:00;13:00;2024-05-26;2024-06-25
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";linea3_piscina1;piscina;1;170000;0;;jueves;18:00;19:00;2024-05-25;2024-06-08
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";linea4_piscina1;piscina;1;120000;65;;sabado;16:00;17:00;2024-01-16;2024-03-16
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";linea5_piscina1;piscina;1;220000;;;viernes;11:00;12:00;2025-01-01;2025-01-08
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";linea6_piscina1;piscina;1;130000;72;;viernes;11:00;12:00;2024-12-11;2024-12-18
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";linea7_piscina1;piscina;1;60000;;;martes;10:00;11:00;2024-12-17;2024-12-24
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";linea8_piscina1;piscina;1;40000;9;;viernes;13:00;14:00;2025-07-18;2025-08-17
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";linea1_piscina2;piscina;1;40000;;;domingo;18:00;19:00;;2024-02-18
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";linea2_piscina2;piscina;1;50000;48;;martes;15:00;16:00;2024-12-17;2025-03-17
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";linea3_piscina2;piscina;1;150000;66;;domingo;18:00;19:00;2024-01-09;2024-01-16
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";linea4_piscina2;piscina;1;70000;;;domingo;20:00;21:00;2024-10-20;2024-11-03
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";linea5_piscina2;piscina;1;240000;27;;miercoles;12:00;13:00;2024-01-04;2024-01-11
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";linea6_piscina2;piscina;1;110000;31;;sabado;11:00;12:00;2025-10-15;2026-01-13
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";linea8_piscina2;piscina;1;150000;1;;jueves;09:00;10:00;2024-10-06;2024-10-13
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";SalonEventos1;salon_eventos;120;200000;;dia;domingo;00:00;23:59;2024-05-01;2024-06-30
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";SalonEventos2;salon_eventos;184;170000;73;;martes;20:00;23:59;2024-07-14;2024-10-12
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";SalonEventos3;salon_eventos;159;170000;11;;sabado;08:00;14:00;2024-08-23;2024-09-06
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";SalonEventos4;salon_eventos;78;250000;;dia;viernes;00:00;23:59;2024-11-22;2024-12-06
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cabana1;cabana;4;40000;;dia;domingo;00:00;23:59;2024-10-28;2024-11-11
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cabana2;cabana;5;70000;71;dia;viernes;00:00;23:59;2025-11-13;2026-01-12
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cabana3;cabana;4;250000;;dia;martes;00:00;23:59;2025-01-28;2025-04-28
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cabana4;cabana;4;110000;;dia;domingo;00:00;23:59;2024-01-29;2024-04-28
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cabana6;cabana;4;210000;;dia;domingo;00:00;23:59;2024-08-18;2024-09-01
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cabana7;cabana;5;100000;32;dia;viernes;00:00;23:59;2024-05-22;2024-07-21
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cabana8;cabana;4;30000;;dia;domingo;00:00;23:59;2024-08-27;2024-11-25
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cabana9;cabana;7;200000;;dia;domingo;00:00;23:59;2024-12-13;2025-03-13
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cabana10;cabana;4;230000;5;dia;domingo;00:00;23:59;2024-10-06;2024-12-05
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cabana11;cabana;6;160000;6;dia;jueves;00:00;23:59;2025-10-03;2026-01-01
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cabana12;cabana;7;160000;;dia;lunes;00:00;23:59;2025-06-09;2025-06-23
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cabana13;cabana;6;10000;18;dia;martes;00:00;23:59;2024-09-08;2024-11-07
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cabana14;cabana;7;230000;41;dia;viernes;00:00;23:59;2025-05-11;2025-05-25
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cabana15;cabana;6;60000;;dia;viernes;00:00;23:59;;2025-12-27
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cabana16;cabana;5;30000;;dia;sabado;00:00;23:59;2024-09-26;2024-10-03
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cabana17;cabana;5;90000;;dia;sabado;00:00;23:59;;2024-07-04
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cabana18;cabana;6;40000;47;dia;sabado;00:00;23:59;2024-12-22;2025-03-22
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cabana19;cabana;8;30000;16;dia;domingo;00:00;23:59;2025-02-11;2025-05-12
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cabana20;cabana;5;170000;56;dia;sabado;00:00;23:59;2024-06-30;2024-07-07
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cancha_tenis_aire_libre;cancha_aire_libre;10;160000;;hora;martes;10:00;11:00;2025-05-14;2025-05-28
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cancha_tenis_techada;cancha_techada;21;180000;1;hora;miercoles;13:00;14:00;2024-09-21;2024-10-05
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cancha_basquetbol_aire_libre;cancha_aire_libre;22;20000;;hora;viernes;21:00;22:00;2025-04-17;2025-04-24
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cancha_basquetbol_techada;cancha_techada;13;200000;;hora;martes;12:00;13:00;2024-09-19;2024-10-19
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cancha_futbolito_aire_libre;cancha_aire_libre;10;180000;31;hora;jueves;10:00;11:00;2025-04-08;2025-07-07
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cancha_futbolito_techada;cancha_techada;10;60000;;hora;sabado;12:00;13:00;2024-04-26;2024-05-03
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cancha_padel_aire_libre;cancha_aire_libre;14;30000;;hora;martes;20:00;21:00;2024-04-17;2024-05-01
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cancha_padel_techada;cancha_techada;22;70000;78;hora;miercoles;19:00;20:00;;2025-02-19
+"Santiago Centro";"Av Alameda 900";Santiago;linea1_piscina1;piscina;1;150000;;;martes;14:00;15:00;2024-11-11;2024-12-11
+"Santiago Centro";"Av Alameda 900";Santiago;linea2_piscina1;piscina;1;140000;68;;lunes;09:00;10:00;2025-02-03;2025-02-10
+"Santiago Centro";"Av Alameda 900";Santiago;linea3_piscina1;piscina;1;180000;;;jueves;22:00;23:00;2024-01-26;2024-02-02
+"Santiago Centro";"Av Alameda 900";Santiago;linea4_piscina1;piscina;1;10000;;;sabado;21:00;22:00;2025-04-20;2025-07-19
+"Santiago Centro";"Av Alameda 900";Santiago;linea6_piscina1;piscina;1;220000;;;sabado;10:00;11:00;2024-04-05;2024-05-05
+"Santiago Centro";"Av Alameda 900";Santiago;linea7_piscina1;piscina;1;180000;45;;lunes;21:00;22:00;2025-08-19;2025-10-18
+"Santiago Centro";"Av Alameda 900";Santiago;linea1_piscina2;piscina;1;140000;54;;martes;14:00;15:00;2024-05-25;2024-06-01
+"Santiago Centro";"Av Alameda 900";Santiago;linea2_piscina2;piscina;1;140000;26;;miercoles;09:00;10:00;2025-10-14;2025-10-21
+"Santiago Centro";"Av Alameda 900";Santiago;linea3_piscina2;piscina;1;10000;80;;lunes;15:00;16:00;2024-07-17;2024-07-31
+"Santiago Centro";"Av Alameda 900";Santiago;linea5_piscina2;piscina;1;100000;;;sabado;10:00;11:00;2024-04-26;2024-05-03
+"Santiago Centro";"Av Alameda 900";Santiago;linea7_piscina2;piscina;1;180000;73;;sabado;17:00;18:00;2025-01-31;2025-03-02
+"Santiago Centro";"Av Alameda 900";Santiago;linea8_piscina2;piscina;1;230000;30;;viernes;08:00;08:30;2024-11-17;2024-11-24
+"Santiago Centro";"Av Alameda 900";Santiago;SalonEventos1;salon_eventos;106;130000;;;martes;14:00;20:00;2024-05-11;2024-08-09
+"Santiago Centro";"Av Alameda 900";Santiago;SalonEventos2;salon_eventos;36;40000;;;sabado;20:00;23:59;2024-08-28;2024-09-04
+"Santiago Centro";"Av Alameda 900";Santiago;SalonEventos3;salon_eventos;21;250000;69;;lunes;08:00;14:00;2025-08-12;2025-11-10
+"Santiago Centro";"Av Alameda 900";Santiago;SalonEventos4;salon_eventos;39;40000;9;;domingo;14:00;20:00;2024-08-10;2024-10-09
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana1;cabana;7;160000;37;dia;jueves;00:00;23:59;2025-08-08;2025-09-07
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana3;cabana;4;250000;58;dia;jueves;00:00;23:59;2024-05-24;2024-08-22
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana4;cabana;7;240000;48;dia;martes;00:00;23:59;2024-10-20;2024-12-19
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana5;cabana;7;100000;70;dia;sabado;00:00;23:59;2024-07-19;2024-08-18
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana6;cabana;4;70000;;dia;miercoles;00:00;23:59;2025-03-31;2025-06-29
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana7;cabana;6;20000;;dia;domingo;00:00;23:59;2024-03-27;2024-04-03
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana8;cabana;5;240000;24;dia;domingo;00:00;23:59;2025-01-31;2025-03-02
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana9;cabana;7;240000;;dia;viernes;00:00;23:59;;2024-08-13
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana10;cabana;6;180000;78;dia;domingo;00:00;23:59;2024-03-27;2024-05-26
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana12;cabana;7;60000;23;dia;domingo;00:00;23:59;2024-03-12;2024-03-19
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana13;cabana;5;250000;;dia;sabado;00:00;23:59;2025-10-06;2025-12-05
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana14;cabana;4;120000;66;dia;martes;00:00;23:59;2024-08-20;2024-08-27
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana15;cabana;5;180000;;dia;lunes;00:00;23:59;2024-04-25;2024-05-09
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana16;cabana;7;170000;76;dia;domingo;00:00;23:59;2025-09-18;2025-10-02
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana17;cabana;7;220000;21;dia;jueves;00:00;23:59;2024-06-12;2024-06-19
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana18;cabana;5;200000;51;dia;lunes;00:00;23:59;2025-11-14;2026-01-13
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana19;cabana;5;80000;24;dia;jueves;00:00;23:59;2025-09-12;2025-09-26
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana20;cabana;6;150000;;dia;viernes;00:00;23:59;2024-03-08;2024-03-22
+"Santiago Centro";"Av Alameda 900";Santiago;Cancha_tenis_aire_libre;cancha_aire_libre;21;170000;0;hora;domingo;22:00;23:00;2024-10-24;2025-01-22
+"Santiago Centro";"Av Alameda 900";Santiago;Cancha_tenis_techada;cancha_techada;14;250000;22;hora;jueves;20:00;21:00;2024-12-29;2025-02-27
+"Santiago Centro";"Av Alameda 900";Santiago;Cancha_basquetbol_aire_libre;cancha_aire_libre;21;210000;62;hora;viernes;09:00;10:00;2025-11-17;2025-12-17
+"Santiago Centro";"Av Alameda 900";Santiago;Cancha_basquetbol_techada;cancha_techada;22;90000;52;hora;domingo;10:00;11:00;2025-01-27;2025-02-03
+"Santiago Centro";"Av Alameda 900";Santiago;Cancha_futbolito_aire_libre;cancha_aire_libre;21;250000;;hora;sabado;18:00;19:00;2025-06-05;2025-07-05
+"Santiago Centro";"Av Alameda 900";Santiago;Cancha_futbolito_techada;cancha_techada;20;160000;76;hora;viernes;08:00;09:00;2024-11-09;2025-02-07
+"Santiago Centro";"Av Alameda 900";Santiago;Cancha_padel_aire_libre;cancha_aire_libre;12;60000;62;hora;martes;08:00;09:00;2025-02-20;2025-03-06
+"Santiago Centro";"Av Alameda 900";Santiago;Cancha_padel_techada;cancha_techada;12;100000;;hora;lunes;17:00;18:00;2024-05-13;2024-06-12
+Providencia;"Av Pedro de Valdivia 2100";Providencia;linea1_piscina1;piscina;1;130000;35;;domingo;19:00;20:00;2025-05-17;2025-08-15
+Providencia;"Av Pedro de Valdivia 2100";Providencia;linea2_piscina1;piscina;1;80000;;;viernes;19:00;20:00;2024-03-29;2024-04-12
+Providencia;"Av Pedro de Valdivia 2100";Providencia;linea3_piscina1;piscina;1;30000;55;;lunes;21:00;22:00;2024-02-12;2024-02-26
+Providencia;"Av Pedro de Valdivia 2100";Providencia;linea4_piscina1;piscina;1;10000;42;;viernes;20:00;21:00;2024-04-13;2024-05-13
+Providencia;"Av Pedro de Valdivia 2100";Providencia;linea5_piscina1;piscina;1;140000;;;martes;18:00;19:00;2024-07-10;2024-07-17
+Providencia;"Av Pedro de Valdivia 2100";Providencia;linea6_piscina1;piscina;1;60000;;;viernes;08:00;08:30;2024-02-24;2024-03-02
+Providencia;"Av Pedro de Valdivia 2100";Providencia;linea7_piscina1;piscina;1;10000;;;sabado;08:00;09:00;2024-02-13;2024-02-27
+Providencia;"Av Pedro de Valdivia 2100";Providencia;linea8_piscina1;piscina;1;250000;21;;jueves;09:00;10:00;2025-04-25;2025-06-24
+Providencia;"Av Pedro de Valdivia 2100";Providencia;linea1_piscina2;piscina;1;170000;;;martes;09:00;10:00;2025-06-07;2025-07-07
+Providencia;"Av Pedro de Valdivia 2100";Providencia;linea2_piscina2;piscina;1;110000;37;;sabado;19:00;20:00;2025-04-12;2025-05-12
+Providencia;"Av Pedro de Valdivia 2100";Providencia;linea3_piscina2;piscina;1;190000;31;;lunes;19:00;20:00;2024-03-25;2024-04-24
+Providencia;"Av Pedro de Valdivia 2100";Providencia;linea4_piscina2;piscina;1;100000;43;;martes;09:00;10:00;2024-12-22;2024-12-29
+Providencia;"Av Pedro de Valdivia 2100";Providencia;linea5_piscina2;piscina;1;20000;49;;sabado;10:00;11:00;2025-10-02;2025-11-01
+Providencia;"Av Pedro de Valdivia 2100";Providencia;linea6_piscina2;piscina;1;150000;;;viernes;19:00;20:00;2024-03-10;2024-04-09
+Providencia;"Av Pedro de Valdivia 2100";Providencia;linea7_piscina2;piscina;1;100000;52;;miercoles;15:00;16:00;2024-06-08;2024-08-07
+Providencia;"Av Pedro de Valdivia 2100";Providencia;linea8_piscina2;piscina;1;90000;;;miercoles;14:00;15:00;2025-03-09;2025-05-08
+Providencia;"Av Pedro de Valdivia 2100";Providencia;SalonEventos2;salon_eventos;126;240000;58;;sabado;14:00;20:00;2025-07-14;2025-09-12
+Providencia;"Av Pedro de Valdivia 2100";Providencia;SalonEventos3;salon_eventos;139;220000;50;dia;lunes;00:00;23:59;2025-11-11;2025-11-25
+Providencia;"Av Pedro de Valdivia 2100";Providencia;SalonEventos4;salon_eventos;69;40000;66;;sabado;08:00;14:00;2025-10-22;2025-11-21
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana1;cabana;5;60000;37;dia;lunes;00:00;23:59;2025-01-27;2025-02-10
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana2;cabana;6;150000;25;dia;jueves;00:00;23:59;2025-05-16;2025-05-30
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana3;cabana;7;240000;31;dia;domingo;00:00;23:59;2025-05-18;2025-06-17
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana4;cabana;6;170000;74;dia;jueves;00:00;23:59;2025-10-31;2025-12-30
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana5;cabana;6;120000;;dia;viernes;00:00;23:59;2024-11-23;2024-12-07
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana6;cabana;5;240000;;dia;domingo;00:00;23:59;2025-08-01;2025-08-31
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana7;cabana;7;50000;;dia;lunes;00:00;23:59;2025-02-24;2025-03-03
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana8;cabana;4;110000;75;dia;sabado;00:00;23:59;2025-02-01;2025-02-15
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana9;cabana;8;50000;80;dia;lunes;00:00;23:59;2025-10-21;2025-11-20
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana10;cabana;6;150000;4;dia;miercoles;00:00;23:59;2024-02-29;2024-03-30
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana11;cabana;7;190000;66;dia;martes;00:00;23:59;2024-10-03;2024-12-02
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana12;cabana;5;150000;29;dia;domingo;00:00;23:59;2024-03-30;2024-05-29
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana13;cabana;6;250000;75;dia;martes;00:00;23:59;2025-04-08;2025-04-15
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana14;cabana;4;50000;66;dia;martes;00:00;23:59;2024-06-25;2024-07-09
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana15;cabana;6;130000;30;dia;miercoles;00:00;23:59;2024-08-02;2024-09-01
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana16;cabana;5;220000;61;dia;domingo;00:00;23:59;2024-11-17;2024-12-01
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana17;cabana;6;220000;32;dia;miercoles;00:00;23:59;2024-07-31;2024-10-29
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana18;cabana;7;70000;73;dia;martes;00:00;23:59;2024-05-17;2024-05-24
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana19;cabana;7;130000;32;dia;lunes;00:00;23:59;2024-11-23;2024-11-30
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana20;cabana;4;20000;56;dia;lunes;00:00;23:59;2025-09-26;2025-10-10
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cancha_tenis_techada;cancha_techada;18;10000;47;hora;domingo;10:00;11:00;2024-01-25;2024-02-24
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cancha_basquetbol_aire_libre;cancha_aire_libre;19;250000;;hora;martes;18:00;19:00;2024-11-14;2025-02-12
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cancha_basquetbol_techada;cancha_techada;10;120000;76;hora;miercoles;21:00;22:00;2025-01-25;2025-02-08
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cancha_futbolito_aire_libre;cancha_aire_libre;20;80000;76;hora;domingo;10:00;11:00;2025-04-01;2025-04-15
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cancha_futbolito_techada;cancha_techada;18;250000;78;hora;domingo;22:00;23:00;2024-11-05;2024-12-05
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cancha_padel_aire_libre;cancha_aire_libre;19;110000;;hora;lunes;13:00;14:00;2025-03-16;2025-04-15
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cancha_padel_techada;cancha_techada;11;160000;46;hora;viernes;09:00;10:00;2025-06-04;2025-06-18
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";linea1_piscina1;piscina;1;150000;;;lunes;19:00;20:00;2025-06-10;2025-08-09
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";linea2_piscina1;piscina;1;40000;;;sabado;18:00;19:00;2025-06-03;2025-08-02
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";linea3_piscina1;piscina;1;190000;20;;domingo;08:00;08:30;2025-05-18;2025-08-16
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";linea4_piscina1;piscina;1;40000;;;sabado;14:00;15:00;2025-03-20;2025-05-19
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";linea5_piscina1;piscina;1;30000;;;domingo;21:00;22:00;2025-05-05;2025-07-04
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";linea6_piscina1;piscina;1;60000;19;;domingo;19:00;20:00;2024-02-21;2024-03-06
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";linea7_piscina1;piscina;1;20000;;;jueves;22:00;23:00;2024-08-30;2024-09-29
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";linea8_piscina1;piscina;1;130000;1;;domingo;14:00;15:00;2024-04-26;2024-06-25
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";linea1_piscina2;piscina;1;40000;76;;domingo;20:00;21:00;2025-01-17;2025-01-31
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";linea2_piscina2;piscina;1;250000;;;sabado;16:00;17:00;2025-08-06;2025-11-04
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";linea3_piscina2;piscina;1;150000;;;domingo;22:00;23:00;2024-01-01;2024-01-31
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";linea4_piscina2;piscina;1;220000;23;;viernes;15:00;16:00;2025-04-28;2025-05-12
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";linea5_piscina2;piscina;1;150000;;;viernes;13:00;14:00;2025-02-16;2025-02-23
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";linea6_piscina2;piscina;1;180000;51;;jueves;10:00;11:00;2024-12-09;2024-12-23
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";linea7_piscina2;piscina;1;150000;;;miercoles;15:00;16:00;2025-08-05;2025-08-12
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";linea8_piscina2;piscina;1;20000;;;martes;15:00;16:00;2024-06-16;2024-07-16
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";SalonEventos1;salon_eventos;99;40000;68;;martes;08:00;14:00;2024-06-06;2024-07-06
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";SalonEventos3;salon_eventos;195;130000;11;;jueves;20:00;23:59;2025-07-08;2025-10-06
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";SalonEventos4;salon_eventos;163;220000;8;;viernes;08:00;14:00;2025-02-13;2025-02-27
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana1;cabana;6;20000;29;dia;sabado;00:00;23:59;2025-01-28;2025-02-04
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana2;cabana;8;70000;9;dia;domingo;00:00;23:59;2025-01-15;2025-02-14
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana3;cabana;5;110000;;dia;miercoles;00:00;23:59;2025-08-03;2025-08-10
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana5;cabana;8;20000;67;dia;lunes;00:00;23:59;2025-08-13;2025-11-11
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana6;cabana;4;20000;36;dia;martes;00:00;23:59;;2024-08-21
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana7;cabana;6;170000;;dia;sabado;00:00;23:59;2024-01-07;2024-02-06
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana8;cabana;4;40000;58;dia;miercoles;00:00;23:59;2024-09-21;2024-09-28
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana9;cabana;8;240000;1;dia;viernes;00:00;23:59;2025-06-17;2025-09-15
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana10;cabana;6;200000;14;dia;miercoles;00:00;23:59;2025-10-17;2025-12-16
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana11;cabana;4;160000;;dia;martes;00:00;23:59;2025-10-02;2025-12-01
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana12;cabana;7;110000;70;dia;sabado;00:00;23:59;2025-03-23;2025-06-21
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana13;cabana;4;230000;78;dia;lunes;00:00;23:59;2025-05-12;2025-07-11
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana14;cabana;5;90000;;dia;martes;00:00;23:59;2025-07-18;2025-07-25
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana15;cabana;7;140000;;dia;martes;00:00;23:59;2024-04-14;2024-07-13
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana16;cabana;7;40000;69;dia;domingo;00:00;23:59;2025-07-16;2025-07-30
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana17;cabana;8;240000;1;dia;viernes;00:00;23:59;2025-02-07;2025-03-09
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana18;cabana;7;90000;59;dia;viernes;00:00;23:59;2025-07-23;2025-07-30
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana19;cabana;8;150000;58;dia;martes;00:00;23:59;2025-04-27;2025-05-04
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana20;cabana;4;80000;40;dia;viernes;00:00;23:59;2024-09-11;2024-11-10
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cancha_tenis_aire_libre;cancha_aire_libre;20;200000;;hora;domingo;21:00;22:00;2024-09-13;2024-11-12
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cancha_tenis_techada;cancha_techada;12;130000;;hora;lunes;09:00;10:00;2024-12-04;2024-12-18
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cancha_basquetbol_aire_libre;cancha_aire_libre;13;70000;22;hora;martes;08:00;08:30;2024-06-07;2024-06-21
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cancha_basquetbol_techada;cancha_techada;14;160000;40;hora;jueves;13:00;14:00;2025-11-08;2025-11-22
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cancha_futbolito_aire_libre;cancha_aire_libre;16;170000;20;hora;domingo;17:00;18:00;2024-02-21;2024-03-22
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cancha_futbolito_techada;cancha_techada;18;10000;79;hora;miercoles;14:00;15:00;2025-05-10;2025-05-17
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cancha_padel_aire_libre;cancha_aire_libre;18;140000;66;hora;jueves;22:00;23:00;2025-01-10;2025-01-24
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cancha_padel_techada;cancha_techada;19;30000;76;hora;martes;12:00;13:00;2024-09-22;2024-12-21
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";linea1_piscina1;piscina;1;140000;;;viernes;20:00;21:00;2025-07-20;2025-09-18
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";linea2_piscina1;piscina;1;110000;34;;lunes;11:00;12:00;2024-05-12;2024-06-11
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";linea3_piscina1;piscina;1;250000;;;jueves;17:00;18:00;2025-07-25;2025-10-23
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";linea4_piscina1;piscina;1;220000;74;;sabado;09:00;10:00;2024-08-19;2024-09-18
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";linea5_piscina1;piscina;1;210000;2;;jueves;09:00;10:00;2025-06-09;2025-06-16
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";linea6_piscina1;piscina;1;140000;64;;jueves;11:00;12:00;2024-05-21;2024-08-19
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";linea7_piscina1;piscina;1;30000;;;martes;08:00;09:00;2024-02-03;2024-04-03
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";linea8_piscina1;piscina;1;250000;51;;sabado;17:00;18:00;2024-10-25;2024-11-24
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";linea1_piscina2;piscina;1;110000;41;;domingo;10:00;11:00;2025-01-26;2025-02-02
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";linea2_piscina2;piscina;1;30000;43;;sabado;11:00;12:00;2024-01-23;2024-01-30
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";linea3_piscina2;piscina;1;10000;65;;domingo;14:00;15:00;2025-01-05;2025-03-06
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";linea4_piscina2;piscina;1;160000;;;jueves;21:00;22:00;2024-07-21;2024-08-20
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";linea5_piscina2;piscina;1;230000;7;;martes;11:00;12:00;2024-02-28;2024-03-29
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";linea6_piscina2;piscina;1;40000;64;;jueves;08:00;08:30;2024-02-26;2024-03-04
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";linea7_piscina2;piscina;1;110000;;;domingo;18:00;19:00;2025-11-22;2025-12-22
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";linea8_piscina2;piscina;1;80000;52;;lunes;08:00;08:30;2025-03-23;2025-05-22
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";SalonEventos1;salon_eventos;85;120000;17;;sabado;08:00;14:00;2024-12-19;2025-01-18
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";SalonEventos2;salon_eventos;130;240000;36;;jueves;08:00;08:30;2025-03-03;2025-05-02
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";SalonEventos3;salon_eventos;166;70000;5;;jueves;08:00;14:00;2025-03-20;2025-04-03
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";SalonEventos4;salon_eventos;122;80000;;;jueves;20:00;23:59;2024-07-21;2024-07-28
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cabana1;cabana;8;30000;6;dia;miercoles;00:00;23:59;2025-03-26;2025-06-24
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cabana2;cabana;4;90000;;dia;martes;00:00;23:59;;2024-07-20
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cabana3;cabana;8;80000;;dia;domingo;00:00;23:59;2024-08-13;2024-11-11
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cabana4;cabana;7;70000;54;dia;martes;00:00;23:59;2025-03-25;2025-06-23
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cabana5;cabana;8;210000;;dia;lunes;00:00;23:59;2024-08-17;2024-10-16
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cabana6;cabana;6;250000;9;dia;lunes;00:00;23:59;2025-02-13;2025-05-14
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cabana7;cabana;8;220000;75;dia;jueves;00:00;23:59;2024-02-08;2024-02-15
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cabana8;cabana;8;230000;;dia;martes;00:00;23:59;2025-06-14;2025-06-21
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cabana9;cabana;7;240000;20;dia;lunes;00:00;23:59;2024-08-07;2024-11-05
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cabana10;cabana;8;90000;;dia;viernes;00:00;23:59;2024-08-02;2024-08-16
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cabana11;cabana;7;230000;;dia;sabado;00:00;23:59;2025-09-02;2025-11-01
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cabana12;cabana;5;240000;;dia;sabado;00:00;23:59;2025-03-03;2025-05-02
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cabana13;cabana;6;140000;;dia;miercoles;00:00;23:59;2025-11-26;2026-02-24
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cabana14;cabana;7;20000;52;dia;viernes;00:00;23:59;2025-11-15;2025-12-15
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cabana15;cabana;8;130000;43;dia;lunes;00:00;23:59;2024-03-29;2024-04-12
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cabana16;cabana;6;120000;;dia;miercoles;00:00;23:59;2024-07-15;2024-09-13
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cabana17;cabana;6;200000;45;dia;lunes;00:00;23:59;2025-10-01;2025-11-30
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cabana18;cabana;7;80000;;dia;miercoles;00:00;23:59;2025-08-16;2025-09-15
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cabana19;cabana;8;240000;45;dia;lunes;00:00;23:59;2024-09-12;2024-11-11
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cabana20;cabana;5;190000;;dia;sabado;00:00;23:59;2025-10-07;2025-10-21
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cancha_tenis_aire_libre;cancha_aire_libre;19;90000;43;hora;martes;10:00;11:00;2024-08-17;2024-11-15
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cancha_tenis_techada;cancha_techada;22;240000;;hora;martes;08:00;08:30;2025-05-04;2025-06-03
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cancha_basquetbol_aire_libre;cancha_aire_libre;11;30000;40;hora;domingo;19:00;20:00;2024-05-22;2024-05-29
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cancha_basquetbol_techada;cancha_techada;21;30000;16;hora;miercoles;21:00;22:00;2024-05-21;2024-05-28
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cancha_futbolito_aire_libre;cancha_aire_libre;14;40000;;hora;viernes;22:00;23:00;2024-05-10;2024-06-09
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cancha_futbolito_techada;cancha_techada;11;180000;67;hora;martes;12:00;13:00;2024-03-04;2024-04-03
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cancha_padel_aire_libre;cancha_aire_libre;19;120000;;hora;miercoles;13:00;14:00;2024-09-18;2024-10-18
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cancha_padel_techada;cancha_techada;18;70000;;hora;viernes;10:00;11:00;2024-01-17;2024-04-16
+"Santiago Centro";"Av Alameda 900";Santiago;linea1_piscina1;piscina;1;240000;46;;miercoles;14:00;15:00;2024-04-21;2024-07-20
+"Santiago Centro";"Av Alameda 900";Santiago;linea2_piscina1;piscina;1;200000;12;;sabado;22:00;23:00;2024-12-24;2025-03-24
+"Santiago Centro";"Av Alameda 900";Santiago;linea3_piscina1;piscina;1;80000;;;sabado;18:00;19:00;2025-06-09;2025-07-09
+"Santiago Centro";"Av Alameda 900";Santiago;linea4_piscina1;piscina;1;10000;80;;martes;17:00;18:00;2025-08-05;2025-08-19
+"Santiago Centro";"Av Alameda 900";Santiago;linea5_piscina1;piscina;1;110000;;;miercoles;08:00;09:00;2025-11-23;2025-11-30
+"Santiago Centro";"Av Alameda 900";Santiago;linea6_piscina1;piscina;1;150000;74;;sabado;16:00;17:00;2025-01-01;2025-01-08
+"Santiago Centro";"Av Alameda 900";Santiago;linea7_piscina1;piscina;1;140000;;;miercoles;09:00;10:00;2025-11-28;2026-02-26
+"Santiago Centro";"Av Alameda 900";Santiago;linea8_piscina1;piscina;1;180000;;;martes;12:00;13:00;2024-06-11;2024-09-09
+"Santiago Centro";"Av Alameda 900";Santiago;linea1_piscina2;piscina;1;130000;9;;lunes;18:00;19:00;2024-12-24;2025-01-07
+"Santiago Centro";"Av Alameda 900";Santiago;linea2_piscina2;piscina;1;250000;57;;martes;22:00;23:00;;2025-12-13
+"Santiago Centro";"Av Alameda 900";Santiago;linea3_piscina2;piscina;1;100000;16;;lunes;20:00;21:00;2025-02-17;2025-04-18
+"Santiago Centro";"Av Alameda 900";Santiago;linea4_piscina2;piscina;1;110000;;;martes;15:00;16:00;2024-02-15;2024-03-16
+"Santiago Centro";"Av Alameda 900";Santiago;linea5_piscina2;piscina;1;50000;65;;domingo;13:00;14:00;2024-05-08;2024-05-22
+"Santiago Centro";"Av Alameda 900";Santiago;linea6_piscina2;piscina;1;100000;76;;viernes;10:00;11:00;2024-12-13;2025-03-13
+"Santiago Centro";"Av Alameda 900";Santiago;linea7_piscina2;piscina;1;160000;0;;viernes;12:00;13:00;2024-08-27;2024-09-10
+"Santiago Centro";"Av Alameda 900";Santiago;linea8_piscina2;piscina;1;240000;7;;viernes;19:00;20:00;2024-04-30;2024-05-30
+"Santiago Centro";"Av Alameda 900";Santiago;SalonEventos1;salon_eventos;136;70000;;;jueves;08:00;14:00;2024-12-03;2025-01-02
+"Santiago Centro";"Av Alameda 900";Santiago;SalonEventos2;salon_eventos;120;20000;53;;viernes;20:00;23:59;2025-03-01;2025-03-15
+"Santiago Centro";"Av Alameda 900";Santiago;SalonEventos3;salon_eventos;118;80000;67;dia;domingo;00:00;23:59;2025-08-13;2025-09-12
+"Santiago Centro";"Av Alameda 900";Santiago;SalonEventos4;salon_eventos;103;180000;37;;sabado;20:00;23:59;2024-11-09;2025-02-07
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana1;cabana;6;230000;30;dia;miercoles;00:00;23:59;2025-09-01;2025-09-08
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana2;cabana;4;220000;22;dia;martes;00:00;23:59;2024-04-13;2024-04-20
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana4;cabana;7;100000;29;dia;viernes;00:00;23:59;2024-11-06;2024-12-06
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana5;cabana;6;240000;73;dia;jueves;00:00;23:59;2025-11-24;2026-02-22
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana6;cabana;7;170000;11;dia;jueves;00:00;23:59;2024-12-08;2024-12-15
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana7;cabana;4;200000;;dia;jueves;00:00;23:59;2025-07-23;2025-09-21
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana8;cabana;7;210000;;dia;viernes;00:00;23:59;2024-02-03;2024-03-04
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana9;cabana;4;10000;;dia;lunes;00:00;23:59;2025-07-27;2025-09-25
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana10;cabana;6;20000;29;dia;martes;00:00;23:59;2024-12-30;2025-01-13
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana11;cabana;6;50000;15;dia;martes;00:00;23:59;2024-12-09;2024-12-16
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana12;cabana;8;120000;4;dia;martes;00:00;23:59;2024-05-28;2024-08-26
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana13;cabana;6;10000;;dia;martes;00:00;23:59;2025-03-29;2025-04-12
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana14;cabana;4;50000;53;dia;martes;00:00;23:59;2025-05-19;2025-06-18
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana15;cabana;4;250000;50;dia;lunes;00:00;23:59;2024-09-16;2024-12-15
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana16;cabana;6;20000;51;dia;lunes;00:00;23:59;2025-09-06;2025-11-05
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana17;cabana;5;90000;6;dia;domingo;00:00;23:59;2025-06-13;2025-09-11
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana18;cabana;8;210000;65;dia;jueves;00:00;23:59;2025-05-14;2025-05-21
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana19;cabana;6;110000;35;dia;lunes;00:00;23:59;2024-09-19;2024-10-03
+"Santiago Centro";"Av Alameda 900";Santiago;Cancha_tenis_aire_libre;cancha_aire_libre;19;140000;12;hora;lunes;08:00;09:00;2025-07-29;2025-10-27
+"Santiago Centro";"Av Alameda 900";Santiago;Cancha_tenis_techada;cancha_techada;20;250000;;hora;miercoles;14:00;15:00;2025-11-29;2025-12-29
+"Santiago Centro";"Av Alameda 900";Santiago;Cancha_basquetbol_techada;cancha_techada;17;60000;;hora;sabado;08:00;09:00;2025-10-05;2025-11-04
+"Santiago Centro";"Av Alameda 900";Santiago;Cancha_futbolito_aire_libre;cancha_aire_libre;15;90000;49;hora;martes;09:00;10:00;2025-10-17;2025-12-16
+"Santiago Centro";"Av Alameda 900";Santiago;Cancha_futbolito_techada;cancha_techada;16;190000;58;hora;sabado;14:00;15:00;2025-04-09;2025-05-09
+"Santiago Centro";"Av Alameda 900";Santiago;Cancha_padel_aire_libre;cancha_aire_libre;12;150000;49;hora;sabado;21:00;22:00;2025-06-01;2025-06-08
+Providencia;"Av Pedro de Valdivia 2100";Providencia;linea1_piscina1;piscina;1;40000;66;;sabado;08:00;08:30;2024-04-07;2024-04-21
+Providencia;"Av Pedro de Valdivia 2100";Providencia;linea2_piscina1;piscina;1;80000;64;;martes;22:00;23:00;2025-09-06;2025-11-05
+Providencia;"Av Pedro de Valdivia 2100";Providencia;linea3_piscina1;piscina;1;90000;;;domingo;19:00;20:00;2024-04-11;2024-05-11
+Providencia;"Av Pedro de Valdivia 2100";Providencia;linea4_piscina1;piscina;1;30000;73;;miercoles;16:00;17:00;2025-12-01;2025-12-08
+Providencia;"Av Pedro de Valdivia 2100";Providencia;linea6_piscina1;piscina;1;180000;;;viernes;18:00;19:00;2025-10-27;2025-11-10
+Providencia;"Av Pedro de Valdivia 2100";Providencia;linea8_piscina1;piscina;1;160000;1;;miercoles;09:00;10:00;;2024-06-20
+Providencia;"Av Pedro de Valdivia 2100";Providencia;linea1_piscina2;piscina;1;140000;57;;miercoles;10:00;11:00;2024-10-21;2024-10-28
+Providencia;"Av Pedro de Valdivia 2100";Providencia;linea2_piscina2;piscina;1;220000;;;lunes;09:00;10:00;2025-10-12;2025-10-26
+Providencia;"Av Pedro de Valdivia 2100";Providencia;linea3_piscina2;piscina;1;200000;27;;domingo;21:00;22:00;2024-04-28;2024-05-28
+Providencia;"Av Pedro de Valdivia 2100";Providencia;linea5_piscina2;piscina;1;90000;78;;sabado;11:00;12:00;2024-01-07;2024-02-06
+Providencia;"Av Pedro de Valdivia 2100";Providencia;linea6_piscina2;piscina;1;160000;60;;martes;21:00;22:00;2024-05-13;2024-07-12
+Providencia;"Av Pedro de Valdivia 2100";Providencia;linea7_piscina2;piscina;1;140000;;;viernes;09:00;10:00;2025-09-25;2025-10-25
+Providencia;"Av Pedro de Valdivia 2100";Providencia;linea8_piscina2;piscina;1;220000;49;;domingo;17:00;18:00;2025-04-13;2025-04-27
+Providencia;"Av Pedro de Valdivia 2100";Providencia;SalonEventos1;salon_eventos;133;190000;;;lunes;20:00;23:59;2025-06-27;2025-07-04
+Providencia;"Av Pedro de Valdivia 2100";Providencia;SalonEventos2;salon_eventos;147;250000;36;;martes;20:00;23:59;2025-11-24;2025-12-01
+Providencia;"Av Pedro de Valdivia 2100";Providencia;SalonEventos4;salon_eventos;45;140000;42;;miercoles;08:00;14:00;2024-07-16;2024-08-15
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana1;cabana;5;130000;64;dia;viernes;00:00;23:59;2025-03-04;2025-03-18
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana2;cabana;7;190000;4;dia;viernes;00:00;23:59;2025-09-06;2025-12-05
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana3;cabana;8;20000;65;dia;lunes;00:00;23:59;2024-12-14;2025-01-13
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana4;cabana;4;90000;;dia;miercoles;00:00;23:59;2024-07-07;2024-07-21
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana5;cabana;7;80000;30;dia;miercoles;00:00;23:59;2024-01-21;2024-03-21
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana6;cabana;8;210000;;dia;miercoles;00:00;23:59;2025-09-25;2025-10-09
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana7;cabana;5;210000;45;dia;miercoles;00:00;23:59;2025-02-12;2025-03-14
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana8;cabana;5;110000;17;dia;viernes;00:00;23:59;2024-01-27;2024-02-03
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana9;cabana;4;150000;71;dia;martes;00:00;23:59;2025-11-28;2025-12-12
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana10;cabana;5;240000;44;dia;lunes;00:00;23:59;2024-05-13;2024-05-20
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana11;cabana;8;210000;;dia;domingo;00:00;23:59;2024-07-05;2024-07-12
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana12;cabana;4;90000;9;dia;martes;00:00;23:59;2024-11-29;2025-01-28
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana13;cabana;5;90000;11;dia;jueves;00:00;23:59;2025-04-01;2025-04-15
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana14;cabana;8;80000;76;dia;jueves;00:00;23:59;2024-03-18;2024-04-17
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana15;cabana;6;120000;33;dia;martes;00:00;23:59;2025-08-25;2025-10-24
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana16;cabana;5;180000;;dia;domingo;00:00;23:59;2024-07-03;2024-08-02
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana17;cabana;7;180000;58;dia;viernes;00:00;23:59;2024-07-26;2024-08-25
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana18;cabana;6;190000;60;dia;lunes;00:00;23:59;2025-01-04;2025-01-11
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana19;cabana;5;180000;73;dia;jueves;00:00;23:59;2024-03-01;2024-03-15
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana20;cabana;7;120000;68;dia;martes;00:00;23:59;2024-03-12;2024-03-26
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cancha_tenis_aire_libre;cancha_aire_libre;17;120000;;hora;viernes;16:00;17:00;2024-01-13;2024-01-20
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cancha_tenis_techada;cancha_techada;10;170000;;hora;miercoles;15:00;16:00;2025-11-29;2025-12-13
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cancha_basquetbol_aire_libre;cancha_aire_libre;11;120000;;hora;lunes;18:00;19:00;2024-04-10;2024-04-17
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cancha_basquetbol_techada;cancha_techada;15;120000;70;hora;domingo;20:00;21:00;2025-06-10;2025-08-09
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cancha_futbolito_aire_libre;cancha_aire_libre;21;250000;73;hora;viernes;09:00;10:00;2025-03-06;2025-03-13
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cancha_futbolito_techada;cancha_techada;18;140000;64;hora;miercoles;13:00;14:00;2025-06-28;2025-09-26
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cancha_padel_aire_libre;cancha_aire_libre;20;90000;;hora;lunes;22:00;23:00;2025-10-18;2025-11-01
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cancha_padel_techada;cancha_techada;14;70000;;hora;martes;11:00;12:00;2024-10-28;2024-11-27
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";linea1_piscina1;piscina;1;10000;76;;viernes;18:00;19:00;2024-06-22;2024-07-06
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";linea2_piscina1;piscina;1;110000;12;;miercoles;16:00;17:00;2024-01-04;2024-04-03
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";linea3_piscina1;piscina;1;10000;;;lunes;10:00;11:00;2024-02-27;2024-03-28
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";linea4_piscina1;piscina;1;120000;21;;martes;21:00;22:00;2024-12-02;2025-03-02
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";linea5_piscina1;piscina;1;130000;;;martes;19:00;20:00;2024-11-02;2025-01-01
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";linea6_piscina1;piscina;1;140000;;;domingo;15:00;16:00;2025-06-01;2025-06-15
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";linea7_piscina1;piscina;1;220000;42;;domingo;18:00;19:00;2025-10-27;2025-11-26
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";linea1_piscina2;piscina;1;120000;36;;viernes;08:00;09:00;2024-10-31;2024-12-30
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";linea2_piscina2;piscina;1;100000;65;;miercoles;18:00;19:00;2025-06-23;2025-08-22
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";linea3_piscina2;piscina;1;40000;64;;jueves;22:00;23:00;2024-01-08;2024-03-08
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";linea4_piscina2;piscina;1;240000;53;;lunes;14:00;15:00;2025-09-28;2025-10-28
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";linea5_piscina2;piscina;1;190000;;;lunes;08:00;09:00;2025-10-24;2025-11-07
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";linea6_piscina2;piscina;1;20000;51;;miercoles;12:00;13:00;2025-03-13;2025-03-27
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";linea7_piscina2;piscina;1;40000;3;;sabado;15:00;16:00;2024-03-27;2024-04-26
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";SalonEventos1;salon_eventos;85;160000;;dia;martes;00:00;23:59;2025-01-06;2025-01-13
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";SalonEventos2;salon_eventos;123;210000;79;dia;sabado;00:00;23:59;2024-04-03;2024-06-02
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";SalonEventos3;salon_eventos;23;190000;35;dia;miercoles;00:00;23:59;2025-02-18;2025-03-20
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";SalonEventos4;salon_eventos;126;90000;58;;miercoles;14:00;20:00;2024-01-29;2024-02-05
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana1;cabana;6;130000;4;dia;viernes;00:00;23:59;2024-09-28;2024-10-05
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana2;cabana;7;230000;77;dia;domingo;00:00;23:59;2024-11-16;2025-01-15
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana3;cabana;7;30000;42;dia;lunes;00:00;23:59;2025-05-22;2025-05-29
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana4;cabana;7;150000;59;dia;sabado;00:00;23:59;2025-10-04;2026-01-02
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana5;cabana;6;170000;59;dia;miercoles;00:00;23:59;2024-04-13;2024-05-13
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana6;cabana;8;40000;;dia;miercoles;00:00;23:59;2025-01-28;2025-02-27
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana7;cabana;5;250000;44;dia;sabado;00:00;23:59;2025-03-21;2025-04-20
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana8;cabana;7;250000;45;dia;sabado;00:00;23:59;2025-01-04;2025-01-18
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana9;cabana;5;10000;37;dia;domingo;00:00;23:59;2025-10-22;2025-10-29
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana10;cabana;5;60000;61;dia;jueves;00:00;23:59;2024-08-10;2024-10-09
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana11;cabana;7;190000;20;dia;viernes;00:00;23:59;2024-07-18;2024-10-16
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana12;cabana;7;180000;;dia;lunes;00:00;23:59;2024-01-06;2024-01-20
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana13;cabana;5;90000;;dia;martes;00:00;23:59;2025-03-25;2025-06-23
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana14;cabana;8;50000;4;dia;lunes;00:00;23:59;2024-03-19;2024-04-18
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana16;cabana;5;30000;20;dia;viernes;00:00;23:59;2024-08-19;2024-09-02
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana17;cabana;5;140000;;dia;martes;00:00;23:59;2025-11-07;2026-02-05
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana18;cabana;8;250000;78;dia;lunes;00:00;23:59;2024-01-22;2024-02-21
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana19;cabana;6;120000;72;dia;sabado;00:00;23:59;2025-03-16;2025-03-23
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana20;cabana;4;160000;;dia;martes;00:00;23:59;2025-09-20;2025-09-27
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cancha_tenis_aire_libre;cancha_aire_libre;13;160000;76;hora;miercoles;14:00;15:00;2024-02-04;2024-02-11
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cancha_tenis_techada;cancha_techada;21;120000;66;hora;domingo;22:00;23:00;2025-11-16;2025-12-16
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cancha_basquetbol_aire_libre;cancha_aire_libre;16;20000;40;hora;miercoles;15:00;16:00;2024-10-02;2024-10-16
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cancha_basquetbol_techada;cancha_techada;16;170000;;hora;jueves;20:00;21:00;2025-10-01;2025-12-30
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cancha_futbolito_aire_libre;cancha_aire_libre;18;130000;17;hora;lunes;20:00;21:00;2025-06-09;2025-06-23
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cancha_futbolito_techada;cancha_techada;15;220000;57;hora;lunes;09:00;10:00;2025-05-12;2025-08-10
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cancha_padel_aire_libre;cancha_aire_libre;10;20000;13;hora;lunes;13:00;14:00;2024-01-14;2024-01-28
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cancha_padel_techada;cancha_techada;22;10000;49;hora;viernes;20:00;21:00;2024-05-12;2024-05-26
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";linea1_piscina1;piscina;1;170000;5;;viernes;21:00;22:00;2024-08-27;2024-09-26
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";linea2_piscina1;piscina;1;240000;;;miercoles;08:00;09:00;2025-06-10;2025-07-10
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";linea3_piscina1;piscina;1;70000;;;jueves;17:00;18:00;2024-09-28;2024-10-28
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";linea4_piscina1;piscina;1;50000;;;lunes;22:00;23:00;2024-03-19;2024-04-18
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";linea5_piscina1;piscina;1;40000;54;;jueves;14:00;15:00;2024-08-29;2024-09-05
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";linea6_piscina1;piscina;1;180000;10;;domingo;08:00;08:30;2024-05-10;2024-08-08
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";linea7_piscina1;piscina;1;60000;58;;martes;18:00;19:00;2024-03-02;2024-04-01
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";linea8_piscina1;piscina;1;80000;19;;viernes;18:00;19:00;2024-09-20;2024-10-04
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";linea1_piscina2;piscina;1;110000;22;;domingo;20:00;21:00;2024-12-26;2025-01-09
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";linea3_piscina2;piscina;1;190000;32;;viernes;09:00;10:00;2025-10-20;2025-12-19
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";linea4_piscina2;piscina;1;10000;25;;viernes;10:00;11:00;;2025-09-21
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";linea5_piscina2;piscina;1;30000;;;sabado;09:00;10:00;2025-11-30;2026-01-29
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";linea6_piscina2;piscina;1;140000;66;;domingo;11:00;12:00;2024-12-21;2025-02-19
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";linea7_piscina2;piscina;1;210000;41;;viernes;19:00;20:00;2024-09-03;2024-09-17
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";linea8_piscina2;piscina;1;50000;;;jueves;18:00;19:00;2025-04-06;2025-06-05
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";SalonEventos1;salon_eventos;145;160000;53;;domingo;20:00;23:59;2024-03-01;2024-03-15
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";SalonEventos2;salon_eventos;129;100000;;;martes;08:00;14:00;2024-10-02;2024-10-16
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";SalonEventos3;salon_eventos;85;70000;;;miercoles;20:00;23:59;2025-01-28;2025-02-27
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";SalonEventos4;salon_eventos;54;230000;65;dia;martes;00:00;23:59;2025-02-19;2025-05-20
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cabana1;cabana;5;100000;78;dia;viernes;00:00;23:59;2024-12-15;2025-02-13
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cabana2;cabana;4;40000;80;dia;sabado;00:00;23:59;2024-08-29;2024-09-28
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cabana3;cabana;6;90000;80;dia;martes;00:00;23:59;2024-09-11;2024-09-18
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cabana4;cabana;5;80000;69;dia;sabado;00:00;23:59;2024-06-05;2024-08-04
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cabana5;cabana;5;250000;0;dia;sabado;00:00;23:59;2025-12-01;2026-03-01
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cabana6;cabana;6;190000;40;dia;jueves;00:00;23:59;2024-03-24;2024-04-07
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cabana7;cabana;5;100000;15;dia;viernes;00:00;23:59;2025-05-18;2025-07-17
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cabana8;cabana;4;120000;57;dia;lunes;00:00;23:59;2025-01-28;2025-02-27
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cabana9;cabana;5;50000;50;dia;sabado;00:00;23:59;2024-02-23;2024-04-23
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cabana10;cabana;6;210000;64;dia;miercoles;00:00;23:59;2025-04-12;2025-05-12
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cabana11;cabana;8;80000;;dia;domingo;00:00;23:59;2025-08-06;2025-11-04
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cabana12;cabana;7;30000;;dia;domingo;00:00;23:59;2025-01-25;2025-03-26
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cabana13;cabana;7;190000;65;dia;jueves;00:00;23:59;2024-01-09;2024-04-08
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cabana14;cabana;5;180000;12;dia;lunes;00:00;23:59;2024-02-14;2024-05-14
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cabana15;cabana;5;230000;56;dia;lunes;00:00;23:59;2025-03-09;2025-06-07
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cabana16;cabana;7;90000;;dia;domingo;00:00;23:59;2025-08-21;2025-11-19
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cabana17;cabana;8;10000;13;dia;lunes;00:00;23:59;2025-03-17;2025-03-31
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cabana18;cabana;5;110000;72;dia;miercoles;00:00;23:59;2025-10-06;2025-10-20
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cabana19;cabana;6;70000;;dia;viernes;00:00;23:59;2025-03-27;2025-04-26
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cabana20;cabana;7;80000;12;dia;domingo;00:00;23:59;2025-08-15;2025-08-22
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cancha_tenis_aire_libre;cancha_aire_libre;10;140000;;hora;lunes;18:00;19:00;2025-08-19;2025-11-17
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cancha_tenis_techada;cancha_techada;14;120000;54;hora;viernes;11:00;12:00;2024-01-30;2024-04-29
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cancha_basquetbol_aire_libre;cancha_aire_libre;12;150000;67;hora;miercoles;16:00;17:00;2024-02-25;2024-03-03
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cancha_basquetbol_techada;cancha_techada;12;160000;72;hora;lunes;22:00;23:00;2025-08-10;2025-10-09
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cancha_futbolito_aire_libre;cancha_aire_libre;10;50000;24;hora;viernes;11:00;12:00;2025-06-23;2025-07-23
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cancha_futbolito_techada;cancha_techada;21;60000;19;hora;lunes;12:00;13:00;2025-01-29;2025-02-05
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cancha_padel_aire_libre;cancha_aire_libre;18;160000;;hora;viernes;22:00;23:00;2025-01-21;2025-01-28
+"Santiago Centro";"Av Alameda 900";Santiago;linea1_piscina1;piscina;1;110000;55;;jueves;13:00;14:00;2025-03-26;2025-04-02
+"Santiago Centro";"Av Alameda 900";Santiago;linea2_piscina1;piscina;1;70000;18;;jueves;16:00;17:00;2025-06-18;2025-08-17
+"Santiago Centro";"Av Alameda 900";Santiago;linea3_piscina1;piscina;1;170000;;;miercoles;17:00;18:00;2024-03-18;2024-06-16
+"Santiago Centro";"Av Alameda 900";Santiago;linea4_piscina1;piscina;1;150000;69;;domingo;13:00;14:00;2025-04-06;2025-04-20
+"Santiago Centro";"Av Alameda 900";Santiago;linea5_piscina1;piscina;1;100000;37;;sabado;16:00;17:00;2024-04-21;2024-05-05
+"Santiago Centro";"Av Alameda 900";Santiago;linea6_piscina1;piscina;1;150000;;;miercoles;08:00;09:00;2025-09-25;2025-10-25
+"Santiago Centro";"Av Alameda 900";Santiago;linea7_piscina1;piscina;1;130000;;;sabado;18:00;19:00;2024-01-16;2024-04-15
+"Santiago Centro";"Av Alameda 900";Santiago;linea8_piscina1;piscina;1;40000;32;;sabado;17:00;18:00;2024-06-30;2024-07-14
+"Santiago Centro";"Av Alameda 900";Santiago;linea1_piscina2;piscina;1;40000;3;;sabado;11:00;12:00;2025-02-15;2025-03-17
+"Santiago Centro";"Av Alameda 900";Santiago;linea2_piscina2;piscina;1;210000;60;;miercoles;11:00;12:00;2024-08-18;2024-09-17
+"Santiago Centro";"Av Alameda 900";Santiago;linea3_piscina2;piscina;1;140000;48;;martes;10:00;11:00;2025-01-24;2025-04-24
+"Santiago Centro";"Av Alameda 900";Santiago;linea4_piscina2;piscina;1;170000;70;;miercoles;08:00;09:00;2024-12-07;2024-12-21
+"Santiago Centro";"Av Alameda 900";Santiago;linea5_piscina2;piscina;1;20000;39;;jueves;15:00;16:00;2025-03-26;2025-05-25
+"Santiago Centro";"Av Alameda 900";Santiago;linea6_piscina2;piscina;1;110000;76;;martes;19:00;20:00;2025-08-17;2025-10-16
+"Santiago Centro";"Av Alameda 900";Santiago;linea7_piscina2;piscina;1;100000;;;sabado;10:00;11:00;2025-05-04;2025-05-18
+"Santiago Centro";"Av Alameda 900";Santiago;linea8_piscina2;piscina;1;240000;;;martes;20:00;21:00;2024-07-22;2024-09-20
+"Santiago Centro";"Av Alameda 900";Santiago;SalonEventos1;salon_eventos;38;90000;40;;martes;20:00;23:59;2025-01-30;2025-04-30
+"Santiago Centro";"Av Alameda 900";Santiago;SalonEventos2;salon_eventos;25;130000;;;jueves;20:00;23:59;2025-04-16;2025-04-30
+"Santiago Centro";"Av Alameda 900";Santiago;SalonEventos3;salon_eventos;87;140000;;dia;sabado;00:00;23:59;2025-09-05;2025-12-04
+"Santiago Centro";"Av Alameda 900";Santiago;SalonEventos4;salon_eventos;176;150000;;;viernes;08:00;14:00;2025-07-10;2025-09-08
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana1;cabana;6;30000;33;dia;sabado;00:00;23:59;2024-03-18;2024-05-17
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana2;cabana;4;250000;64;dia;martes;00:00;23:59;2025-04-06;2025-04-20
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana3;cabana;7;100000;18;dia;viernes;00:00;23:59;2025-06-29;2025-07-13
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana4;cabana;5;220000;47;dia;viernes;00:00;23:59;2025-03-13;2025-06-11
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana5;cabana;5;190000;;dia;miercoles;00:00;23:59;2024-08-02;2024-08-09
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana6;cabana;7;70000;39;dia;domingo;00:00;23:59;2024-06-13;2024-06-20
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana7;cabana;6;190000;;dia;sabado;00:00;23:59;2024-05-20;2024-06-19
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana8;cabana;7;30000;11;dia;jueves;00:00;23:59;2025-05-15;2025-08-13
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana9;cabana;8;110000;6;dia;lunes;00:00;23:59;2024-08-24;2024-08-31
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana10;cabana;5;130000;;dia;domingo;00:00;23:59;2025-10-18;2026-01-16
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana11;cabana;5;220000;;dia;sabado;00:00;23:59;;2024-08-13
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana12;cabana;8;240000;;dia;viernes;00:00;23:59;2025-11-11;2025-11-18
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana13;cabana;4;70000;37;dia;martes;00:00;23:59;2025-04-18;2025-05-02
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana14;cabana;8;110000;30;dia;viernes;00:00;23:59;2024-07-25;2024-08-01
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana15;cabana;4;40000;;dia;viernes;00:00;23:59;2024-04-17;2024-05-01
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana16;cabana;4;190000;19;dia;viernes;00:00;23:59;2024-06-08;2024-06-15
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana17;cabana;5;220000;19;dia;domingo;00:00;23:59;2025-02-05;2025-03-07
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana18;cabana;8;230000;;dia;domingo;00:00;23:59;2024-12-08;2025-01-07
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana19;cabana;6;50000;54;dia;jueves;00:00;23:59;2024-01-19;2024-04-18
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana20;cabana;4;240000;;dia;lunes;00:00;23:59;2025-04-10;2025-07-09
+"Santiago Centro";"Av Alameda 900";Santiago;Cancha_tenis_aire_libre;cancha_aire_libre;21;10000;9;hora;martes;16:00;17:00;2025-02-23;2025-03-25
+"Santiago Centro";"Av Alameda 900";Santiago;Cancha_tenis_techada;cancha_techada;18;80000;;hora;miercoles;09:00;10:00;2025-01-28;2025-02-04
+"Santiago Centro";"Av Alameda 900";Santiago;Cancha_basquetbol_aire_libre;cancha_aire_libre;16;130000;;hora;martes;13:00;14:00;2025-07-28;2025-10-26
+"Santiago Centro";"Av Alameda 900";Santiago;Cancha_basquetbol_techada;cancha_techada;22;180000;18;hora;jueves;18:00;19:00;2025-10-10;2025-11-09
+"Santiago Centro";"Av Alameda 900";Santiago;Cancha_futbolito_aire_libre;cancha_aire_libre;19;90000;;hora;domingo;10:00;11:00;2025-08-21;2025-09-04
+"Santiago Centro";"Av Alameda 900";Santiago;Cancha_padel_aire_libre;cancha_aire_libre;20;70000;58;hora;lunes;17:00;18:00;2024-09-11;2024-09-18
+"Santiago Centro";"Av Alameda 900";Santiago;Cancha_padel_techada;cancha_techada;13;90000;2;hora;lunes;20:00;21:00;2025-11-23;2026-02-21
+Providencia;"Av Pedro de Valdivia 2100";Providencia;linea1_piscina1;piscina;1;80000;2;;viernes;21:00;22:00;2025-11-03;2025-12-03
+Providencia;"Av Pedro de Valdivia 2100";Providencia;linea2_piscina1;piscina;1;160000;56;;domingo;16:00;17:00;2024-02-06;2024-05-06
+Providencia;"Av Pedro de Valdivia 2100";Providencia;linea3_piscina1;piscina;1;10000;48;;sabado;16:00;17:00;2024-09-21;2024-10-21
+Providencia;"Av Pedro de Valdivia 2100";Providencia;linea4_piscina1;piscina;1;120000;;;jueves;08:00;08:30;2025-02-19;2025-03-21
+Providencia;"Av Pedro de Valdivia 2100";Providencia;linea5_piscina1;piscina;1;200000;21;;martes;21:00;22:00;2024-03-16;2024-05-15
+Providencia;"Av Pedro de Valdivia 2100";Providencia;linea6_piscina1;piscina;1;120000;39;;sabado;20:00;21:00;2024-06-27;2024-07-27
+Providencia;"Av Pedro de Valdivia 2100";Providencia;linea7_piscina1;piscina;1;160000;;;viernes;21:00;22:00;2024-01-27;2024-02-10
+Providencia;"Av Pedro de Valdivia 2100";Providencia;linea8_piscina1;piscina;1;250000;22;;jueves;11:00;12:00;2025-07-29;2025-09-27
+Providencia;"Av Pedro de Valdivia 2100";Providencia;linea1_piscina2;piscina;1;220000;;;domingo;20:00;21:00;2025-07-14;2025-08-13
+Providencia;"Av Pedro de Valdivia 2100";Providencia;linea2_piscina2;piscina;1;100000;10;;viernes;17:00;18:00;;2025-05-20
+Providencia;"Av Pedro de Valdivia 2100";Providencia;linea3_piscina2;piscina;1;200000;;;jueves;17:00;18:00;;2025-07-14
+Providencia;"Av Pedro de Valdivia 2100";Providencia;linea4_piscina2;piscina;1;200000;;;lunes;22:00;23:00;2024-06-08;2024-09-06
+Providencia;"Av Pedro de Valdivia 2100";Providencia;linea5_piscina2;piscina;1;70000;0;;martes;14:00;15:00;2024-04-14;2024-06-13
+Providencia;"Av Pedro de Valdivia 2100";Providencia;linea6_piscina2;piscina;1;110000;19;;domingo;18:00;19:00;2025-03-05;2025-04-04
+Providencia;"Av Pedro de Valdivia 2100";Providencia;linea7_piscina2;piscina;1;70000;56;;miercoles;14:00;15:00;2025-10-07;2025-10-21
+Providencia;"Av Pedro de Valdivia 2100";Providencia;linea8_piscina2;piscina;1;120000;;;martes;14:00;15:00;2025-10-18;2026-01-16
+Providencia;"Av Pedro de Valdivia 2100";Providencia;SalonEventos1;salon_eventos;142;100000;25;;domingo;14:00;20:00;2024-08-04;2024-08-11
+Providencia;"Av Pedro de Valdivia 2100";Providencia;SalonEventos2;salon_eventos;130;130000;47;dia;domingo;00:00;23:59;2025-01-11;2025-04-11
+Providencia;"Av Pedro de Valdivia 2100";Providencia;SalonEventos3;salon_eventos;124;30000;62;;domingo;20:00;23:59;2025-08-21;2025-10-20
+Providencia;"Av Pedro de Valdivia 2100";Providencia;SalonEventos4;salon_eventos;198;80000;46;;lunes;08:00;14:00;2025-09-03;2025-09-17
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana2;cabana;5;210000;;dia;lunes;00:00;23:59;2024-09-16;2024-09-23
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana3;cabana;4;240000;28;dia;lunes;00:00;23:59;2024-05-07;2024-05-21
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana4;cabana;5;150000;50;dia;domingo;00:00;23:59;2024-06-19;2024-07-03
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana5;cabana;8;30000;79;dia;miercoles;00:00;23:59;2025-07-06;2025-07-20
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana6;cabana;8;160000;13;dia;domingo;00:00;23:59;2024-05-01;2024-05-08
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana7;cabana;7;190000;73;dia;sabado;00:00;23:59;2024-04-19;2024-05-19
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana8;cabana;4;120000;43;dia;viernes;00:00;23:59;2024-03-18;2024-04-17
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana9;cabana;8;30000;;dia;miercoles;00:00;23:59;2024-05-13;2024-05-20
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana10;cabana;5;150000;;dia;viernes;00:00;23:59;2025-03-19;2025-04-18
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana11;cabana;8;30000;43;dia;domingo;00:00;23:59;2025-08-02;2025-08-16
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana12;cabana;6;20000;55;dia;martes;00:00;23:59;2024-05-02;2024-07-31
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana13;cabana;5;230000;21;dia;domingo;00:00;23:59;2025-10-12;2025-12-11
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana14;cabana;6;140000;;dia;jueves;00:00;23:59;;2024-02-05
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana15;cabana;7;80000;78;dia;miercoles;00:00;23:59;2024-08-08;2024-09-07
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana16;cabana;5;120000;6;dia;viernes;00:00;23:59;;2025-03-06
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana17;cabana;6;200000;48;dia;jueves;00:00;23:59;2024-04-28;2024-05-12
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana20;cabana;7;200000;51;dia;viernes;00:00;23:59;2024-10-12;2024-12-11
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cancha_tenis_aire_libre;cancha_aire_libre;17;230000;;hora;sabado;14:00;15:00;2024-10-03;2024-10-10
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cancha_tenis_techada;cancha_techada;13;50000;26;hora;sabado;10:00;11:00;2025-09-25;2025-10-02
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cancha_basquetbol_aire_libre;cancha_aire_libre;18;230000;43;hora;domingo;18:00;19:00;2025-04-28;2025-07-27
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cancha_basquetbol_techada;cancha_techada;11;180000;36;hora;viernes;08:00;09:00;2025-03-04;2025-03-18
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cancha_futbolito_aire_libre;cancha_aire_libre;22;210000;58;hora;lunes;20:00;21:00;2025-05-22;2025-07-21
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cancha_futbolito_techada;cancha_techada;19;140000;71;hora;miercoles;13:00;14:00;;2026-01-18
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cancha_padel_techada;cancha_techada;11;150000;60;hora;sabado;09:00;10:00;2024-12-18;2025-01-17
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";linea1_piscina1;piscina;1;200000;34;;jueves;16:00;17:00;2025-08-09;2025-10-08
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";linea2_piscina1;piscina;1;20000;;;miercoles;18:00;19:00;2024-06-29;2024-07-13
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";linea3_piscina1;piscina;1;40000;49;;jueves;11:00;12:00;;2024-11-02
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";linea4_piscina1;piscina;1;230000;;;jueves;17:00;18:00;2024-08-03;2024-10-02
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";linea5_piscina1;piscina;1;60000;;;lunes;21:00;22:00;2025-02-24;2025-03-10
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";linea6_piscina1;piscina;1;100000;14;;sabado;20:00;21:00;2024-10-24;2024-12-23
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";linea7_piscina1;piscina;1;240000;;;sabado;08:00;09:00;2024-05-13;2024-07-12
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";linea8_piscina1;piscina;1;130000;;;jueves;10:00;11:00;2025-09-30;2025-10-30
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";linea1_piscina2;piscina;1;210000;33;;jueves;20:00;21:00;2025-02-09;2025-04-10
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";linea2_piscina2;piscina;1;180000;78;;jueves;19:00;20:00;2024-10-24;2024-12-23
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";linea3_piscina2;piscina;1;70000;;;martes;08:00;08:30;2025-03-31;2025-04-14
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";linea4_piscina2;piscina;1;120000;24;;domingo;17:00;18:00;2024-01-15;2024-01-29
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";linea5_piscina2;piscina;1;210000;;;sabado;17:00;18:00;2024-08-19;2024-09-02
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";linea6_piscina2;piscina;1;140000;;;miercoles;19:00;20:00;2024-04-22;2024-07-21
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";linea7_piscina2;piscina;1;210000;43;;jueves;09:00;10:00;2025-05-24;2025-07-23
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";linea8_piscina2;piscina;1;120000;;;domingo;18:00;19:00;2025-08-01;2025-10-30
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";SalonEventos1;salon_eventos;149;200000;47;dia;lunes;00:00;23:59;2024-03-11;2024-04-10
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";SalonEventos2;salon_eventos;62;120000;71;dia;jueves;00:00;23:59;2025-05-30;2025-06-13
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";SalonEventos3;salon_eventos;153;60000;;;jueves;20:00;23:59;2025-08-23;2025-11-21
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";SalonEventos4;salon_eventos;109;190000;;dia;miercoles;00:00;23:59;2025-11-26;2026-02-24
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana1;cabana;6;250000;39;dia;lunes;00:00;23:59;2024-09-09;2024-11-08
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana2;cabana;7;200000;32;dia;miercoles;00:00;23:59;2024-12-12;2024-12-19
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana3;cabana;4;20000;66;dia;miercoles;00:00;23:59;2024-07-09;2024-07-16
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana4;cabana;8;70000;45;dia;martes;00:00;23:59;2024-11-24;2024-12-01
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana5;cabana;8;80000;35;dia;sabado;00:00;23:59;2025-09-11;2025-10-11
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana6;cabana;5;60000;10;dia;viernes;00:00;23:59;2024-03-26;2024-04-25
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana8;cabana;8;230000;;dia;lunes;00:00;23:59;2024-07-16;2024-09-14
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana9;cabana;8;70000;;dia;sabado;00:00;23:59;2024-09-08;2024-11-07
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana10;cabana;6;120000;;dia;martes;00:00;23:59;2024-01-25;2024-02-08
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana11;cabana;4;200000;23;dia;jueves;00:00;23:59;2024-01-17;2024-02-16
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana12;cabana;8;250000;;dia;miercoles;00:00;23:59;2025-07-29;2025-10-27
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana13;cabana;6;130000;25;dia;jueves;00:00;23:59;2024-07-27;2024-08-03
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana14;cabana;5;220000;;dia;lunes;00:00;23:59;2024-03-17;2024-03-31
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana15;cabana;8;200000;14;dia;jueves;00:00;23:59;2025-09-05;2025-12-04
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana16;cabana;6;40000;;dia;miercoles;00:00;23:59;2025-05-06;2025-08-04
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana17;cabana;8;100000;35;dia;miercoles;00:00;23:59;2025-10-28;2025-11-11
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana18;cabana;6;160000;46;dia;sabado;00:00;23:59;2024-12-09;2024-12-16
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana19;cabana;6;30000;60;dia;domingo;00:00;23:59;2024-09-03;2024-11-02
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana20;cabana;4;210000;;dia;viernes;00:00;23:59;2024-01-17;2024-03-17
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cancha_tenis_aire_libre;cancha_aire_libre;18;190000;;hora;domingo;08:00;09:00;2025-11-05;2026-01-04
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cancha_tenis_techada;cancha_techada;14;190000;15;hora;martes;22:00;23:00;2024-07-02;2024-08-31
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cancha_basquetbol_aire_libre;cancha_aire_libre;11;190000;60;hora;domingo;10:00;11:00;2024-03-13;2024-03-27
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cancha_basquetbol_techada;cancha_techada;20;110000;;hora;domingo;12:00;13:00;2024-07-23;2024-08-22
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cancha_futbolito_aire_libre;cancha_aire_libre;12;60000;34;hora;lunes;18:00;19:00;2024-03-18;2024-05-17
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cancha_futbolito_techada;cancha_techada;15;140000;;hora;sabado;19:00;20:00;2024-03-19;2024-03-26
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cancha_padel_aire_libre;cancha_aire_libre;21;130000;69;hora;domingo;19:00;20:00;2024-06-21;2024-07-05
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cancha_padel_techada;cancha_techada;13;20000;0;hora;viernes;09:00;10:00;2025-12-01;2026-01-30
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";linea1_piscina1;piscina;1;70000;27;;viernes;21:00;22:00;2025-05-10;2025-08-08
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";linea4_piscina1;piscina;1;40000;45;;sabado;12:00;13:00;2024-06-21;2024-07-21
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";linea5_piscina1;piscina;1;180000;75;;viernes;13:00;14:00;2025-08-18;2025-10-17
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";linea6_piscina1;piscina;1;160000;25;;jueves;20:00;21:00;2025-07-05;2025-08-04
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";linea7_piscina1;piscina;1;150000;28;;jueves;15:00;16:00;2025-08-06;2025-08-13
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";linea8_piscina1;piscina;1;190000;68;;jueves;10:00;11:00;2025-01-26;2025-02-09
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";linea1_piscina2;piscina;1;20000;52;;domingo;17:00;18:00;2024-05-30;2024-06-13
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";linea2_piscina2;piscina;1;170000;74;;sabado;21:00;22:00;;2024-04-25
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";linea3_piscina2;piscina;1;20000;2;;domingo;09:00;10:00;2025-09-07;2025-09-14
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";linea4_piscina2;piscina;1;220000;;;lunes;13:00;14:00;2024-08-13;2024-11-11
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";linea5_piscina2;piscina;1;220000;;;domingo;16:00;17:00;2024-03-09;2024-06-07
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";linea6_piscina2;piscina;1;170000;8;;miercoles;08:00;09:00;2024-12-01;2024-12-08
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";linea7_piscina2;piscina;1;180000;;;jueves;14:00;15:00;2024-03-18;2024-06-16
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";linea8_piscina2;piscina;1;250000;77;;domingo;21:00;22:00;2024-07-08;2024-10-06
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";SalonEventos1;salon_eventos;55;140000;56;;viernes;08:00;14:00;2024-01-24;2024-03-24
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";SalonEventos2;salon_eventos;48;10000;30;dia;sabado;00:00;23:59;2024-07-30;2024-08-13
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";SalonEventos3;salon_eventos;185;100000;32;;jueves;20:00;23:59;2025-01-06;2025-01-13
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";SalonEventos4;salon_eventos;60;230000;;;viernes;14:00;20:00;2024-07-14;2024-07-21
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cabana1;cabana;4;180000;;dia;jueves;00:00;23:59;2024-02-20;2024-03-05
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cabana2;cabana;8;250000;;dia;domingo;00:00;23:59;2024-11-22;2025-02-20
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cabana3;cabana;4;220000;59;dia;viernes;00:00;23:59;2024-01-01;2024-03-01
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cabana4;cabana;7;230000;;dia;lunes;00:00;23:59;2024-10-08;2024-11-07
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cabana5;cabana;5;60000;54;dia;lunes;00:00;23:59;2025-02-18;2025-03-04
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cabana6;cabana;7;170000;;dia;lunes;00:00;23:59;2024-02-25;2024-03-03
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cabana7;cabana;8;70000;33;dia;miercoles;00:00;23:59;2025-07-16;2025-09-14
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cabana8;cabana;4;20000;44;dia;domingo;00:00;23:59;2025-05-05;2025-07-04
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cabana9;cabana;5;30000;;dia;lunes;00:00;23:59;2025-01-21;2025-02-20
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cabana10;cabana;5;140000;;dia;sabado;00:00;23:59;2025-05-06;2025-08-04
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cabana11;cabana;7;50000;33;dia;sabado;00:00;23:59;2025-07-17;2025-07-24
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cabana12;cabana;8;120000;;dia;martes;00:00;23:59;2025-04-12;2025-05-12
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cabana13;cabana;8;80000;5;dia;miercoles;00:00;23:59;2025-09-03;2025-09-10
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cabana14;cabana;7;40000;19;dia;sabado;00:00;23:59;2025-02-17;2025-05-18
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cabana15;cabana;6;60000;41;dia;domingo;00:00;23:59;2024-09-05;2024-11-04
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cabana16;cabana;7;80000;;dia;viernes;00:00;23:59;2025-11-09;2025-11-23
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cabana17;cabana;7;130000;;dia;viernes;00:00;23:59;2025-08-01;2025-08-15
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cabana18;cabana;6;150000;80;dia;lunes;00:00;23:59;2025-01-20;2025-02-03
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cabana19;cabana;5;220000;;dia;jueves;00:00;23:59;2024-07-16;2024-07-30
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cabana20;cabana;6;210000;50;dia;jueves;00:00;23:59;2025-03-05;2025-06-03
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cancha_tenis_aire_libre;cancha_aire_libre;11;70000;31;hora;miercoles;08:00;09:00;2024-07-04;2024-07-18
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cancha_tenis_techada;cancha_techada;18;70000;36;hora;domingo;19:00;20:00;2025-11-04;2025-12-04
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cancha_basquetbol_aire_libre;cancha_aire_libre;10;220000;23;hora;jueves;19:00;20:00;2024-09-14;2024-11-13
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cancha_basquetbol_techada;cancha_techada;21;130000;61;hora;miercoles;19:00;20:00;2024-12-08;2025-02-06
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cancha_futbolito_aire_libre;cancha_aire_libre;13;230000;70;hora;viernes;22:00;23:00;2024-12-22;2025-03-22
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cancha_futbolito_techada;cancha_techada;14;160000;;hora;domingo;16:00;17:00;2024-05-21;2024-06-20
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cancha_padel_aire_libre;cancha_aire_libre;12;160000;47;hora;jueves;11:00;12:00;2024-05-20;2024-06-03
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cancha_padel_techada;cancha_techada;19;70000;22;hora;jueves;16:00;17:00;2025-01-28;2025-03-29
+"Santiago Centro";"Av Alameda 900";Santiago;linea1_piscina1;piscina;1;240000;23;;martes;13:00;14:00;2025-06-07;2025-06-14
+"Santiago Centro";"Av Alameda 900";Santiago;linea2_piscina1;piscina;1;40000;38;;martes;15:00;16:00;2025-02-07;2025-02-14
+"Santiago Centro";"Av Alameda 900";Santiago;linea3_piscina1;piscina;1;80000;36;;domingo;18:00;19:00;2025-09-10;2025-09-17
+"Santiago Centro";"Av Alameda 900";Santiago;linea4_piscina1;piscina;1;150000;74;;jueves;09:00;10:00;2025-03-20;2025-04-03
+"Santiago Centro";"Av Alameda 900";Santiago;linea5_piscina1;piscina;1;150000;0;;jueves;10:00;11:00;2025-08-11;2025-08-18
+"Santiago Centro";"Av Alameda 900";Santiago;linea6_piscina1;piscina;1;100000;21;;jueves;17:00;18:00;2025-06-27;2025-08-26
+"Santiago Centro";"Av Alameda 900";Santiago;linea7_piscina1;piscina;1;60000;;;sabado;08:00;09:00;2025-09-14;2025-12-13
+"Santiago Centro";"Av Alameda 900";Santiago;linea8_piscina1;piscina;1;140000;14;;viernes;20:00;21:00;2025-03-18;2025-03-25
+"Santiago Centro";"Av Alameda 900";Santiago;linea1_piscina2;piscina;1;150000;1;;viernes;22:00;23:00;2024-06-16;2024-06-30
+"Santiago Centro";"Av Alameda 900";Santiago;linea2_piscina2;piscina;1;130000;16;;martes;21:00;22:00;2025-01-04;2025-01-11
+"Santiago Centro";"Av Alameda 900";Santiago;linea3_piscina2;piscina;1;40000;49;;jueves;13:00;14:00;2024-02-07;2024-03-08
+"Santiago Centro";"Av Alameda 900";Santiago;linea4_piscina2;piscina;1;170000;27;;viernes;14:00;15:00;2025-09-03;2025-12-02
+"Santiago Centro";"Av Alameda 900";Santiago;linea5_piscina2;piscina;1;140000;57;;miercoles;09:00;10:00;2024-11-26;2025-02-24
+"Santiago Centro";"Av Alameda 900";Santiago;linea6_piscina2;piscina;1;200000;;;jueves;08:00;09:00;2024-08-28;2024-09-04
+"Santiago Centro";"Av Alameda 900";Santiago;linea7_piscina2;piscina;1;90000;74;;sabado;18:00;19:00;2024-01-03;2024-01-17
+"Santiago Centro";"Av Alameda 900";Santiago;SalonEventos1;salon_eventos;106;240000;50;;lunes;08:00;14:00;2024-03-24;2024-04-07
+"Santiago Centro";"Av Alameda 900";Santiago;SalonEventos2;salon_eventos;31;210000;57;;domingo;08:00;08:30;2024-08-10;2024-08-24
+"Santiago Centro";"Av Alameda 900";Santiago;SalonEventos3;salon_eventos;36;190000;17;dia;domingo;00:00;23:59;2025-09-13;2025-09-27
+"Santiago Centro";"Av Alameda 900";Santiago;SalonEventos4;salon_eventos;119;30000;;;miercoles;08:00;08:30;2024-07-22;2024-10-20
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana1;cabana;6;140000;;dia;viernes;00:00;23:59;2024-08-05;2024-09-04
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana2;cabana;8;150000;44;dia;domingo;00:00;23:59;2025-11-04;2025-11-18
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana3;cabana;4;160000;74;dia;miercoles;00:00;23:59;2024-10-29;2024-11-28
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana4;cabana;6;240000;;dia;miercoles;00:00;23:59;2024-05-20;2024-08-18
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana5;cabana;6;30000;38;dia;sabado;00:00;23:59;2025-09-25;2025-10-09
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana6;cabana;7;160000;;dia;viernes;00:00;23:59;2024-04-21;2024-04-28
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana7;cabana;4;200000;54;dia;martes;00:00;23:59;2024-03-05;2024-04-04
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana8;cabana;5;220000;67;dia;domingo;00:00;23:59;2025-10-08;2026-01-06
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana9;cabana;5;10000;19;dia;jueves;00:00;23:59;2024-03-29;2024-06-27
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana10;cabana;4;240000;8;dia;martes;00:00;23:59;2025-09-02;2025-10-02
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana11;cabana;8;160000;73;dia;lunes;00:00;23:59;2024-04-07;2024-04-14
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana12;cabana;4;230000;17;dia;sabado;00:00;23:59;2025-03-03;2025-05-02
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana13;cabana;5;130000;75;dia;lunes;00:00;23:59;2024-12-06;2025-01-05
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana14;cabana;7;140000;38;dia;martes;00:00;23:59;2025-10-19;2025-12-18
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana15;cabana;4;70000;75;dia;jueves;00:00;23:59;2024-02-09;2024-04-09
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana16;cabana;5;100000;55;dia;lunes;00:00;23:59;2025-03-13;2025-04-12
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana17;cabana;7;30000;;dia;jueves;00:00;23:59;2024-08-05;2024-09-04
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana18;cabana;8;60000;;dia;martes;00:00;23:59;2024-08-10;2024-09-09
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana19;cabana;5;190000;;dia;domingo;00:00;23:59;2024-08-04;2024-10-03
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana20;cabana;8;80000;66;dia;jueves;00:00;23:59;2025-10-17;2026-01-15
+"Santiago Centro";"Av Alameda 900";Santiago;Cancha_tenis_aire_libre;cancha_aire_libre;17;250000;;hora;jueves;09:00;10:00;2025-05-23;2025-07-22
+"Santiago Centro";"Av Alameda 900";Santiago;Cancha_tenis_techada;cancha_techada;10;120000;26;hora;sabado;12:00;13:00;2025-05-09;2025-05-23
+"Santiago Centro";"Av Alameda 900";Santiago;Cancha_basquetbol_aire_libre;cancha_aire_libre;16;220000;55;hora;domingo;19:00;20:00;2025-11-16;2026-02-14
+"Santiago Centro";"Av Alameda 900";Santiago;Cancha_basquetbol_techada;cancha_techada;16;90000;35;hora;lunes;16:00;17:00;2025-01-11;2025-04-11
+"Santiago Centro";"Av Alameda 900";Santiago;Cancha_futbolito_aire_libre;cancha_aire_libre;14;30000;58;hora;miercoles;18:00;19:00;2025-01-03;2025-02-02
+"Santiago Centro";"Av Alameda 900";Santiago;Cancha_futbolito_techada;cancha_techada;10;130000;76;hora;martes;08:00;09:00;2025-07-04;2025-07-18
+"Santiago Centro";"Av Alameda 900";Santiago;Cancha_padel_aire_libre;cancha_aire_libre;15;230000;55;hora;miercoles;12:00;13:00;2025-01-30;2025-02-13
+"Santiago Centro";"Av Alameda 900";Santiago;Cancha_padel_techada;cancha_techada;20;220000;49;hora;lunes;20:00;21:00;;2024-11-26
+Providencia;"Av Pedro de Valdivia 2100";Providencia;linea1_piscina1;piscina;1;240000;;;viernes;10:00;11:00;;2024-08-04
+Providencia;"Av Pedro de Valdivia 2100";Providencia;linea2_piscina1;piscina;1;20000;;;lunes;20:00;21:00;2025-02-12;2025-04-13
+Providencia;"Av Pedro de Valdivia 2100";Providencia;linea3_piscina1;piscina;1;210000;;;martes;11:00;12:00;2024-06-19;2024-07-03
+Providencia;"Av Pedro de Valdivia 2100";Providencia;linea4_piscina1;piscina;1;220000;;;miercoles;21:00;22:00;2025-03-05;2025-03-19
+Providencia;"Av Pedro de Valdivia 2100";Providencia;linea5_piscina1;piscina;1;130000;4;;domingo;14:00;15:00;;2024-02-03
+Providencia;"Av Pedro de Valdivia 2100";Providencia;linea6_piscina1;piscina;1;250000;51;;lunes;17:00;18:00;2025-11-07;2025-12-07
+Providencia;"Av Pedro de Valdivia 2100";Providencia;linea7_piscina1;piscina;1;190000;;;jueves;20:00;21:00;2024-03-29;2024-04-28
+Providencia;"Av Pedro de Valdivia 2100";Providencia;linea8_piscina1;piscina;1;200000;;;martes;15:00;16:00;2024-04-28;2024-05-12
+Providencia;"Av Pedro de Valdivia 2100";Providencia;linea1_piscina2;piscina;1;200000;45;;jueves;11:00;12:00;2025-09-22;2025-09-29
+Providencia;"Av Pedro de Valdivia 2100";Providencia;linea2_piscina2;piscina;1;100000;61;;lunes;18:00;19:00;2025-11-04;2025-11-11
+Providencia;"Av Pedro de Valdivia 2100";Providencia;linea3_piscina2;piscina;1;220000;;;martes;12:00;13:00;2024-03-24;2024-03-31
+Providencia;"Av Pedro de Valdivia 2100";Providencia;linea4_piscina2;piscina;1;110000;;;sabado;16:00;17:00;2024-02-29;2024-03-07
+Providencia;"Av Pedro de Valdivia 2100";Providencia;linea5_piscina2;piscina;1;190000;23;;sabado;19:00;20:00;2024-04-10;2024-04-17
+Providencia;"Av Pedro de Valdivia 2100";Providencia;linea6_piscina2;piscina;1;200000;;;lunes;14:00;15:00;2025-02-18;2025-02-25
+Providencia;"Av Pedro de Valdivia 2100";Providencia;linea7_piscina2;piscina;1;160000;63;;jueves;08:00;08:30;2025-08-30;2025-09-29
+Providencia;"Av Pedro de Valdivia 2100";Providencia;linea8_piscina2;piscina;1;130000;39;;martes;17:00;18:00;;2025-09-13
+Providencia;"Av Pedro de Valdivia 2100";Providencia;SalonEventos1;salon_eventos;64;210000;6;;domingo;20:00;23:59;2025-01-06;2025-04-06
+Providencia;"Av Pedro de Valdivia 2100";Providencia;SalonEventos2;salon_eventos;26;130000;38;;jueves;20:00;23:59;2025-03-07;2025-03-21
+Providencia;"Av Pedro de Valdivia 2100";Providencia;SalonEventos3;salon_eventos;123;90000;;dia;viernes;00:00;23:59;2024-01-18;2024-01-25
+Providencia;"Av Pedro de Valdivia 2100";Providencia;SalonEventos4;salon_eventos;71;100000;47;;lunes;08:00;14:00;2024-01-09;2024-01-16
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana1;cabana;7;230000;21;dia;sabado;00:00;23:59;2025-09-21;2025-09-28
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana2;cabana;7;250000;67;dia;martes;00:00;23:59;2024-10-04;2024-10-18
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana3;cabana;6;210000;;dia;jueves;00:00;23:59;2025-02-24;2025-03-26
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana4;cabana;4;180000;55;dia;jueves;00:00;23:59;2024-09-15;2024-10-15
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana5;cabana;4;200000;44;dia;viernes;00:00;23:59;2025-04-10;2025-05-10
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana6;cabana;7;50000;56;dia;lunes;00:00;23:59;2024-11-25;2024-12-09
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana7;cabana;7;50000;72;dia;miercoles;00:00;23:59;2024-06-27;2024-07-11
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana8;cabana;8;10000;14;dia;domingo;00:00;23:59;2025-09-16;2025-12-15
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana9;cabana;6;50000;25;dia;jueves;00:00;23:59;2025-07-02;2025-08-31
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana10;cabana;8;250000;21;dia;jueves;00:00;23:59;2024-09-06;2024-09-20
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana11;cabana;5;10000;4;dia;miercoles;00:00;23:59;2024-03-25;2024-04-01
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana12;cabana;6;120000;23;dia;jueves;00:00;23:59;2025-09-10;2025-10-10
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana13;cabana;5;220000;;dia;jueves;00:00;23:59;2024-01-17;2024-03-17
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana14;cabana;4;20000;;dia;viernes;00:00;23:59;2025-02-24;2025-05-25
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana16;cabana;4;30000;;dia;domingo;00:00;23:59;2024-04-06;2024-04-13
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana17;cabana;6;210000;;dia;sabado;00:00;23:59;2025-01-15;2025-04-15
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana18;cabana;8;150000;;dia;jueves;00:00;23:59;2025-02-08;2025-05-09
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana19;cabana;6;110000;10;dia;lunes;00:00;23:59;2024-01-05;2024-03-05
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana20;cabana;6;250000;26;dia;lunes;00:00;23:59;;2025-09-28
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cancha_tenis_aire_libre;cancha_aire_libre;16;40000;4;hora;martes;21:00;22:00;2025-01-21;2025-03-22
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cancha_tenis_techada;cancha_techada;21;70000;78;hora;sabado;18:00;19:00;2024-01-22;2024-02-05
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cancha_basquetbol_aire_libre;cancha_aire_libre;10;250000;;hora;sabado;11:00;12:00;2025-07-23;2025-08-06
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cancha_basquetbol_techada;cancha_techada;12;130000;60;hora;martes;19:00;20:00;2024-01-23;2024-03-23
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cancha_futbolito_aire_libre;cancha_aire_libre;13;160000;;hora;jueves;20:00;21:00;2025-01-06;2025-03-07
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cancha_futbolito_techada;cancha_techada;15;250000;45;hora;miercoles;16:00;17:00;2025-11-13;2025-11-20
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cancha_padel_aire_libre;cancha_aire_libre;19;50000;;hora;jueves;16:00;17:00;2025-09-19;2025-12-18
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";linea1_piscina1;piscina;1;110000;59;;lunes;22:00;23:00;2024-02-11;2024-02-25
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";linea2_piscina1;piscina;1;150000;2;;miercoles;14:00;15:00;2024-06-14;2024-08-13
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";linea4_piscina1;piscina;1;170000;71;;sabado;20:00;21:00;2024-05-04;2024-05-11
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";linea5_piscina1;piscina;1;100000;8;;sabado;11:00;12:00;2025-10-01;2025-11-30
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";linea6_piscina1;piscina;1;140000;7;;miercoles;14:00;15:00;;2025-12-03
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";linea7_piscina1;piscina;1;10000;;;martes;13:00;14:00;2024-07-26;2024-08-02
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";linea8_piscina1;piscina;1;80000;67;;lunes;15:00;16:00;2024-12-12;2025-03-12
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";linea1_piscina2;piscina;1;20000;;;martes;10:00;11:00;2024-06-19;2024-09-17
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";linea2_piscina2;piscina;1;130000;15;;martes;18:00;19:00;;2024-09-05
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";linea3_piscina2;piscina;1;140000;;;jueves;12:00;13:00;2025-03-28;2025-05-27
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";linea4_piscina2;piscina;1;140000;1;;viernes;10:00;11:00;2025-03-19;2025-06-17
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";linea5_piscina2;piscina;1;40000;;;miercoles;15:00;16:00;2025-06-22;2025-08-21
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";linea6_piscina2;piscina;1;140000;24;;martes;20:00;21:00;2025-02-16;2025-05-17
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";linea7_piscina2;piscina;1;40000;;;martes;11:00;12:00;2024-10-03;2024-10-10
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";linea8_piscina2;piscina;1;30000;0;;domingo;12:00;13:00;2024-03-10;2024-05-09
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";SalonEventos1;salon_eventos;28;40000;12;;domingo;14:00;20:00;2024-05-15;2024-08-13
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";SalonEventos2;salon_eventos;27;150000;53;;domingo;14:00;20:00;2025-05-03;2025-05-10
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";SalonEventos3;salon_eventos;146;240000;;dia;domingo;08:00;08:30;2025-07-14;2025-07-21
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";SalonEventos4;salon_eventos;127;30000;;;sabado;20:00;23:59;2025-06-10;2025-06-24
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana1;cabana;8;140000;46;dia;viernes;00:00;23:59;2024-06-27;2024-09-25
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana2;cabana;7;170000;;dia;viernes;00:00;23:59;2024-08-21;2024-09-04
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana3;cabana;8;60000;;dia;domingo;00:00;23:59;2025-06-12;2025-06-26
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana4;cabana;6;170000;52;dia;sabado;00:00;23:59;2025-07-31;2025-08-07
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana5;cabana;6;130000;44;dia;jueves;00:00;23:59;2025-04-27;2025-05-11
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana6;cabana;6;100000;32;dia;viernes;00:00;23:59;2024-04-26;2024-07-25
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana7;cabana;5;190000;;dia;jueves;00:00;23:59;2025-06-04;2025-07-04
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana9;cabana;5;40000;4;dia;martes;00:00;23:59;2024-07-18;2024-10-16
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana10;cabana;8;230000;;dia;viernes;00:00;23:59;2024-09-10;2024-09-17
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana11;cabana;5;180000;17;dia;miercoles;00:00;23:59;2024-08-28;2024-09-04
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana12;cabana;5;160000;27;dia;martes;00:00;23:59;2024-06-30;2024-07-14
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana13;cabana;7;220000;5;dia;miercoles;00:00;23:59;2025-01-13;2025-03-14
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana14;cabana;5;40000;43;dia;viernes;00:00;23:59;2025-01-19;2025-02-18
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana15;cabana;4;170000;12;dia;viernes;00:00;23:59;2025-07-24;2025-08-07
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana16;cabana;5;10000;;dia;jueves;00:00;23:59;2025-08-12;2025-09-11
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana17;cabana;4;240000;44;dia;sabado;00:00;23:59;2025-04-11;2025-06-10
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana18;cabana;8;240000;14;dia;lunes;00:00;23:59;2025-02-22;2025-03-24
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana19;cabana;6;180000;15;dia;viernes;00:00;23:59;2024-01-21;2024-02-04
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana20;cabana;6;80000;60;dia;sabado;00:00;23:59;2024-08-01;2024-08-08
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cancha_tenis_aire_libre;cancha_aire_libre;14;220000;77;hora;miercoles;11:00;12:00;2024-02-01;2024-02-08
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cancha_tenis_techada;cancha_techada;13;120000;;hora;sabado;19:00;20:00;2024-12-01;2025-03-01
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cancha_basquetbol_aire_libre;cancha_aire_libre;19;250000;65;hora;martes;20:00;21:00;2024-02-15;2024-04-15
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cancha_basquetbol_techada;cancha_techada;20;210000;;hora;lunes;17:00;18:00;2024-10-10;2024-11-09
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cancha_futbolito_aire_libre;cancha_aire_libre;17;60000;3;hora;domingo;08:00;08:30;2024-07-28;2024-08-04
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cancha_futbolito_techada;cancha_techada;22;240000;;hora;sabado;17:00;18:00;2024-07-30;2024-08-29
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cancha_padel_aire_libre;cancha_aire_libre;21;230000;;hora;miercoles;16:00;17:00;2024-05-26;2024-06-02
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cancha_padel_techada;cancha_techada;14;250000;69;hora;miercoles;10:00;11:00;2025-01-03;2025-04-03
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";linea1_piscina1;piscina;1;20000;42;;sabado;19:00;20:00;2025-07-21;2025-07-28
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";linea2_piscina1;piscina;1;160000;;;jueves;08:00;09:00;;2026-01-12
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";linea3_piscina1;piscina;1;40000;22;;domingo;14:00;15:00;2024-12-28;2025-03-28
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";linea4_piscina1;piscina;1;150000;46;;jueves;08:00;09:00;2025-05-25;2025-06-24
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";linea5_piscina1;piscina;1;60000;63;;martes;12:00;13:00;2025-03-09;2025-05-08
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";linea6_piscina1;piscina;1;170000;;;miercoles;21:00;22:00;2025-01-16;2025-02-15
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";linea7_piscina1;piscina;1;70000;12;;domingo;18:00;19:00;2025-02-24;2025-05-25
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";linea8_piscina1;piscina;1;110000;;;martes;19:00;20:00;2024-01-23;2024-03-23
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";linea1_piscina2;piscina;1;190000;4;;sabado;20:00;21:00;2025-04-28;2025-06-27
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";linea2_piscina2;piscina;1;10000;6;;sabado;12:00;13:00;2025-10-29;2025-12-28
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";linea3_piscina2;piscina;1;250000;59;;domingo;12:00;13:00;2024-02-16;2024-05-16
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";linea5_piscina2;piscina;1;200000;5;;viernes;12:00;13:00;2024-03-29;2024-04-28
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";linea6_piscina2;piscina;1;60000;;;sabado;12:00;13:00;2024-02-01;2024-04-01
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";linea7_piscina2;piscina;1;140000;33;;lunes;20:00;21:00;2025-05-16;2025-05-23
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";linea8_piscina2;piscina;1;190000;68;;lunes;17:00;18:00;2024-12-21;2025-01-04
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";SalonEventos1;salon_eventos;20;20000;43;dia;domingo;00:00;23:59;2025-04-17;2025-04-24
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";SalonEventos2;salon_eventos;100;80000;;;martes;20:00;23:59;;2024-12-08
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";SalonEventos3;salon_eventos;111;140000;70;;viernes;14:00;20:00;2024-06-12;2024-08-11
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";SalonEventos4;salon_eventos;43;140000;2;;miercoles;14:00;20:00;2025-03-05;2025-03-12
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cabana1;cabana;8;120000;8;dia;martes;00:00;23:59;2024-07-12;2024-09-10
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cabana2;cabana;6;80000;19;dia;domingo;00:00;23:59;2024-07-18;2024-08-17
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cabana3;cabana;5;180000;8;dia;martes;00:00;23:59;2024-02-15;2024-05-15
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cabana4;cabana;8;20000;67;dia;martes;00:00;23:59;2024-05-16;2024-07-15
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cabana5;cabana;4;250000;16;dia;sabado;00:00;23:59;2025-07-27;2025-08-26
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cabana6;cabana;8;190000;53;dia;sabado;00:00;23:59;2025-01-06;2025-01-13
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cabana7;cabana;8;160000;29;dia;martes;00:00;23:59;2025-06-19;2025-07-03
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cabana8;cabana;6;200000;;dia;lunes;00:00;23:59;2025-05-02;2025-07-31
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cabana9;cabana;4;220000;52;dia;jueves;00:00;23:59;2024-08-13;2024-08-27
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cabana10;cabana;4;180000;23;dia;lunes;00:00;23:59;2024-06-16;2024-07-16
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cabana11;cabana;8;160000;17;dia;domingo;00:00;23:59;2024-02-22;2024-03-07
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cabana12;cabana;8;70000;8;dia;sabado;00:00;23:59;2025-06-07;2025-07-07
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cabana13;cabana;6;140000;41;dia;domingo;00:00;23:59;2025-06-02;2025-06-16
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cabana14;cabana;7;20000;13;dia;miercoles;00:00;23:59;2025-04-02;2025-04-16
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cabana15;cabana;8;190000;40;dia;jueves;00:00;23:59;2024-11-05;2025-02-03
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cabana16;cabana;6;10000;77;dia;sabado;00:00;23:59;2025-04-16;2025-07-15
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cabana17;cabana;8;190000;3;dia;viernes;00:00;23:59;2025-10-02;2025-12-31
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cabana18;cabana;8;160000;;dia;martes;00:00;23:59;2025-09-22;2025-12-21
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cabana19;cabana;4;160000;;dia;miercoles;00:00;23:59;2024-04-21;2024-07-20
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cabana20;cabana;7;80000;49;dia;domingo;00:00;23:59;2024-08-03;2024-08-10
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cancha_tenis_aire_libre;cancha_aire_libre;21;180000;54;hora;domingo;18:00;19:00;2024-12-29;2025-03-29
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cancha_tenis_techada;cancha_techada;17;110000;;hora;sabado;12:00;13:00;2025-03-22;2025-06-20
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cancha_basquetbol_aire_libre;cancha_aire_libre;19;170000;;hora;jueves;10:00;11:00;2024-10-01;2024-10-31
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cancha_basquetbol_techada;cancha_techada;13;190000;23;hora;lunes;17:00;18:00;2024-10-21;2024-11-20
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cancha_futbolito_aire_libre;cancha_aire_libre;22;40000;;hora;sabado;08:00;09:00;2025-08-29;2025-09-12
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cancha_futbolito_techada;cancha_techada;22;190000;34;hora;jueves;17:00;18:00;2025-09-26;2025-11-25
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cancha_padel_aire_libre;cancha_aire_libre;11;240000;;hora;miercoles;18:00;19:00;2024-10-16;2025-01-14
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cancha_padel_techada;cancha_techada;10;230000;;hora;lunes;11:00;12:00;2024-08-21;2024-09-20
+"Santiago Centro";"Av Alameda 900";Santiago;linea1_piscina1;piscina;1;180000;25;;jueves;17:00;18:00;2025-09-09;2025-12-08
+"Santiago Centro";"Av Alameda 900";Santiago;linea2_piscina1;piscina;1;80000;23;;viernes;17:00;18:00;2024-06-04;2024-09-02
+"Santiago Centro";"Av Alameda 900";Santiago;linea3_piscina1;piscina;1;30000;21;;lunes;14:00;15:00;2024-10-22;2024-11-21
+"Santiago Centro";"Av Alameda 900";Santiago;linea4_piscina1;piscina;1;90000;;;martes;20:00;21:00;2025-02-19;2025-04-20
+"Santiago Centro";"Av Alameda 900";Santiago;linea5_piscina1;piscina;1;180000;;;domingo;19:00;20:00;2024-05-16;2024-05-30
+"Santiago Centro";"Av Alameda 900";Santiago;linea6_piscina1;piscina;1;30000;;;jueves;11:00;12:00;;2024-01-30
+"Santiago Centro";"Av Alameda 900";Santiago;linea7_piscina1;piscina;1;110000;;;jueves;09:00;10:00;2024-08-16;2024-08-30
+"Santiago Centro";"Av Alameda 900";Santiago;linea8_piscina1;piscina;1;170000;62;;sabado;11:00;12:00;2024-04-21;2024-05-21
+"Santiago Centro";"Av Alameda 900";Santiago;linea1_piscina2;piscina;1;100000;;;viernes;18:00;19:00;2025-03-13;2025-06-11
+"Santiago Centro";"Av Alameda 900";Santiago;linea2_piscina2;piscina;1;230000;4;;jueves;09:00;10:00;2024-10-27;2024-12-26
+"Santiago Centro";"Av Alameda 900";Santiago;linea3_piscina2;piscina;1;180000;20;;sabado;09:00;10:00;2024-04-07;2024-05-07
+"Santiago Centro";"Av Alameda 900";Santiago;linea4_piscina2;piscina;1;150000;;;viernes;11:00;12:00;2025-04-25;2025-05-09
+"Santiago Centro";"Av Alameda 900";Santiago;linea5_piscina2;piscina;1;240000;;;lunes;14:00;15:00;2024-10-15;2025-01-13
+"Santiago Centro";"Av Alameda 900";Santiago;linea6_piscina2;piscina;1;150000;78;;sabado;08:00;09:00;2024-03-31;2024-04-30
+"Santiago Centro";"Av Alameda 900";Santiago;linea7_piscina2;piscina;1;120000;63;;jueves;08:00;09:00;2024-05-15;2024-08-13
+"Santiago Centro";"Av Alameda 900";Santiago;linea8_piscina2;piscina;1;80000;;;jueves;17:00;18:00;2025-05-08;2025-05-22
+"Santiago Centro";"Av Alameda 900";Santiago;SalonEventos1;salon_eventos;91;70000;49;;domingo;20:00;23:59;2024-02-05;2024-05-05
+"Santiago Centro";"Av Alameda 900";Santiago;SalonEventos2;salon_eventos;188;210000;5;dia;martes;00:00;23:59;2024-01-10;2024-01-24
+"Santiago Centro";"Av Alameda 900";Santiago;SalonEventos3;salon_eventos;50;60000;;dia;domingo;00:00;23:59;2024-01-26;2024-03-26
+"Santiago Centro";"Av Alameda 900";Santiago;SalonEventos4;salon_eventos;153;10000;13;;sabado;20:00;23:59;2024-10-03;2024-12-02
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana1;cabana;5;160000;58;dia;domingo;00:00;23:59;2024-12-17;2024-12-31
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana2;cabana;8;170000;;dia;viernes;00:00;23:59;2025-01-28;2025-04-28
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana3;cabana;5;220000;;dia;miercoles;00:00;23:59;2025-10-14;2025-12-13
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana4;cabana;4;200000;0;dia;miercoles;00:00;23:59;;2024-12-15
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana5;cabana;7;150000;73;dia;viernes;00:00;23:59;2025-01-19;2025-02-02
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana6;cabana;5;230000;;dia;miercoles;00:00;23:59;2025-11-22;2025-12-22
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana7;cabana;8;160000;74;dia;domingo;00:00;23:59;2025-04-02;2025-05-02
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana8;cabana;5;180000;12;dia;jueves;00:00;23:59;2025-04-16;2025-07-15
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana9;cabana;5;190000;;dia;domingo;00:00;23:59;2025-11-25;2026-01-24
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana10;cabana;4;240000;22;dia;martes;00:00;23:59;2024-01-22;2024-02-21
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana11;cabana;6;220000;;dia;lunes;00:00;23:59;2025-10-21;2025-11-20
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana12;cabana;5;170000;80;dia;sabado;00:00;23:59;2024-03-12;2024-04-11
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana13;cabana;5;100000;7;dia;miercoles;00:00;23:59;2024-11-14;2024-12-14
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana14;cabana;4;60000;5;dia;viernes;00:00;23:59;2024-06-05;2024-07-05
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana16;cabana;7;10000;76;dia;viernes;00:00;23:59;2025-01-24;2025-03-25
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana17;cabana;7;160000;;dia;domingo;00:00;23:59;;2025-05-07
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana18;cabana;4;240000;23;dia;domingo;00:00;23:59;2025-08-08;2025-09-07
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana20;cabana;7;30000;31;dia;martes;00:00;23:59;2024-06-22;2024-09-20
+"Santiago Centro";"Av Alameda 900";Santiago;Cancha_tenis_aire_libre;cancha_aire_libre;19;220000;46;hora;lunes;15:00;16:00;2024-10-17;2024-10-31
+"Santiago Centro";"Av Alameda 900";Santiago;Cancha_tenis_techada;cancha_techada;16;80000;50;hora;martes;11:00;12:00;2024-10-07;2024-10-21
+"Santiago Centro";"Av Alameda 900";Santiago;Cancha_basquetbol_aire_libre;cancha_aire_libre;12;100000;17;hora;domingo;15:00;16:00;2025-03-16;2025-06-14
+"Santiago Centro";"Av Alameda 900";Santiago;Cancha_basquetbol_techada;cancha_techada;22;110000;78;hora;viernes;11:00;12:00;2025-07-04;2025-10-02
+"Santiago Centro";"Av Alameda 900";Santiago;Cancha_futbolito_aire_libre;cancha_aire_libre;20;240000;;hora;jueves;20:00;21:00;2024-12-23;2025-03-23
+"Santiago Centro";"Av Alameda 900";Santiago;Cancha_futbolito_techada;cancha_techada;14;100000;80;hora;domingo;13:00;14:00;2025-01-31;2025-04-01
+"Santiago Centro";"Av Alameda 900";Santiago;Cancha_padel_aire_libre;cancha_aire_libre;20;30000;41;hora;viernes;22:00;23:00;2025-04-18;2025-04-25
+"Santiago Centro";"Av Alameda 900";Santiago;Cancha_padel_techada;cancha_techada;17;100000;62;hora;jueves;19:00;20:00;2025-05-06;2025-07-05
+Providencia;"Av Pedro de Valdivia 2100";Providencia;linea1_piscina1;piscina;1;10000;37;;jueves;18:00;19:00;2024-02-15;2024-04-15
+Providencia;"Av Pedro de Valdivia 2100";Providencia;linea2_piscina1;piscina;1;80000;;;domingo;17:00;18:00;2025-04-26;2025-05-26
+Providencia;"Av Pedro de Valdivia 2100";Providencia;linea3_piscina1;piscina;1;40000;43;;martes;22:00;23:00;2024-07-21;2024-08-04
+Providencia;"Av Pedro de Valdivia 2100";Providencia;linea4_piscina1;piscina;1;150000;;;sabado;16:00;17:00;2025-10-31;2025-12-30
+Providencia;"Av Pedro de Valdivia 2100";Providencia;linea6_piscina1;piscina;1;200000;52;;martes;14:00;15:00;2024-03-06;2024-03-13
+Providencia;"Av Pedro de Valdivia 2100";Providencia;linea7_piscina1;piscina;1;240000;;;jueves;15:00;16:00;2024-02-08;2024-02-22
+Providencia;"Av Pedro de Valdivia 2100";Providencia;linea8_piscina1;piscina;1;50000;39;;miercoles;18:00;19:00;2024-03-03;2024-06-01
+Providencia;"Av Pedro de Valdivia 2100";Providencia;linea1_piscina2;piscina;1;60000;;;sabado;12:00;13:00;2025-06-23;2025-08-22
+Providencia;"Av Pedro de Valdivia 2100";Providencia;linea2_piscina2;piscina;1;20000;24;;sabado;20:00;21:00;2024-12-23;2025-01-06
+Providencia;"Av Pedro de Valdivia 2100";Providencia;linea3_piscina2;piscina;1;170000;23;;sabado;11:00;12:00;2025-01-14;2025-01-28
+Providencia;"Av Pedro de Valdivia 2100";Providencia;linea4_piscina2;piscina;1;220000;;;martes;08:00;09:00;2024-07-29;2024-08-28
+Providencia;"Av Pedro de Valdivia 2100";Providencia;linea5_piscina2;piscina;1;130000;45;;miercoles;14:00;15:00;2024-06-17;2024-08-16
+Providencia;"Av Pedro de Valdivia 2100";Providencia;linea7_piscina2;piscina;1;10000;76;;miercoles;09:00;10:00;2025-04-13;2025-07-12
+Providencia;"Av Pedro de Valdivia 2100";Providencia;linea8_piscina2;piscina;1;220000;55;;miercoles;15:00;16:00;2025-05-20;2025-06-03
+Providencia;"Av Pedro de Valdivia 2100";Providencia;SalonEventos1;salon_eventos;190;60000;0;;domingo;14:00;20:00;2025-04-08;2025-04-22
+Providencia;"Av Pedro de Valdivia 2100";Providencia;SalonEventos2;salon_eventos;68;120000;38;;jueves;14:00;20:00;2024-05-28;2024-06-04
+Providencia;"Av Pedro de Valdivia 2100";Providencia;SalonEventos3;salon_eventos;191;80000;;;martes;08:00;14:00;2024-05-25;2024-06-24
+Providencia;"Av Pedro de Valdivia 2100";Providencia;SalonEventos4;salon_eventos;154;210000;16;dia;lunes;00:00;23:59;2024-10-20;2025-01-18
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana2;cabana;5;200000;55;dia;lunes;00:00;23:59;2025-09-29;2025-11-28
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana3;cabana;8;150000;;dia;jueves;00:00;23:59;2024-09-12;2024-09-19
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana4;cabana;4;130000;;dia;viernes;00:00;23:59;2025-06-09;2025-06-16
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana5;cabana;6;130000;25;dia;martes;00:00;23:59;2025-11-26;2026-02-24
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana6;cabana;5;130000;;dia;miercoles;00:00;23:59;2025-04-20;2025-04-27
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana7;cabana;7;220000;61;dia;miercoles;00:00;23:59;2025-01-18;2025-01-25
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana9;cabana;4;160000;;dia;martes;00:00;23:59;2025-01-12;2025-04-12
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana10;cabana;6;200000;79;dia;miercoles;00:00;23:59;2025-08-11;2025-09-10
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana11;cabana;6;50000;23;dia;lunes;00:00;23:59;2025-11-02;2025-11-16
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana12;cabana;7;20000;;dia;sabado;00:00;23:59;2024-02-12;2024-02-19
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana13;cabana;7;160000;24;dia;miercoles;00:00;23:59;2024-09-20;2024-10-04
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana14;cabana;8;210000;;dia;viernes;00:00;23:59;2024-09-20;2024-12-19
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana15;cabana;4;60000;67;dia;martes;00:00;23:59;2024-09-06;2024-11-05
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana16;cabana;4;190000;;dia;viernes;00:00;23:59;2025-10-29;2025-11-05
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana17;cabana;6;190000;;dia;sabado;00:00;23:59;2025-04-21;2025-04-28
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana18;cabana;5;170000;;dia;lunes;00:00;23:59;2024-01-03;2024-01-10
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana19;cabana;5;170000;70;dia;jueves;00:00;23:59;2025-10-20;2025-11-03
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana20;cabana;8;70000;;dia;martes;00:00;23:59;2025-05-13;2025-07-12
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cancha_tenis_aire_libre;cancha_aire_libre;10;140000;3;hora;viernes;08:00;09:00;2024-12-29;2025-01-28
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cancha_tenis_techada;cancha_techada;13;190000;;hora;lunes;20:00;21:00;2025-02-02;2025-04-03
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cancha_basquetbol_aire_libre;cancha_aire_libre;12;10000;33;hora;martes;16:00;17:00;2025-10-22;2025-11-05
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cancha_basquetbol_techada;cancha_techada;16;130000;;hora;viernes;11:00;12:00;2025-05-29;2025-07-28
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cancha_futbolito_aire_libre;cancha_aire_libre;14;40000;16;hora;domingo;18:00;19:00;2025-01-06;2025-01-13
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cancha_futbolito_techada;cancha_techada;16;40000;78;hora;viernes;10:00;11:00;2024-12-18;2025-01-01
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cancha_padel_aire_libre;cancha_aire_libre;21;130000;;hora;sabado;20:00;21:00;2025-10-16;2025-10-23
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cancha_padel_techada;cancha_techada;15;130000;11;hora;jueves;11:00;12:00;2024-06-23;2024-09-21
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";linea1_piscina1;piscina;1;200000;54;;viernes;18:00;19:00;2024-09-09;2024-09-16
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";linea2_piscina1;piscina;1;90000;;;jueves;20:00;21:00;2024-12-23;2025-02-21
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";linea3_piscina1;piscina;1;250000;10;;martes;09:00;10:00;2024-02-27;2024-05-27
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";linea4_piscina1;piscina;1;190000;34;;martes;16:00;17:00;2024-08-23;2024-10-22
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";linea5_piscina1;piscina;1;160000;55;;domingo;15:00;16:00;2024-04-14;2024-04-28
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";linea6_piscina1;piscina;1;110000;50;;viernes;20:00;21:00;2024-01-18;2024-03-18
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";linea7_piscina1;piscina;1;130000;68;;lunes;12:00;13:00;2025-02-14;2025-05-15
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";linea8_piscina1;piscina;1;230000;32;;sabado;20:00;21:00;2025-01-04;2025-01-18
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";linea2_piscina2;piscina;1;130000;;;lunes;12:00;13:00;2025-06-24;2025-09-22
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";linea3_piscina2;piscina;1;160000;;;viernes;10:00;11:00;2024-04-11;2024-06-10
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";linea4_piscina2;piscina;1;30000;53;;viernes;21:00;22:00;2025-01-26;2025-02-25
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";linea5_piscina2;piscina;1;190000;;;sabado;08:00;09:00;2025-07-14;2025-08-13
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";linea6_piscina2;piscina;1;60000;;;sabado;08:00;09:00;2025-11-01;2025-11-08
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";linea7_piscina2;piscina;1;30000;;;martes;22:00;23:00;2025-03-12;2025-03-26
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";linea8_piscina2;piscina;1;150000;2;;sabado;14:00;15:00;2025-11-20;2026-02-18
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";SalonEventos1;salon_eventos;36;110000;39;dia;domingo;00:00;23:59;2025-02-11;2025-04-12
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";SalonEventos2;salon_eventos;50;10000;63;;jueves;08:00;14:00;2024-05-05;2024-05-19
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";SalonEventos3;salon_eventos;142;190000;;;viernes;14:00;20:00;2024-04-22;2024-06-21
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";SalonEventos4;salon_eventos;75;190000;;dia;domingo;00:00;23:59;2024-06-13;2024-06-20
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana1;cabana;7;40000;;dia;jueves;00:00;23:59;2024-10-12;2025-01-10
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana2;cabana;5;10000;;dia;lunes;00:00;23:59;2025-01-18;2025-02-01
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana3;cabana;8;160000;22;dia;viernes;00:00;23:59;2024-09-13;2024-11-12
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana4;cabana;5;140000;;dia;domingo;00:00;23:59;2024-04-01;2024-06-30
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana5;cabana;5;120000;36;dia;domingo;00:00;23:59;2025-09-01;2025-09-08
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana6;cabana;8;70000;34;dia;domingo;00:00;23:59;2025-08-27;2025-09-10
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana7;cabana;5;40000;47;dia;sabado;00:00;23:59;2025-05-30;2025-06-29
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana8;cabana;8;90000;50;dia;martes;00:00;23:59;2025-09-09;2025-09-23
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana9;cabana;8;130000;;dia;viernes;00:00;23:59;2024-03-02;2024-05-01
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana10;cabana;4;240000;54;dia;sabado;00:00;23:59;2025-10-11;2025-12-10
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana11;cabana;7;160000;72;dia;domingo;00:00;23:59;2024-11-10;2025-02-08
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana12;cabana;7;250000;45;dia;viernes;00:00;23:59;2025-05-13;2025-07-12
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana13;cabana;4;100000;33;dia;sabado;00:00;23:59;2024-01-02;2024-03-02
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana14;cabana;4;40000;;dia;martes;00:00;23:59;2025-01-14;2025-02-13
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana15;cabana;8;160000;62;dia;lunes;00:00;23:59;2024-07-13;2024-07-27
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana16;cabana;8;240000;;dia;jueves;00:00;23:59;2024-03-17;2024-04-16
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana17;cabana;4;170000;49;dia;sabado;00:00;23:59;2025-08-24;2025-11-22
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana18;cabana;8;60000;80;dia;viernes;00:00;23:59;2024-06-10;2024-06-24
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana19;cabana;8;10000;;dia;sabado;00:00;23:59;2024-07-14;2024-08-13
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana20;cabana;8;210000;24;dia;lunes;00:00;23:59;2025-10-13;2025-10-27
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cancha_tenis_techada;cancha_techada;14;240000;42;hora;sabado;08:00;09:00;2025-02-10;2025-04-11
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cancha_basquetbol_aire_libre;cancha_aire_libre;10;210000;1;hora;sabado;21:00;22:00;2025-04-22;2025-05-22
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cancha_basquetbol_techada;cancha_techada;19;20000;;hora;jueves;17:00;18:00;2024-10-18;2024-10-25
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cancha_futbolito_aire_libre;cancha_aire_libre;20;170000;20;hora;viernes;12:00;13:00;2025-11-23;2026-01-22
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cancha_futbolito_techada;cancha_techada;22;160000;;hora;martes;22:00;23:00;2025-11-25;2026-01-24
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cancha_padel_aire_libre;cancha_aire_libre;17;170000;;hora;martes;09:00;10:00;2024-04-14;2024-04-21
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cancha_padel_techada;cancha_techada;15;170000;;hora;lunes;15:00;16:00;2025-04-30;2025-05-07
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";linea1_piscina1;piscina;1;230000;35;;viernes;13:00;14:00;2025-04-08;2025-06-07
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";linea2_piscina1;piscina;1;90000;37;;viernes;20:00;21:00;2025-09-27;2025-10-11
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";linea3_piscina1;piscina;1;70000;75;;domingo;16:00;17:00;2024-04-27;2024-06-26
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";linea4_piscina1;piscina;1;200000;50;;domingo;21:00;22:00;2025-03-15;2025-05-14
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";linea5_piscina1;piscina;1;130000;46;;sabado;21:00;22:00;2025-09-20;2025-11-19
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";linea6_piscina1;piscina;1;140000;;;sabado;09:00;10:00;2025-04-13;2025-05-13
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";linea7_piscina1;piscina;1;120000;;;jueves;18:00;19:00;2024-10-21;2024-10-28
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";linea8_piscina1;piscina;1;120000;25;;viernes;20:00;21:00;2024-03-28;2024-04-11
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";linea1_piscina2;piscina;1;80000;66;;sabado;16:00;17:00;2025-04-15;2025-06-14
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";linea2_piscina2;piscina;1;100000;;;miercoles;22:00;23:00;2024-05-20;2024-07-19
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";linea3_piscina2;piscina;1;200000;79;;sabado;19:00;20:00;2024-08-27;2024-11-25
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";linea4_piscina2;piscina;1;10000;8;;sabado;12:00;13:00;2024-09-29;2024-12-28
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";linea5_piscina2;piscina;1;110000;;;martes;17:00;18:00;2025-08-15;2025-10-14
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";linea6_piscina2;piscina;1;240000;32;;lunes;10:00;11:00;2024-07-25;2024-08-08
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";linea7_piscina2;piscina;1;150000;;;sabado;08:00;09:00;2025-09-07;2025-10-07
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";linea8_piscina2;piscina;1;250000;;;miercoles;09:00;10:00;2024-07-11;2024-10-09
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";SalonEventos1;salon_eventos;116;130000;;dia;viernes;00:00;23:59;2024-02-28;2024-04-28
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";SalonEventos2;salon_eventos;128;190000;75;dia;domingo;00:00;23:59;2025-10-19;2025-11-02
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";SalonEventos3;salon_eventos;68;140000;70;;lunes;20:00;23:59;2024-12-21;2025-02-19
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";SalonEventos4;salon_eventos;168;190000;;;domingo;20:00;23:59;2024-07-05;2024-09-03
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cabana1;cabana;8;100000;;dia;martes;00:00;23:59;2025-03-11;2025-06-09
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cabana2;cabana;8;240000;;dia;viernes;00:00;23:59;2025-10-29;2025-11-28
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cabana3;cabana;7;130000;32;dia;sabado;00:00;23:59;2024-08-26;2024-10-25
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cabana4;cabana;7;110000;56;dia;lunes;00:00;23:59;2024-06-09;2024-06-23
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cabana5;cabana;4;230000;;dia;miercoles;00:00;23:59;2024-07-14;2024-08-13
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cabana7;cabana;8;240000;12;dia;viernes;00:00;23:59;2024-04-26;2024-05-26
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cabana8;cabana;5;70000;;dia;sabado;00:00;23:59;2024-10-05;2024-10-12
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cabana9;cabana;6;40000;73;dia;martes;00:00;23:59;2025-09-24;2025-12-23
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cabana10;cabana;5;250000;14;dia;martes;00:00;23:59;2025-09-22;2025-11-21
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cabana12;cabana;6;140000;37;dia;martes;00:00;23:59;2025-04-06;2025-04-13
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cabana13;cabana;8;200000;25;dia;martes;00:00;23:59;2024-08-15;2024-08-22
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cabana14;cabana;6;200000;;dia;martes;00:00;23:59;2025-05-02;2025-07-31
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cabana15;cabana;8;170000;;dia;miercoles;00:00;23:59;2025-07-28;2025-08-27
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cabana16;cabana;6;170000;13;dia;sabado;00:00;23:59;2025-07-17;2025-10-15
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cabana17;cabana;5;20000;;dia;sabado;00:00;23:59;;2025-05-10
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cabana18;cabana;8;40000;66;dia;sabado;00:00;23:59;2024-07-12;2024-07-26
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cabana19;cabana;4;70000;61;dia;viernes;00:00;23:59;2024-04-30;2024-05-07
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cabana20;cabana;4;200000;71;dia;domingo;00:00;23:59;2024-03-17;2024-03-31
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cancha_tenis_aire_libre;cancha_aire_libre;16;50000;34;hora;viernes;10:00;11:00;2024-10-21;2024-11-04
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cancha_tenis_techada;cancha_techada;13;230000;51;hora;sabado;15:00;16:00;;2025-06-01
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cancha_basquetbol_aire_libre;cancha_aire_libre;12;110000;33;hora;miercoles;17:00;18:00;2025-11-16;2025-11-23
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cancha_basquetbol_techada;cancha_techada;12;190000;;hora;jueves;16:00;17:00;2025-01-13;2025-01-20
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cancha_futbolito_aire_libre;cancha_aire_libre;14;190000;55;hora;sabado;21:00;22:00;2025-02-10;2025-02-24
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cancha_futbolito_techada;cancha_techada;11;210000;35;hora;domingo;21:00;22:00;2025-10-10;2025-12-09
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cancha_padel_techada;cancha_techada;11;130000;10;hora;lunes;12:00;13:00;2024-01-29;2024-02-05
+"Santiago Centro";"Av Alameda 900";Santiago;linea1_piscina1;piscina;1;110000;;;martes;08:00;09:00;2024-07-08;2024-07-22
+"Santiago Centro";"Av Alameda 900";Santiago;linea2_piscina1;piscina;1;230000;35;;domingo;11:00;12:00;2025-02-09;2025-05-10
+"Santiago Centro";"Av Alameda 900";Santiago;linea3_piscina1;piscina;1;70000;;;martes;09:00;10:00;2025-10-24;2025-11-07
+"Santiago Centro";"Av Alameda 900";Santiago;linea4_piscina1;piscina;1;30000;49;;jueves;16:00;17:00;2025-08-08;2025-11-06
+"Santiago Centro";"Av Alameda 900";Santiago;linea5_piscina1;piscina;1;30000;;;domingo;09:00;10:00;2025-09-10;2025-12-09
+"Santiago Centro";"Av Alameda 900";Santiago;linea6_piscina1;piscina;1;90000;73;;lunes;08:00;09:00;2024-05-31;2024-06-07
+"Santiago Centro";"Av Alameda 900";Santiago;linea7_piscina1;piscina;1;30000;18;;lunes;17:00;18:00;2024-11-04;2024-12-04
+"Santiago Centro";"Av Alameda 900";Santiago;linea8_piscina1;piscina;1;160000;;;lunes;22:00;23:00;2025-05-10;2025-08-08
+"Santiago Centro";"Av Alameda 900";Santiago;linea1_piscina2;piscina;1;150000;50;;sabado;10:00;11:00;2024-02-06;2024-04-06
+"Santiago Centro";"Av Alameda 900";Santiago;linea2_piscina2;piscina;1;70000;69;;viernes;16:00;17:00;2025-08-30;2025-10-29
+"Santiago Centro";"Av Alameda 900";Santiago;linea3_piscina2;piscina;1;170000;25;;viernes;22:00;23:00;2024-07-04;2024-09-02
+"Santiago Centro";"Av Alameda 900";Santiago;linea4_piscina2;piscina;1;160000;63;;jueves;11:00;12:00;2025-07-20;2025-08-03
+"Santiago Centro";"Av Alameda 900";Santiago;linea5_piscina2;piscina;1;110000;;;martes;22:00;23:00;2025-05-08;2025-06-07
+"Santiago Centro";"Av Alameda 900";Santiago;linea6_piscina2;piscina;1;80000;9;;martes;18:00;19:00;2024-10-11;2024-10-25
+"Santiago Centro";"Av Alameda 900";Santiago;linea8_piscina2;piscina;1;90000;41;;lunes;13:00;14:00;2024-06-29;2024-07-06
+"Santiago Centro";"Av Alameda 900";Santiago;SalonEventos1;salon_eventos;67;170000;60;dia;domingo;00:00;23:59;2025-04-16;2025-07-15
+"Santiago Centro";"Av Alameda 900";Santiago;SalonEventos2;salon_eventos;128;240000;;dia;martes;00:00;23:59;;2024-07-13
+"Santiago Centro";"Av Alameda 900";Santiago;SalonEventos3;salon_eventos;150;190000;;;lunes;14:00;20:00;2024-06-06;2024-06-20
+"Santiago Centro";"Av Alameda 900";Santiago;SalonEventos4;salon_eventos;61;150000;;;jueves;08:00;14:00;2024-03-31;2024-04-07
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana1;cabana;4;90000;37;dia;miercoles;00:00;23:59;2024-08-21;2024-08-28
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana2;cabana;5;140000;64;dia;viernes;00:00;23:59;2025-11-20;2026-01-19
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana3;cabana;7;130000;;dia;miercoles;00:00;23:59;2024-01-24;2024-01-31
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana4;cabana;8;150000;47;dia;jueves;00:00;23:59;2025-09-29;2025-10-29
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana5;cabana;5;120000;26;dia;sabado;00:00;23:59;2025-06-14;2025-07-14
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana6;cabana;8;10000;50;dia;jueves;00:00;23:59;2025-08-12;2025-10-11
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana7;cabana;5;230000;30;dia;miercoles;00:00;23:59;2024-08-10;2024-08-17
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana8;cabana;5;120000;10;dia;domingo;00:00;23:59;2024-08-01;2024-08-08
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana9;cabana;4;120000;;dia;martes;00:00;23:59;2025-11-07;2025-11-14
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana10;cabana;8;250000;;dia;martes;00:00;23:59;2024-09-17;2024-10-01
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana11;cabana;7;90000;;dia;viernes;00:00;23:59;2024-12-02;2024-12-09
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana12;cabana;7;130000;73;dia;viernes;00:00;23:59;2024-10-08;2024-11-07
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana13;cabana;8;150000;58;dia;miercoles;00:00;23:59;2024-11-26;2025-01-25
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana14;cabana;7;20000;12;dia;miercoles;00:00;23:59;2025-04-03;2025-06-02
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana15;cabana;4;30000;58;dia;viernes;00:00;23:59;2024-10-25;2024-12-24
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana16;cabana;5;240000;49;dia;domingo;00:00;23:59;2025-10-17;2026-01-15
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana17;cabana;5;180000;21;dia;viernes;00:00;23:59;2024-12-17;2024-12-24
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana18;cabana;8;150000;48;dia;lunes;00:00;23:59;2025-10-07;2025-12-06
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana19;cabana;5;20000;28;dia;jueves;00:00;23:59;2025-07-02;2025-07-16
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana20;cabana;8;110000;27;dia;viernes;00:00;23:59;2024-01-04;2024-01-11
+"Santiago Centro";"Av Alameda 900";Santiago;Cancha_tenis_aire_libre;cancha_aire_libre;21;220000;47;hora;jueves;13:00;14:00;2024-12-20;2025-01-19
+"Santiago Centro";"Av Alameda 900";Santiago;Cancha_tenis_techada;cancha_techada;12;220000;;hora;lunes;18:00;19:00;2025-05-26;2025-07-25
+"Santiago Centro";"Av Alameda 900";Santiago;Cancha_basquetbol_aire_libre;cancha_aire_libre;14;190000;80;hora;domingo;09:00;10:00;2024-08-26;2024-09-25
+"Santiago Centro";"Av Alameda 900";Santiago;Cancha_basquetbol_techada;cancha_techada;12;70000;;hora;lunes;21:00;22:00;2025-02-20;2025-04-21
+"Santiago Centro";"Av Alameda 900";Santiago;Cancha_futbolito_techada;cancha_techada;20;160000;41;hora;jueves;17:00;18:00;2025-10-20;2026-01-18
+"Santiago Centro";"Av Alameda 900";Santiago;Cancha_padel_aire_libre;cancha_aire_libre;13;70000;0;hora;sabado;14:00;15:00;2025-01-22;2025-03-23
+"Santiago Centro";"Av Alameda 900";Santiago;Cancha_padel_techada;cancha_techada;12;150000;33;hora;domingo;15:00;16:00;2024-06-13;2024-09-11
+Providencia;"Av Pedro de Valdivia 2100";Providencia;linea1_piscina1;piscina;1;250000;13;;martes;19:00;20:00;2024-05-14;2024-07-13
+Providencia;"Av Pedro de Valdivia 2100";Providencia;linea2_piscina1;piscina;1;250000;23;;miercoles;21:00;22:00;2025-04-13;2025-06-12
+Providencia;"Av Pedro de Valdivia 2100";Providencia;linea3_piscina1;piscina;1;60000;41;;sabado;20:00;21:00;2024-09-08;2024-09-15
+Providencia;"Av Pedro de Valdivia 2100";Providencia;linea4_piscina1;piscina;1;80000;;;miercoles;13:00;14:00;2024-05-11;2024-05-25
+Providencia;"Av Pedro de Valdivia 2100";Providencia;linea5_piscina1;piscina;1;160000;;;jueves;17:00;18:00;2025-11-19;2026-01-18
+Providencia;"Av Pedro de Valdivia 2100";Providencia;linea6_piscina1;piscina;1;20000;37;;domingo;14:00;15:00;2024-09-30;2024-11-29
+Providencia;"Av Pedro de Valdivia 2100";Providencia;linea7_piscina1;piscina;1;100000;;;lunes;18:00;19:00;2025-08-29;2025-09-28
+Providencia;"Av Pedro de Valdivia 2100";Providencia;linea8_piscina1;piscina;1;110000;25;;viernes;10:00;11:00;2025-11-28;2025-12-05
+Providencia;"Av Pedro de Valdivia 2100";Providencia;linea1_piscina2;piscina;1;220000;;;sabado;11:00;12:00;2024-12-10;2024-12-24
+Providencia;"Av Pedro de Valdivia 2100";Providencia;linea2_piscina2;piscina;1;20000;;;jueves;09:00;10:00;2025-10-11;2026-01-09
+Providencia;"Av Pedro de Valdivia 2100";Providencia;linea3_piscina2;piscina;1;180000;26;;viernes;15:00;16:00;2025-08-06;2025-11-04
+Providencia;"Av Pedro de Valdivia 2100";Providencia;linea4_piscina2;piscina;1;240000;70;;viernes;22:00;23:00;2024-03-23;2024-06-21
+Providencia;"Av Pedro de Valdivia 2100";Providencia;linea5_piscina2;piscina;1;150000;42;;martes;10:00;11:00;2024-02-29;2024-05-29
+Providencia;"Av Pedro de Valdivia 2100";Providencia;linea6_piscina2;piscina;1;190000;70;;lunes;22:00;23:00;2024-10-14;2024-11-13
+Providencia;"Av Pedro de Valdivia 2100";Providencia;linea7_piscina2;piscina;1;30000;65;;miercoles;10:00;11:00;2024-11-17;2025-01-16
+Providencia;"Av Pedro de Valdivia 2100";Providencia;linea8_piscina2;piscina;1;200000;18;;domingo;17:00;18:00;2025-10-25;2025-11-24
+Providencia;"Av Pedro de Valdivia 2100";Providencia;SalonEventos1;salon_eventos;95;90000;20;;sabado;14:00;20:00;2025-08-15;2025-10-14
+Providencia;"Av Pedro de Valdivia 2100";Providencia;SalonEventos2;salon_eventos;87;180000;64;;viernes;08:00;14:00;2024-06-19;2024-07-03
+Providencia;"Av Pedro de Valdivia 2100";Providencia;SalonEventos3;salon_eventos;44;50000;;;viernes;20:00;23:59;2024-05-24;2024-07-23
+Providencia;"Av Pedro de Valdivia 2100";Providencia;SalonEventos4;salon_eventos;79;10000;79;;viernes;14:00;20:00;2024-02-24;2024-03-02
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana1;cabana;7;230000;23;dia;lunes;00:00;23:59;2024-04-11;2024-04-18
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana2;cabana;8;90000;25;dia;martes;00:00;23:59;2025-01-18;2025-03-19
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana3;cabana;5;70000;;dia;domingo;00:00;23:59;2024-04-12;2024-07-11
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana4;cabana;8;140000;40;dia;martes;00:00;23:59;2024-07-17;2024-10-15
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana5;cabana;4;120000;62;dia;lunes;00:00;23:59;2025-06-12;2025-06-26
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana6;cabana;4;30000;20;dia;domingo;00:00;23:59;2025-10-06;2025-12-05
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana7;cabana;7;90000;;dia;lunes;00:00;23:59;2025-01-20;2025-01-27
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana8;cabana;8;220000;30;dia;viernes;00:00;23:59;2025-02-05;2025-05-06
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana9;cabana;5;230000;12;dia;domingo;00:00;23:59;2025-10-12;2025-11-11
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana10;cabana;4;50000;59;dia;domingo;00:00;23:59;2025-07-10;2025-08-09
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana11;cabana;7;210000;54;dia;viernes;00:00;23:59;2024-08-19;2024-11-17
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana12;cabana;8;60000;73;dia;sabado;00:00;23:59;2024-11-20;2025-01-19
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana13;cabana;8;120000;23;dia;viernes;00:00;23:59;2025-04-03;2025-06-02
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana14;cabana;4;70000;33;dia;lunes;00:00;23:59;2024-06-13;2024-06-20
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana15;cabana;8;240000;;dia;jueves;00:00;23:59;2024-12-11;2024-12-18
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana16;cabana;8;220000;66;dia;miercoles;00:00;23:59;;2024-10-12
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana18;cabana;8;240000;8;dia;viernes;00:00;23:59;2024-10-16;2025-01-14
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana19;cabana;4;60000;21;dia;miercoles;00:00;23:59;2024-05-01;2024-05-15
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana20;cabana;5;200000;;dia;martes;00:00;23:59;2025-04-10;2025-06-09
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cancha_tenis_aire_libre;cancha_aire_libre;13;130000;17;hora;viernes;15:00;16:00;2024-02-14;2024-02-21
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cancha_tenis_techada;cancha_techada;15;40000;2;hora;viernes;16:00;17:00;2025-10-14;2025-10-21
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cancha_basquetbol_aire_libre;cancha_aire_libre;17;40000;;hora;domingo;18:00;19:00;2024-08-17;2024-10-16
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cancha_basquetbol_techada;cancha_techada;16;180000;17;hora;viernes;18:00;19:00;2025-11-04;2025-11-18
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cancha_futbolito_aire_libre;cancha_aire_libre;12;60000;;hora;domingo;20:00;21:00;2025-11-17;2025-12-17
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cancha_futbolito_techada;cancha_techada;21;60000;68;hora;domingo;10:00;11:00;2025-07-06;2025-07-20
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cancha_padel_aire_libre;cancha_aire_libre;14;220000;25;hora;viernes;16:00;17:00;2024-04-14;2024-05-14
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cancha_padel_techada;cancha_techada;13;10000;46;hora;sabado;08:00;08:30;2025-04-05;2025-04-19
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";linea1_piscina1;piscina;1;240000;74;;martes;14:00;15:00;2025-10-11;2025-10-25
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";linea2_piscina1;piscina;1;200000;;;domingo;08:00;09:00;2025-04-20;2025-06-19
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";linea3_piscina1;piscina;1;190000;39;;martes;08:00;08:30;2025-05-23;2025-06-06
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";linea4_piscina1;piscina;1;70000;;;sabado;14:00;15:00;2025-07-03;2025-08-02
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";linea5_piscina1;piscina;1;190000;13;;miercoles;13:00;14:00;2024-02-20;2024-03-05
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";linea6_piscina1;piscina;1;240000;;;miercoles;13:00;14:00;2025-09-24;2025-10-08
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";linea7_piscina1;piscina;1;90000;;;sabado;21:00;22:00;2024-01-02;2024-03-02
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";linea8_piscina1;piscina;1;70000;22;;miercoles;11:00;12:00;2024-03-06;2024-04-05
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";linea1_piscina2;piscina;1;190000;31;;sabado;12:00;13:00;2025-02-12;2025-05-13
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";linea2_piscina2;piscina;1;70000;64;;lunes;19:00;20:00;2024-02-02;2024-03-03
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";linea3_piscina2;piscina;1;50000;59;;martes;12:00;13:00;2024-02-23;2024-04-23
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";linea4_piscina2;piscina;1;40000;;;viernes;08:00;09:00;2025-02-08;2025-05-09
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";linea5_piscina2;piscina;1;110000;68;;domingo;09:00;10:00;2024-01-28;2024-02-11
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";linea6_piscina2;piscina;1;160000;80;;sabado;10:00;11:00;2025-11-19;2025-12-03
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";linea7_piscina2;piscina;1;110000;;;viernes;12:00;13:00;2024-10-17;2025-01-15
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";linea8_piscina2;piscina;1;130000;50;;jueves;12:00;13:00;2025-08-11;2025-10-10
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";SalonEventos2;salon_eventos;52;30000;5;;miercoles;08:00;08:30;2024-12-02;2025-03-02
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";SalonEventos3;salon_eventos;116;130000;2;;jueves;08:00;14:00;2024-09-09;2024-09-23
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";SalonEventos4;salon_eventos;114;60000;32;;lunes;08:00;14:00;2025-07-29;2025-08-28
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana1;cabana;6;230000;;dia;viernes;00:00;23:59;2024-12-14;2025-03-14
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana2;cabana;6;160000;32;dia;domingo;00:00;23:59;2024-09-24;2024-10-08
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana3;cabana;4;60000;0;dia;sabado;00:00;23:59;2025-04-12;2025-06-11
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana4;cabana;8;230000;;dia;viernes;00:00;23:59;2025-10-21;2025-12-20
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana5;cabana;8;170000;19;dia;martes;00:00;23:59;2025-11-29;2026-02-27
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana6;cabana;8;160000;;dia;martes;00:00;23:59;2024-06-19;2024-09-17
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana7;cabana;4;160000;;dia;miercoles;00:00;23:59;2024-04-03;2024-04-10
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana8;cabana;6;80000;22;dia;lunes;00:00;23:59;2024-11-11;2024-11-25
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana9;cabana;8;140000;7;dia;domingo;00:00;23:59;2025-09-13;2025-09-27
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana10;cabana;4;70000;64;dia;miercoles;00:00;23:59;2024-08-28;2024-09-11
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana11;cabana;6;100000;;dia;miercoles;00:00;23:59;2025-07-29;2025-10-27
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana12;cabana;7;160000;;dia;viernes;00:00;23:59;2024-02-05;2024-02-19
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana13;cabana;5;150000;9;dia;viernes;00:00;23:59;2025-11-29;2026-02-27
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana14;cabana;8;130000;36;dia;miercoles;00:00;23:59;2025-04-07;2025-04-21
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana15;cabana;5;40000;60;dia;jueves;00:00;23:59;2025-10-29;2025-11-05
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana16;cabana;4;120000;4;dia;viernes;00:00;23:59;2025-10-10;2025-10-24
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana17;cabana;8;190000;35;dia;lunes;00:00;23:59;2024-06-06;2024-06-13
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana18;cabana;4;110000;26;dia;lunes;00:00;23:59;2025-05-06;2025-05-13
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana19;cabana;8;20000;;dia;sabado;00:00;23:59;2025-06-23;2025-07-07
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana20;cabana;7;130000;;dia;domingo;00:00;23:59;2025-10-10;2025-11-09
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cancha_tenis_aire_libre;cancha_aire_libre;12;100000;;hora;jueves;13:00;14:00;2024-04-15;2024-04-29
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cancha_tenis_techada;cancha_techada;14;120000;55;hora;lunes;08:00;08:30;2024-03-08;2024-03-22
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cancha_basquetbol_aire_libre;cancha_aire_libre;10;110000;;hora;sabado;13:00;14:00;2025-09-15;2025-12-14
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cancha_basquetbol_techada;cancha_techada;12;80000;;hora;miercoles;09:00;10:00;2024-12-31;2025-01-07
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cancha_futbolito_aire_libre;cancha_aire_libre;19;30000;40;hora;jueves;09:00;10:00;2024-08-25;2024-09-24
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cancha_futbolito_techada;cancha_techada;15;220000;8;hora;martes;18:00;19:00;2025-11-15;2025-11-29
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cancha_padel_aire_libre;cancha_aire_libre;13;60000;41;hora;lunes;09:00;10:00;2024-12-24;2025-01-07
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cancha_padel_techada;cancha_techada;15;140000;24;hora;martes;09:00;10:00;2025-04-23;2025-05-23
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";linea1_piscina1;piscina;1;20000;;;domingo;12:00;13:00;2025-01-24;2025-01-31
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";linea2_piscina1;piscina;1;50000;55;;jueves;19:00;20:00;2024-04-08;2024-07-07
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";linea4_piscina1;piscina;1;100000;;;lunes;16:00;17:00;2024-05-23;2024-05-30
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";linea5_piscina1;piscina;1;160000;3;;lunes;13:00;14:00;2025-02-25;2025-03-11
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";linea6_piscina1;piscina;1;80000;;;viernes;20:00;21:00;2025-03-15;2025-05-14
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";linea7_piscina1;piscina;1;120000;;;viernes;22:00;23:00;2025-03-16;2025-05-15
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";linea8_piscina1;piscina;1;20000;65;;viernes;08:00;09:00;2024-05-02;2024-07-01
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";linea1_piscina2;piscina;1;90000;28;;lunes;13:00;14:00;2024-04-11;2024-07-10
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";linea2_piscina2;piscina;1;20000;74;;miercoles;13:00;14:00;2024-12-07;2025-01-06
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";linea3_piscina2;piscina;1;180000;23;;martes;18:00;19:00;2024-06-26;2024-08-25
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";linea4_piscina2;piscina;1;120000;73;;viernes;18:00;19:00;2025-02-07;2025-02-21
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";linea5_piscina2;piscina;1;30000;;;viernes;20:00;21:00;2024-06-30;2024-08-29
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";linea6_piscina2;piscina;1;50000;72;;viernes;19:00;20:00;2024-11-03;2024-11-17
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";linea7_piscina2;piscina;1;20000;40;;martes;08:00;09:00;2024-11-01;2024-12-31
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";linea8_piscina2;piscina;1;150000;;;martes;09:00;10:00;2025-02-03;2025-04-04
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";SalonEventos1;salon_eventos;153;90000;33;dia;viernes;00:00;23:59;2025-10-09;2025-11-08
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";SalonEventos2;salon_eventos;182;220000;57;;miercoles;08:00;14:00;2024-11-14;2024-12-14
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";SalonEventos3;salon_eventos;190;220000;24;;miercoles;20:00;23:59;2025-09-08;2025-12-07
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";SalonEventos4;salon_eventos;39;80000;;;sabado;08:00;14:00;2025-01-14;2025-04-14
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cabana1;cabana;5;200000;37;dia;miercoles;00:00;23:59;2025-09-21;2025-12-20
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cabana2;cabana;5;50000;;dia;sabado;00:00;23:59;2025-10-22;2025-12-21
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cabana3;cabana;8;160000;;dia;martes;00:00;23:59;2025-05-19;2025-08-17
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cabana4;cabana;8;100000;;dia;jueves;00:00;23:59;2025-06-23;2025-08-22
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cabana5;cabana;5;130000;;dia;domingo;00:00;23:59;2024-03-08;2024-03-15
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cabana7;cabana;5;120000;0;dia;jueves;00:00;23:59;2025-02-03;2025-05-04
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cabana8;cabana;7;160000;5;dia;sabado;00:00;23:59;2025-08-23;2025-09-22
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cabana9;cabana;8;30000;;dia;martes;00:00;23:59;2024-11-01;2025-01-30
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cabana10;cabana;5;140000;48;dia;lunes;00:00;23:59;2025-04-16;2025-04-23
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cabana11;cabana;4;100000;;dia;jueves;00:00;23:59;2025-09-24;2025-12-23
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cabana12;cabana;5;140000;;dia;lunes;00:00;23:59;2024-02-29;2024-04-29
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cabana13;cabana;4;30000;37;dia;miercoles;00:00;23:59;2024-05-01;2024-06-30
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cabana14;cabana;4;210000;20;dia;viernes;00:00;23:59;2024-04-21;2024-05-21
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cabana15;cabana;5;130000;25;dia;viernes;00:00;23:59;2024-11-30;2024-12-30
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cabana16;cabana;4;180000;79;dia;martes;00:00;23:59;2024-11-03;2024-11-17
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cabana17;cabana;7;120000;46;dia;martes;00:00;23:59;2025-10-03;2025-10-10
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cabana18;cabana;5;190000;46;dia;lunes;00:00;23:59;2025-07-15;2025-09-13
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cabana19;cabana;6;60000;53;dia;lunes;00:00;23:59;2025-07-16;2025-07-30
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cabana20;cabana;4;90000;;dia;viernes;00:00;23:59;2024-09-22;2024-11-21
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cancha_tenis_aire_libre;cancha_aire_libre;17;190000;;hora;domingo;08:00;09:00;2025-11-21;2025-12-05
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cancha_tenis_techada;cancha_techada;13;100000;40;hora;viernes;11:00;12:00;2024-03-30;2024-04-29
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cancha_basquetbol_aire_libre;cancha_aire_libre;19;230000;33;hora;domingo;14:00;15:00;2024-07-15;2024-08-14
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cancha_basquetbol_techada;cancha_techada;18;130000;22;hora;jueves;12:00;13:00;2024-03-12;2024-03-26
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cancha_futbolito_aire_libre;cancha_aire_libre;20;160000;42;hora;sabado;12:00;13:00;2025-09-23;2025-10-07
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cancha_futbolito_techada;cancha_techada;13;100000;15;hora;miercoles;16:00;17:00;2025-07-15;2025-07-22
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cancha_padel_aire_libre;cancha_aire_libre;11;220000;;hora;jueves;12:00;13:00;2024-11-11;2024-11-18
+"Santa Cruz";"Ramon Sanfurgo 800";"Santa Cruz";Cancha_padel_techada;cancha_techada;21;60000;;hora;domingo;12:00;13:00;2024-10-02;2024-12-01
+"Santiago Centro";"Av Alameda 900";Santiago;linea1_piscina1;piscina;1;130000;32;;sabado;17:00;18:00;2024-07-29;2024-08-12
+"Santiago Centro";"Av Alameda 900";Santiago;linea2_piscina1;piscina;1;150000;;;miercoles;11:00;12:00;2024-02-22;2024-04-22
+"Santiago Centro";"Av Alameda 900";Santiago;linea3_piscina1;piscina;1;40000;1;;domingo;10:00;11:00;2025-09-07;2025-11-06
+"Santiago Centro";"Av Alameda 900";Santiago;linea4_piscina1;piscina;1;140000;30;;sabado;12:00;13:00;2024-10-05;2024-10-12
+"Santiago Centro";"Av Alameda 900";Santiago;linea5_piscina1;piscina;1;240000;38;;miercoles;14:00;15:00;2025-05-21;2025-08-19
+"Santiago Centro";"Av Alameda 900";Santiago;linea6_piscina1;piscina;1;30000;55;;martes;22:00;23:00;2024-08-30;2024-11-28
+"Santiago Centro";"Av Alameda 900";Santiago;linea7_piscina1;piscina;1;140000;74;;jueves;14:00;15:00;2025-02-17;2025-03-19
+"Santiago Centro";"Av Alameda 900";Santiago;linea8_piscina1;piscina;1;120000;;;viernes;18:00;19:00;2024-01-25;2024-02-01
+"Santiago Centro";"Av Alameda 900";Santiago;linea1_piscina2;piscina;1;130000;;;jueves;12:00;13:00;2025-02-24;2025-03-10
+"Santiago Centro";"Av Alameda 900";Santiago;linea2_piscina2;piscina;1;10000;11;;domingo;21:00;22:00;2024-12-08;2025-02-06
+"Santiago Centro";"Av Alameda 900";Santiago;linea3_piscina2;piscina;1;70000;36;;viernes;17:00;18:00;2024-02-16;2024-02-23
+"Santiago Centro";"Av Alameda 900";Santiago;linea4_piscina2;piscina;1;80000;77;;viernes;21:00;22:00;2024-03-08;2024-04-07
+"Santiago Centro";"Av Alameda 900";Santiago;linea5_piscina2;piscina;1;60000;;;sabado;13:00;14:00;2025-02-06;2025-03-08
+"Santiago Centro";"Av Alameda 900";Santiago;linea6_piscina2;piscina;1;200000;76;;jueves;15:00;16:00;2024-01-23;2024-03-23
+"Santiago Centro";"Av Alameda 900";Santiago;linea7_piscina2;piscina;1;100000;30;;domingo;14:00;15:00;2025-07-02;2025-08-31
+"Santiago Centro";"Av Alameda 900";Santiago;linea8_piscina2;piscina;1;120000;25;;jueves;11:00;12:00;2024-01-05;2024-01-19
+"Santiago Centro";"Av Alameda 900";Santiago;SalonEventos1;salon_eventos;84;190000;;;lunes;20:00;23:59;2025-04-14;2025-04-21
+"Santiago Centro";"Av Alameda 900";Santiago;SalonEventos2;salon_eventos;178;180000;2;;miercoles;14:00;20:00;2025-11-04;2025-11-11
+"Santiago Centro";"Av Alameda 900";Santiago;SalonEventos3;salon_eventos;159;210000;45;;martes;20:00;23:59;2024-11-19;2024-12-03
+"Santiago Centro";"Av Alameda 900";Santiago;SalonEventos4;salon_eventos;153;220000;7;;lunes;20:00;23:59;2025-09-29;2025-10-06
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana1;cabana;5;50000;;dia;jueves;00:00;23:59;2024-07-07;2024-10-05
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana2;cabana;6;140000;65;dia;jueves;00:00;23:59;2024-01-19;2024-04-18
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana3;cabana;5;50000;;dia;jueves;00:00;23:59;2025-03-21;2025-04-04
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana4;cabana;8;130000;53;dia;miercoles;00:00;23:59;2025-10-21;2025-11-20
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana5;cabana;6;10000;43;dia;jueves;00:00;23:59;2025-04-26;2025-05-26
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana7;cabana;5;90000;;dia;sabado;00:00;23:59;2025-05-24;2025-05-31
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana8;cabana;4;30000;;dia;viernes;00:00;23:59;2024-09-01;2024-11-30
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana9;cabana;7;220000;;dia;domingo;00:00;23:59;2024-10-31;2024-11-07
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana10;cabana;4;70000;47;dia;miercoles;00:00;23:59;2025-07-28;2025-08-04
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana11;cabana;8;30000;;dia;martes;00:00;23:59;2025-02-25;2025-03-11
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana12;cabana;7;150000;;dia;lunes;00:00;23:59;2025-03-23;2025-03-30
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana14;cabana;8;160000;4;dia;viernes;00:00;23:59;2024-06-16;2024-09-14
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana15;cabana;4;150000;18;dia;sabado;00:00;23:59;2025-04-27;2025-05-11
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana16;cabana;8;30000;76;dia;miercoles;00:00;23:59;2025-06-09;2025-06-16
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana17;cabana;4;90000;;dia;martes;00:00;23:59;2024-01-13;2024-01-20
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana18;cabana;5;80000;12;dia;domingo;00:00;23:59;2025-09-24;2025-10-08
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana19;cabana;8;210000;;dia;lunes;00:00;23:59;2024-05-10;2024-05-24
+"Santiago Centro";"Av Alameda 900";Santiago;Cabana20;cabana;6;30000;67;dia;martes;00:00;23:59;2025-01-12;2025-01-19
+"Santiago Centro";"Av Alameda 900";Santiago;Cancha_tenis_aire_libre;cancha_aire_libre;17;150000;;hora;domingo;08:00;09:00;2025-01-24;2025-01-31
+"Santiago Centro";"Av Alameda 900";Santiago;Cancha_tenis_techada;cancha_techada;12;220000;53;hora;viernes;17:00;18:00;2024-09-13;2024-12-12
+"Santiago Centro";"Av Alameda 900";Santiago;Cancha_basquetbol_aire_libre;cancha_aire_libre;17;90000;;hora;domingo;10:00;11:00;2025-11-27;2026-01-26
+"Santiago Centro";"Av Alameda 900";Santiago;Cancha_basquetbol_techada;cancha_techada;14;160000;2;hora;sabado;20:00;21:00;2024-02-23;2024-04-23
+"Santiago Centro";"Av Alameda 900";Santiago;Cancha_futbolito_aire_libre;cancha_aire_libre;11;130000;31;hora;martes;09:00;10:00;2025-09-29;2025-10-06
+"Santiago Centro";"Av Alameda 900";Santiago;Cancha_futbolito_techada;cancha_techada;21;50000;;hora;lunes;16:00;17:00;2024-03-05;2024-06-03
+"Santiago Centro";"Av Alameda 900";Santiago;Cancha_padel_aire_libre;cancha_aire_libre;19;40000;37;hora;sabado;17:00;18:00;2024-10-18;2024-12-17
+Providencia;"Av Pedro de Valdivia 2100";Providencia;linea1_piscina1;piscina;1;60000;24;;sabado;22:00;23:00;2025-11-05;2025-12-05
+Providencia;"Av Pedro de Valdivia 2100";Providencia;linea2_piscina1;piscina;1;100000;;;viernes;12:00;13:00;2024-09-14;2024-10-14
+Providencia;"Av Pedro de Valdivia 2100";Providencia;linea3_piscina1;piscina;1;10000;8;;lunes;13:00;14:00;2024-12-30;2025-01-29
+Providencia;"Av Pedro de Valdivia 2100";Providencia;linea4_piscina1;piscina;1;90000;;;lunes;15:00;16:00;2025-03-19;2025-06-17
+Providencia;"Av Pedro de Valdivia 2100";Providencia;linea5_piscina1;piscina;1;110000;14;;martes;08:00;09:00;2024-06-04;2024-09-02
+Providencia;"Av Pedro de Valdivia 2100";Providencia;linea6_piscina1;piscina;1;160000;;;jueves;17:00;18:00;2024-08-12;2024-08-19
+Providencia;"Av Pedro de Valdivia 2100";Providencia;linea7_piscina1;piscina;1;250000;2;;martes;09:00;10:00;2024-05-30;2024-06-29
+Providencia;"Av Pedro de Valdivia 2100";Providencia;linea8_piscina1;piscina;1;230000;69;;sabado;15:00;16:00;2025-04-02;2025-07-01
+Providencia;"Av Pedro de Valdivia 2100";Providencia;linea1_piscina2;piscina;1;210000;;;miercoles;20:00;21:00;2025-10-04;2025-11-03
+Providencia;"Av Pedro de Valdivia 2100";Providencia;linea2_piscina2;piscina;1;90000;14;;sabado;16:00;17:00;2024-10-08;2024-10-15
+Providencia;"Av Pedro de Valdivia 2100";Providencia;linea3_piscina2;piscina;1;80000;;;miercoles;15:00;16:00;2024-06-19;2024-07-19
+Providencia;"Av Pedro de Valdivia 2100";Providencia;linea4_piscina2;piscina;1;200000;25;;martes;22:00;23:00;2024-12-04;2025-01-03
+Providencia;"Av Pedro de Valdivia 2100";Providencia;linea5_piscina2;piscina;1;240000;10;;jueves;09:00;10:00;2024-03-16;2024-06-14
+Providencia;"Av Pedro de Valdivia 2100";Providencia;linea6_piscina2;piscina;1;230000;63;;martes;13:00;14:00;2024-09-16;2024-12-15
+Providencia;"Av Pedro de Valdivia 2100";Providencia;linea7_piscina2;piscina;1;20000;9;;miercoles;18:00;19:00;2025-06-12;2025-09-10
+Providencia;"Av Pedro de Valdivia 2100";Providencia;linea8_piscina2;piscina;1;10000;;;domingo;21:00;22:00;2025-01-07;2025-02-06
+Providencia;"Av Pedro de Valdivia 2100";Providencia;SalonEventos1;salon_eventos;44;250000;;dia;sabado;08:00;08:30;2024-09-16;2024-09-23
+Providencia;"Av Pedro de Valdivia 2100";Providencia;SalonEventos2;salon_eventos;69;110000;;dia;miercoles;00:00;23:59;2024-06-05;2024-08-04
+Providencia;"Av Pedro de Valdivia 2100";Providencia;SalonEventos3;salon_eventos;197;30000;;;jueves;20:00;23:59;2025-02-25;2025-04-26
+Providencia;"Av Pedro de Valdivia 2100";Providencia;SalonEventos4;salon_eventos;39;20000;9;;sabado;14:00;20:00;2024-07-30;2024-09-28
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana2;cabana;8;140000;;dia;domingo;00:00;23:59;2024-03-09;2024-05-08
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana3;cabana;7;90000;34;dia;sabado;00:00;23:59;2025-09-07;2025-12-06
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana4;cabana;8;170000;;dia;viernes;00:00;23:59;2024-05-16;2024-07-15
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana5;cabana;4;140000;73;dia;sabado;00:00;23:59;2025-01-31;2025-03-02
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana6;cabana;5;60000;;dia;domingo;00:00;23:59;2024-01-30;2024-03-30
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana7;cabana;5;210000;;dia;sabado;00:00;23:59;2025-05-15;2025-06-14
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana8;cabana;5;190000;;dia;viernes;00:00;23:59;2025-06-04;2025-08-03
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana10;cabana;6;50000;9;dia;domingo;00:00;23:59;2025-07-28;2025-10-26
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana11;cabana;8;130000;6;dia;viernes;00:00;23:59;2024-11-30;2025-02-28
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana12;cabana;4;10000;;dia;lunes;00:00;23:59;2025-04-11;2025-04-18
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana13;cabana;5;70000;8;dia;domingo;00:00;23:59;2024-08-02;2024-09-01
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana14;cabana;5;210000;36;dia;martes;00:00;23:59;2025-03-07;2025-03-21
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana15;cabana;6;210000;;dia;martes;00:00;23:59;2024-02-21;2024-02-28
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana16;cabana;6;170000;57;dia;viernes;00:00;23:59;2025-04-12;2025-04-26
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana17;cabana;7;150000;;dia;viernes;00:00;23:59;2024-06-18;2024-09-16
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana18;cabana;4;170000;0;dia;viernes;00:00;23:59;2025-02-21;2025-04-22
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana19;cabana;4;230000;;dia;sabado;00:00;23:59;2024-06-09;2024-08-08
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cabana20;cabana;4;230000;;dia;martes;00:00;23:59;2024-03-30;2024-06-28
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cancha_tenis_aire_libre;cancha_aire_libre;14;100000;;hora;jueves;21:00;22:00;2025-06-28;2025-07-05
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cancha_tenis_techada;cancha_techada;21;210000;;hora;miercoles;13:00;14:00;2025-08-30;2025-09-29
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cancha_basquetbol_aire_libre;cancha_aire_libre;11;40000;;hora;miercoles;12:00;13:00;2025-10-09;2025-10-23
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cancha_basquetbol_techada;cancha_techada;13;50000;31;hora;viernes;19:00;20:00;2024-03-03;2024-06-01
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cancha_futbolito_aire_libre;cancha_aire_libre;11;70000;43;hora;viernes;21:00;22:00;2024-07-12;2024-07-19
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cancha_futbolito_techada;cancha_techada;11;110000;24;hora;viernes;20:00;21:00;2024-09-05;2024-12-04
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cancha_padel_aire_libre;cancha_aire_libre;11;190000;55;hora;lunes;08:00;09:00;2025-03-17;2025-03-31
+Providencia;"Av Pedro de Valdivia 2100";Providencia;Cancha_padel_techada;cancha_techada;15;160000;40;hora;sabado;18:00;19:00;2025-07-07;2025-09-05
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";linea1_piscina1;piscina;1;70000;68;;jueves;11:00;12:00;2025-08-28;2025-09-27
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";linea2_piscina1;piscina;1;70000;;;miercoles;20:00;21:00;2025-06-04;2025-09-02
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";linea3_piscina1;piscina;1;220000;;;lunes;08:00;09:00;2024-11-23;2025-01-22
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";linea4_piscina1;piscina;1;80000;59;;domingo;20:00;21:00;2024-04-02;2024-04-09
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";linea5_piscina1;piscina;1;10000;36;;martes;10:00;11:00;2024-01-07;2024-04-06
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";linea6_piscina1;piscina;1;160000;57;;jueves;14:00;15:00;2024-01-31;2024-02-14
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";linea7_piscina1;piscina;1;190000;;;martes;17:00;18:00;2025-03-25;2025-06-23
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";linea8_piscina1;piscina;1;70000;;;viernes;14:00;15:00;2024-09-30;2024-10-07
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";linea1_piscina2;piscina;1;230000;0;;martes;13:00;14:00;2024-09-09;2024-09-23
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";linea2_piscina2;piscina;1;50000;;;martes;19:00;20:00;2024-10-12;2024-10-19
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";linea3_piscina2;piscina;1;140000;33;;lunes;10:00;11:00;2024-08-21;2024-09-04
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";linea4_piscina2;piscina;1;190000;27;;sabado;08:00;08:30;2025-08-27;2025-10-26
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";linea5_piscina2;piscina;1;160000;31;;lunes;22:00;23:00;2025-01-25;2025-02-24
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";linea6_piscina2;piscina;1;190000;33;;sabado;21:00;22:00;2025-01-24;2025-02-23
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";linea7_piscina2;piscina;1;140000;;;martes;09:00;10:00;2024-01-22;2024-01-29
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";linea8_piscina2;piscina;1;160000;24;;martes;20:00;21:00;2024-01-21;2024-02-20
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";SalonEventos1;salon_eventos;116;70000;16;;domingo;14:00;20:00;2024-06-12;2024-06-26
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";SalonEventos2;salon_eventos;176;180000;73;dia;jueves;00:00;23:59;2024-01-09;2024-01-16
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";SalonEventos3;salon_eventos;154;90000;28;;domingo;08:00;14:00;2025-02-07;2025-04-08
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";SalonEventos4;salon_eventos;146;220000;;;martes;08:00;14:00;2024-03-02;2024-05-01
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana1;cabana;6;80000;36;dia;miercoles;00:00;23:59;2024-04-18;2024-06-17
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana2;cabana;4;60000;44;dia;martes;00:00;23:59;2025-06-05;2025-09-03
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana3;cabana;6;10000;;dia;jueves;00:00;23:59;2024-09-13;2024-09-20
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana4;cabana;8;250000;;dia;jueves;00:00;23:59;2025-10-04;2025-10-11
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana5;cabana;5;250000;30;dia;sabado;00:00;23:59;2025-06-18;2025-07-18
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana6;cabana;5;100000;39;dia;miercoles;00:00;23:59;2025-03-19;2025-04-18
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana7;cabana;5;250000;75;dia;domingo;00:00;23:59;2025-07-20;2025-08-19
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana9;cabana;7;250000;33;dia;jueves;00:00;23:59;;2024-11-25
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana10;cabana;6;170000;;dia;miercoles;00:00;23:59;2025-02-27;2025-05-28
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana11;cabana;4;220000;19;dia;domingo;00:00;23:59;2024-03-16;2024-03-30
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana12;cabana;8;140000;19;dia;domingo;00:00;23:59;2025-02-18;2025-03-20
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana14;cabana;6;40000;;dia;jueves;00:00;23:59;2025-06-28;2025-07-12
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana16;cabana;7;70000;;dia;viernes;00:00;23:59;2024-06-03;2024-06-10
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana17;cabana;4;190000;47;dia;jueves;00:00;23:59;2024-09-05;2024-12-04
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana18;cabana;4;20000;;dia;jueves;00:00;23:59;2025-06-24;2025-07-08
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana19;cabana;5;60000;52;dia;martes;00:00;23:59;2025-05-22;2025-06-05
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cabana20;cabana;5;130000;;dia;miercoles;00:00;23:59;2025-08-18;2025-09-17
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cancha_tenis_aire_libre;cancha_aire_libre;21;180000;;hora;lunes;13:00;14:00;2024-01-12;2024-02-11
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cancha_tenis_techada;cancha_techada;16;50000;63;hora;viernes;14:00;15:00;;2024-01-25
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cancha_basquetbol_aire_libre;cancha_aire_libre;20;230000;;hora;jueves;09:00;10:00;2025-07-26;2025-08-02
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cancha_basquetbol_techada;cancha_techada;11;80000;;hora;miercoles;08:00;09:00;2024-02-18;2024-03-03
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cancha_futbolito_aire_libre;cancha_aire_libre;18;200000;46;hora;sabado;22:00;23:00;2024-07-17;2024-08-16
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cancha_futbolito_techada;cancha_techada;11;140000;28;hora;viernes;12:00;13:00;2025-08-09;2025-08-16
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cancha_padel_aire_libre;cancha_aire_libre;15;130000;11;hora;sabado;13:00;14:00;2025-05-04;2025-05-11
+"La Florida";"Av. Vicua Mackenna 10777";"La Florida";Cancha_padel_techada;cancha_techada;22;80000;;hora;sabado;17:00;18:00;2025-10-31;2025-12-30

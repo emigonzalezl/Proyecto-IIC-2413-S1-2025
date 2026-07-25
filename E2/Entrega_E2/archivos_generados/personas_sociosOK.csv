@@ -1,0 +1,905 @@
+run_persona;nombre_completo;email;telefono_celular;telefono_alternativo;direccion_calle;comuna_nombre;region_codigo;region_nombre;tipo_persona;run_socio_titular;parentesco;fecha_nacimiento;fecha_inicio_membresia;fecha_fin_membresia;es_usuario_sistema;tipo_usuario;clave_en_texto_plano;sucursal_base_nombre
+15741923-4;"Claudio Quezada Contreras";claudio.quezada245@mail.cl;991377023;987746494;"Av Macul 1200";"Las Condes";13;Metropolitana;invitado;;;;2025-01-01;2025-12-31;NO;;;"La Florida"
+24887596-8;"Mauricio Barrera Duarte";mauricio.barrera71@mail.cl;;995286491;"Av Pedro de Valdivia 4000";"San Miguel";13;Metropolitana;"socio titular";;;;2025-01-01;2025-12-31;SI;socio;clave9012;"Santiago Centro"
+15056800-5;"Enrique Espinoza Mendez";enrique.espinoza303@mail.cl;;995323928;"Av Macul 2600";"Viña del Mar";5;Valparaíso;adicional;24887596-8;;1983-09-09;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+19248057-4;"Claudio Barrera Jara";claudio.barrera746@mail.cl;;933190336;"Av Vitacura 3400";Santiago;13;Metropolitana;adicional;24887596-8;;;2025-01-01;2025-12-31;NO;;;"Santa Cruz"
+21350733-8;"Kevin Quezada Galdames";kevin.quezada94@mail.cl;982880079;;"Av Vitacura 600";Concepción;8;Biobío;adicional;24887596-8;;1984-12-09;2025-01-01;2025-12-31;NO;;;Providencia
+7339507-0;"Enrique Ortiz Henriquez";enrique.ortiz488@mail.cl;981109079;;"Av Recoleta 100";"San Miguel";13;Metropolitana;invitado;;;1990-01-01;2025-01-01;2025-12-31;NO;;;"La Florida"
+17456317-9;"Kevin Galdames Contreras";kevin.galdames474@mail.cl;;;"Av Alameda 600";"La Reina";13;Metropolitana;adicional;24887596-8;;2004-10-13;2025-01-01;2025-12-31;NO;;;"La Florida"
+11606281-K;"Claudio Quezada Ortiz";claudio.quezada783@mail.cl;915107501;;"Av Providencia 700";Santiago;13;Metropolitana;"socio titular";;;1994-06-27;2025-01-01;2025-12-31;SI;socio;clave5823;"Santiago Centro"
+5011347-7;"Natalia Iturra Contreras";natalia.iturra109@mail.cl;983787996;972003207;"Av Recoleta 3100";"Santa Cruz";6;O'Higgins;adicional;24887596-8;;1975-09-04;2025-01-01;2025-12-31;NO;;;Providencia
+21752061-4;"Natalia Nuñez Galdames";natalia.nunez176@mail.cl;;963683652;"Av Providencia 2000";Santiago;13;Metropolitana;invitado;;;1959-12-22;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+24419839-2;"Enrique Pardo Contreras";enrique.pardo430@mail.cl;947144463;;"Av Apoquindo 1500";Maipú;13;Metropolitana;invitado;;;1986-03-11;2025-01-01;2025-12-31;NO;;;Providencia
+23038040-6;"Enrique Jara Pardo";enrique.jara621@mail.cl;947288839;;"Av Providencia 2600";Concepción;8;Biobío;adicional;24887596-8;;1992-06-08;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+24574068-9;"Javiera Pardo Alvarez";javiera.pardo811@mail.cl;956068669;979851888;"Av Irarrazaval 2100";"San Miguel";13;Metropolitana;invitado;;;1976-02-28;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+12269915-3;"Ignacio Nuñez Barrera";ignacio.nunez791@mail.cl;912852709;969123805;"Av Gran Avenida 2800";"Viña del Mar";5;Valparaíso;adicional;24887596-8;;1978-03-12;2025-01-01;2025-12-31;NO;;;Providencia
+24942622-9;"Helena Duarte Contreras";helena.duarte603@mail.cl;;;"Av Vicuña Mackenna 400";Santiago;13;Metropolitana;invitado;;;1996-11-03;2025-01-01;2025-12-31;NO;;;Providencia
+20848551-2;"Daniela Henriquez Fuentes";daniela.henriquez504@mail.cl;;933239430;"Av Apoquindo 200";"La Florida";13;Metropolitana;"socio titular";;;1950-06-28;2025-01-01;2025-12-31;SI;socio;clave8398;"Santa Cruz"
+22997716-4;"Natalia Duarte Nuñez";natalia.duarte638@mail.cl;;989414475;"Av Vicuña Mackenna 3600";Concepción;8;Biobío;"socio titular";;;1960-07-13;2025-01-01;2025-12-31;SI;socio;clave5845;Providencia
+15182198-7;"Patricia Duarte Espinoza";patricia.duarte537@mail.cl;985713232;939203614;"Av Gran Avenida 1800";"Viña del Mar";5;Valparaíso;"socio titular";;;1957-08-17;2025-01-01;2025-12-31;SI;socio;clave3126;"Santa Cruz"
+12380211-K;"Kevin Mendez Contreras";kevin.mendez576@mail.cl;;997342222;"Av Pedro de Valdivia 500";Santiago;13;Metropolitana;invitado;;;1961-05-04;2025-01-01;2025-12-31;NO;;;Providencia
+16543535-4;"Beatriz Ortiz Espinoza";beatriz.ortiz590@mail.cl;979934259;;"Av Pedro de Valdivia 2800";Maipú;13;Metropolitana;adicional;11606281-K;;;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+23262614-3;"Claudio Nuñez Pardo";claudio.nunez16@mail.cl;;983795836;"Av Alameda 1300";Independencia;13;Metropolitana;invitado;;;2000-08-01;2025-01-01;2025-12-31;NO;;;"La Florida"
+15502403-8;"Enrique Pardo Lagos";enrique.pardo820@mail.cl;969955819;;"Av Providencia 2600";Independencia;13;Metropolitana;beneficiario;15182198-7;c—nyuge;1992-05-23;2025-01-01;2025-12-31;NO;;;"Santa Cruz"
+17130872-0;"Javiera Duarte Iturra";javiera.duarte785@mail.cl;958566710;;"Av Alameda 3400";"Santa Cruz";6;O'Higgins;invitado;;;;2025-01-01;2025-12-31;NO;;;"Santa Cruz"
+16804818-1;"Loreto Alvarez Mendez";loreto.alvarez801@mail.cl;;922366544;"Av Macul 2000";"La Reina";13;Metropolitana;"socio titular";;;1967-03-14;2025-01-01;2025-12-31;SI;socio;clave5253;Providencia
+5058856-4;"Beatriz Alvarez Lagos";beatriz.alvarez585@mail.cl;941539434;961411822;"Av Pedro de Valdivia 3200";"Santa Cruz";6;O'Higgins;"socio titular";;;1961-11-01;2025-01-01;2025-12-31;SI;socio;clave5855;Providencia
+20834216-9;"Felicia Galdames Galdames";felicia.galdames967@mail.cl;988709811;;"Av Pedro de Valdivia 1100";"La Florida";13;Metropolitana;adicional;5058856-4;;2002-01-01;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+12170069-7;"Oscar Contreras Lagos";oscar.contreras815@mail.cl;994347859;938027041;"Av Apoquindo 3000";"La Reina";13;Metropolitana;"socio titular";;;1971-07-27;2025-01-01;2025-12-31;SI;socio;clave2142;Providencia
+8652635-2;"Beatriz Alvarez Henriquez";beatriz.alvarez606@mail.cl;989563588;931335928;"Av Vicuña Mackenna 2100";"Santa Cruz";6;O'Higgins;invitado;;;1972-06-12;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+8655536-0;"Felicia Iturra Galdames";felicia.iturra373@mail.cl;929997767;976608183;"Av Pedro de Valdivia 1600";Concepción;8;Biobío;invitado;;;1968-06-20;2025-01-01;2025-12-31;NO;;;Providencia
+10924145-8;"Ignacio Jara Jara";ignacio.jara301@mail.cl;;986037010;"Av Gran Avenida 2300";"Viña del Mar";5;Valparaíso;invitado;;;1990-01-01;2025-01-01;2025-12-31;NO;;;Providencia
+7778091-2;"Daniela Lagos Contreras";daniela.lagos659@mail.cl;923416391;;"Av Vitacura 300";Providencia;13;Metropolitana;invitado;;;1983-05-03;2025-01-01;2025-12-31;NO;;;Providencia
+24692054-0;"Loreto Duarte Quezada";loreto.duarte749@mail.cl;;988720261;"Av Apoquindo 800";Independencia;13;Metropolitana;"socio titular";;;1973-07-24;2025-01-01;2025-12-31;SI;socio;clave5323;"Santa Cruz"
+6117204-1;"Claudio Fuentes Espinoza";claudio.fuentes202@mail.cl;980094252;930305675;"Av Vicuña Mackenna 4000";Concepción;8;Biobío;adicional;11606281-K;;1996-03-24;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+7580760-0;"Helena Pardo Lagos";helena.pardo200@mail.cl;;967754685;"Av Vitacura 2800";Maipú;13;Metropolitana;invitado;;;1976-08-04;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+24122122-9;"Patricia Henriquez Jara";patricia.henriquez696@mail.cl;944800683;969060386;"Av Vitacura 2600";"San Miguel";13;Metropolitana;invitado;;;1984-10-19;2025-01-01;2025-12-31;NO;;;"La Florida"
+21124997-8;"Mauricio Jara Jara";mauricio.jara197@mail.cl;970133697;973173647;"Av Pedro de Valdivia 2400";Santiago;13;Metropolitana;invitado;;;1990-01-22;2025-01-01;2025-12-31;NO;;;"Santa Cruz"
+16701421-6;"Felicia Henriquez Nuñez";felicia.henriquez855@mail.cl;;;"Av Apoquindo 3200";Providencia;13;Metropolitana;"socio titular";;;1958-03-04;2025-01-01;2025-12-31;SI;socio;clave9770;"Santiago Centro"
+22924363-2;"Beatriz Jara Ortiz";beatriz.jara251@mail.cl;;;"Av Alameda 1000";Santiago;13;Metropolitana;"socio titular";;;1968-10-07;2025-01-01;2025-12-31;SI;socio;clave2604;"Santiago Centro"
+12620839-1;"Patricia Quezada Iturra";patricia.quezada959@mail.cl;;;"Av Vicuña Mackenna 2700";"La Florida";13;Metropolitana;"socio titular";;;1960-12-17;2025-01-01;2025-12-31;SI;socio;clave1434;"Santiago Centro"
+21910612-2;"Felicia Duarte Galdames";felicia.duarte186@mail.cl;;943869148;"Av Vicuña Mackenna 3300";Providencia;13;Metropolitana;adicional;15182198-7;;1980-10-09;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+12735469-3;"Daniela Quezada Nuñez";daniela.quezada679@mail.cl;;932388016;"Av Macul 2400";Maipú;13;Metropolitana;"socio titular";;;1982-07-26;2025-01-01;2025-12-31;SI;socio;clave8136;"La Florida"
+10870089-0;"Alvaro Alvarez Jara";alvaro.alvarez373@mail.cl;935143454;;"Av Alameda 3800";"Viña del Mar";5;Valparaíso;adicional;5058856-4;;1984-07-13;2025-01-01;2025-12-31;NO;;;"Santa Cruz"
+21265551-1;"Enrique Quezada Mendez";enrique.quezada970@mail.cl;997286742;;"Av Recoleta 1400";"Viña del Mar";5;Valparaíso;"socio titular";;;;2025-01-01;2025-12-31;SI;socio;clave1807;"Santiago Centro"
+20789127-4;"Daniela Henriquez Duarte";daniela.henriquez662@mail.cl;;;"Av Gran Avenida 2900";Ñuñoa;13;Metropolitana;"socio titular";;;1977-07-10;2025-01-01;2025-12-31;SI;socio;clave8678;Providencia
+22819447-6;"Natalia Alvarez Nuñez";natalia.alvarez775@mail.cl;942224879;962864683;"Av Recoleta 2900";Ñuñoa;13;Metropolitana;invitado;;;1979-06-04;2025-01-01;2025-12-31;NO;;;"Santa Cruz"
+16895363-1;"Mauricio Contreras Iturra";mauricio.contreras361@mail.cl;977085850;;"Av Recoleta 3700";Independencia;13;Metropolitana;invitado;;;1990-01-01;2025-01-01;2025-12-31;NO;;;"Santa Cruz"
+15913517-9;"Gonzalo Lagos Mendez";gonzalo.lagos665@mail.cl;979130511;;"Av Irarrazaval 800";Concepción;8;Biobío;"socio titular";;;2003-05-16;2025-01-01;2025-12-31;SI;socio;clave5232;Providencia
+12038700-6;"Helena Mendez Barrera";helena.mendez349@mail.cl;911383220;910413238;"Av Recoleta 1400";"Las Condes";13;Metropolitana;invitado;;;1953-04-18;2025-01-01;2025-12-31;NO;;;"La Florida"
+6161915-1;"Mauricio Barrera Galdames";mauricio.barrera136@mail.cl;;939565170;"Av Vicuña Mackenna 3200";Providencia;13;Metropolitana;adicional;24692054-0;;1988-07-14;2025-01-01;2025-12-31;NO;;;Providencia
+17526820-0;"Ignacio Espinoza Galdames";ignacio.espinoza382@mail.cl;;;"Av Irarrazaval 2000";Santiago;13;Metropolitana;"socio titular";;;1963-06-03;2025-01-01;2025-12-31;SI;socio;clave9341;Providencia
+16103628-5;"Helena Alvarez Mendez";helena.alvarez351@mail.cl;917109836;968272036;"Av Pedro de Valdivia 900";"La Reina";13;Metropolitana;"socio titular";;;;2025-01-01;2025-12-31;SI;socio;clave9537;Providencia
+24941085-3;"Natalia Contreras Jara";natalia.contreras377@mail.cl;956080624;922192814;"Av Pedro de Valdivia 1300";"San Miguel";13;Metropolitana;"socio titular";;;2005-06-10;2025-01-01;2025-12-31;SI;socio;clave1451;"Santa Cruz"
+21325038-8;"Loreto Nuñez Henriquez";loreto.nunez456@mail.cl;;968170098;"Av Recoleta 2600";"La Florida";13;Metropolitana;"socio titular";;;1989-11-15;2025-01-01;2025-12-31;SI;socio;clave7838;Providencia
+24312148-5;"Helena Espinoza Espinoza";helena.espinoza171@mail.cl;955274061;;"Av Alameda 600";"Viña del Mar";5;Valparaíso;invitado;;;;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+12089773-K;"Javiera Mendez Jara";javiera.mendez290@mail.cl;914215655;;"Av Vicuña Mackenna 1400";Santiago;13;Metropolitana;adicional;15913517-9;;2003-06-04;2025-01-01;2025-12-31;NO;;;Providencia
+14442087-K;"Mauricio Lagos Jara";mauricio.lagos834@mail.cl;999735324;944058799;"Av Irarrazaval 2700";Concepción;8;Biobío;adicional;16804818-1;;1989-06-16;2025-01-01;2025-12-31;NO;;;"Santa Cruz"
+21753552-2;"Alvaro Galdames Mendez";alvaro.galdames847@mail.cl;960366360;;"Av Recoleta 3500";Independencia;13;Metropolitana;adicional;12170069-7;;1998-10-16;2025-01-01;2025-12-31;NO;;;"La Florida"
+14183097-K;"Gonzalo Pardo Barrera";gonzalo.pardo402@mail.cl;962140993;958055621;"Av Irarrazaval 4000";Independencia;13;Metropolitana;adicional;20789127-4;;2002-03-07;2025-01-01;2025-12-31;NO;;;"La Florida"
+11762219-3;"Oscar Fuentes Galdames";oscar.fuentes528@mail.cl;;997471570;"Av Recoleta 2200";Providencia;13;Metropolitana;beneficiario;21265551-1;c—nyuge;1969-06-19;2025-01-01;2025-12-31;NO;;;"Santa Cruz"
+16865467-7;"Helena Ortiz Quezada";helena.ortiz571@mail.cl;927712890;959361476;"Av Irarrazaval 400";"Santa Cruz";6;O'Higgins;invitado;;;1980-06-08;2025-01-01;2025-12-31;NO;;;"Santa Cruz"
+14311235-7;"Patricia Jara Galdames";patricia.jara597@mail.cl;;998123325;"Av Alameda 3900";Concepción;8;Biobío;"socio titular";;;2002-04-21;2025-01-01;2025-12-31;SI;socio;clave1366;Providencia
+17931087-2;"Kevin Nuñez Alvarez";kevin.nunez437@mail.cl;;926012509;"Av Alameda 200";Providencia;13;Metropolitana;adicional;20848551-2;;1988-01-15;2025-01-01;2025-12-31;NO;;;"La Florida"
+20227807-8;"Ignacio Galdames Duarte";ignacio.galdames141@mail.cl;;;"Av Pedro de Valdivia 3600";"Puente Alto";13;Metropolitana;administrativo;;;1989-08-17;2025-01-01;2025-12-31;SI;administrativo;clave4822;"Santa Cruz"
+21487779-1;"Gonzalo Pardo Henriquez";gonzalo.pardo73@mail.cl;937972392;981951536;"Av Vitacura 3200";Santiago;13;Metropolitana;invitado;;;;2025-01-01;2025-12-31;NO;;;Providencia
+14177217-1;"Beatriz Espinoza Nuñez";beatriz.espinoza700@mail.cl;957605113;;"Av Vicuña Mackenna 800";"Las Condes";13;Metropolitana;administrativo;;;1997-03-23;2025-01-01;2025-12-31;SI;administrativo;clave2216;Providencia
+17854299-0;"Patricia Iturra Jara";patricia.iturra843@mail.cl;;;"Av Irarrazaval 900";Independencia;13;Metropolitana;invitado;;;1991-10-21;2025-01-01;2025-12-31;NO;;;Providencia
+13604482-6;"Daniela Lagos Jara";daniela.lagos594@mail.cl;995470298;985747423;"Av Alameda 500";Ñuñoa;13;Metropolitana;adicional;16103628-5;;1961-11-21;2025-01-01;2025-12-31;NO;;;Providencia
+22481908-0;"Mauricio Iturra Espinoza";mauricio.iturra823@mail.cl;;945835037;"Av Vitacura 1100";"Las Condes";13;Metropolitana;invitado;;;1968-08-17;2025-01-01;2025-12-31;NO;;;Providencia
+7662575-1;"Patricia Lagos Ortiz";patricia.lagos573@mail.cl;;931066481;"Av Providencia 3700";Santiago;13;Metropolitana;invitado;;;1975-06-11;2025-01-01;2025-12-31;NO;;;"Santa Cruz"
+23092808-8;"Felicia Lagos Nuñez";felicia.lagos107@mail.cl;;951812721;"Av Recoleta 700";"Santa Cruz";6;O'Higgins;beneficiario;11606281-K;c—nyuge;1980-01-17;2025-01-01;2025-12-31;NO;;;"Santa Cruz"
+18854363-4;"Kevin Ortiz Contreras";kevin.ortiz600@mail.cl;919720618;;"Av Apoquindo 2000";Independencia;13;Metropolitana;invitado;;;1957-06-26;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+16026668-6;"Helena Henriquez Jara";helena.henriquez242@mail.cl;;;"Av Pedro de Valdivia 1600";Providencia;13;Metropolitana;invitado;;;1958-12-11;2025-01-01;2025-12-31;NO;;;"La Florida"
+7477749-K;"Helena Alvarez Iturra";helena.alvarez316@mail.cl;;977449946;"Av Apoquindo 3200";Providencia;13;Metropolitana;beneficiario;24941085-3;c—nyuge;1954-02-24;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+18833411-3;"Alvaro Barrera Fuentes";alvaro.barrera616@mail.cl;924324617;;"Av Alameda 2400";"La Florida";13;Metropolitana;adicional;12170069-7;;2002-09-16;2025-01-01;2025-12-31;NO;;;"Santa Cruz"
+12478779-3;"Kevin Barrera Alvarez";kevin.barrera959@mail.cl;970945071;987158763;"Av Gran Avenida 2000";Independencia;13;Metropolitana;adicional;14311235-7;;1966-12-27;2025-01-01;2025-12-31;NO;;;Providencia
+16043656-5;"Javiera Fuentes Lagos";javiera.fuentes324@mail.cl;922009038;994922970;"Av Macul 1700";"La Reina";13;Metropolitana;beneficiario;21325038-8;c—nyuge;1959-10-19;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+16413330-3;"Daniela Barrera Jara";daniela.barrera479@mail.cl;;;"Av Pedro de Valdivia 400";Providencia;13;Metropolitana;invitado;;;1990-01-01;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+24428204-0;"Loreto Contreras Fuentes";loreto.contreras705@mail.cl;;;"Av Pedro de Valdivia 3500";"Las Condes";13;Metropolitana;adicional;24692054-0;;1989-07-06;2025-01-01;2025-12-31;NO;;;"Santa Cruz"
+23937539-1;"Beatriz Barrera Fuentes";beatriz.barrera496@mail.cl;974577017;915170271;"Av Gran Avenida 2200";"La Reina";13;Metropolitana;"socio titular";;;1981-12-03;2025-01-01;2025-12-31;SI;socio;clave6867;"La Florida"
+23230624-6;"Patricia Jara Espinoza";patricia.jara711@mail.cl;;942680880;"Av Vitacura 3600";Independencia;13;Metropolitana;"socio titular";;;1997-10-10;2025-01-01;2025-12-31;SI;socio;clave1559;"La Florida"
+5214098-6;"Natalia Quezada Nuñez";natalia.quezada876@mail.cl;;;"Av Pedro de Valdivia 3500";"Viña del Mar";5;Valparaíso;"socio titular";;;1990-01-01;2025-01-01;2025-12-31;SI;socio;clave2664;"Santiago Centro"
+9774947-7;"Gonzalo Galdames Jara";gonzalo.galdames269@mail.cl;;979998933;"Av Apoquindo 2900";"La Reina";13;Metropolitana;"socio titular";;;1953-11-27;2025-01-01;2025-12-31;SI;socio;clave1255;"Santiago Centro"
+19569219-K;"Beatriz Nuñez Henriquez";beatriz.nunez502@mail.cl;953444865;925009635;"Av Gran Avenida 300";"La Florida";13;Metropolitana;adicional;15913517-9;;1990-06-08;2025-01-01;2025-12-31;NO;;;Providencia
+24420372-8;"Felicia Mendez Barrera";felicia.mendez261@mail.cl;939675020;;"Av Vicuña Mackenna 1200";"San Miguel";13;Metropolitana;invitado;;;1996-05-11;2025-01-01;2025-12-31;NO;;;"La Florida"
+9238627-9;"Mauricio Duarte Espinoza";mauricio.duarte254@mail.cl;;962931723;"Av Vitacura 2800";Concepción;8;Biobío;invitado;;;1957-02-11;2025-01-01;2025-12-31;NO;;;"Santa Cruz"
+18572470-0;"Javiera Henriquez Jara";javiera.henriquez52@mail.cl;;951084230;"Av Apoquindo 2100";"Santa Cruz";6;O'Higgins;invitado;;;;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+24344875-1;"Felicia Quezada Contreras";felicia.quezada588@mail.cl;;969167270;"Av Macul 3800";"Viña del Mar";5;Valparaíso;invitado;;;1973-01-04;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+7854704-9;"Mauricio Espinoza Alvarez";mauricio.espinoza598@mail.cl;;953928195;"Av Alameda 1600";"Viña del Mar";5;Valparaíso;"socio titular";;;1955-03-16;2025-01-01;2025-12-31;SI;socio;clave6545;"Santiago Centro"
+14127831-2;"Natalia Espinoza Pardo";natalia.espinoza259@mail.cl;911834051;;"Av Alameda 3200";"La Florida";13;Metropolitana;adicional;24887596-8;;;2025-01-01;2025-12-31;NO;;;"Santa Cruz"
+15532259-4;"Natalia Jara Jara";natalia.jara128@mail.cl;994141865;;"Av Vicuña Mackenna 2000";Ñuñoa;13;Metropolitana;invitado;;;1981-01-19;2025-01-01;2025-12-31;NO;;;"La Florida"
+23271233-3;"Patricia Nuñez Duarte";patricia.nunez955@mail.cl;916422618;953678698;"Av Irarrazaval 3400";"Santa Cruz";6;O'Higgins;"socio titular";;;1984-09-23;2025-01-01;2025-12-31;SI;socio;clave8566;"Santa Cruz"
+21038193-7;"Felicia Pardo Galdames";felicia.pardo399@mail.cl;;;"Av Vitacura 3500";Concepción;8;Biobío;"socio titular";;;;2025-01-01;2025-12-31;SI;socio;clave5195;"La Florida"
+23633227-6;"Loreto Barrera Ortiz";loreto.barrera793@mail.cl;989670433;917713520;"Av Pedro de Valdivia 600";"Viña del Mar";5;Valparaíso;invitado;;;2000-07-06;2025-01-01;2025-12-31;NO;;;Providencia
+22493822-5;"Javiera Alvarez Ortiz";javiera.alvarez384@mail.cl;;916857933;"Av Providencia 200";Maipú;13;Metropolitana;invitado;;;1982-01-04;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+11750440-9;"Helena Henriquez Nuñez";helena.henriquez198@mail.cl;994684323;949766641;"Av Recoleta 2300";"Viña del Mar";5;Valparaíso;"socio titular";;;1996-02-20;2025-01-01;2025-12-31;SI;socio;clave8626;"Santa Cruz"
+20665475-9;"Javiera Alvarez Fuentes";javiera.alvarez32@mail.cl;934854118;;"Av Alameda 2700";"Santa Cruz";6;O'Higgins;invitado;;;;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+13105067-4;"Mauricio Mendez Lagos";mauricio.mendez936@mail.cl;;934053051;"Av Providencia 1900";Concepción;8;Biobío;adicional;24941085-3;;1993-07-20;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+24724208-2;"Helena Quezada Duarte";helena.quezada776@mail.cl;;915955132;"Av Vitacura 3000";Santiago;13;Metropolitana;"socio titular";;;1983-10-25;2025-01-01;2025-12-31;SI;socio;clave3087;"La Florida"
+17199065-3;"Loreto Lagos Henriquez";loreto.lagos57@mail.cl;;985001714;"Av Irarrazaval 3300";"Santa Cruz";6;O'Higgins;invitado;;;1962-08-01;2025-01-01;2025-12-31;NO;;;"Santa Cruz"
+22555835-3;"Ignacio Pardo Barrera";ignacio.pardo684@mail.cl;946581557;;"Av Providencia 4000";Ñuñoa;13;Metropolitana;adicional;12620839-1;;1982-11-16;2025-01-01;2025-12-31;NO;;;"Santa Cruz"
+9897596-9;"Daniela Quezada Contreras";daniela.quezada167@mail.cl;;921695729;"Av Vicuña Mackenna 800";"La Florida";13;Metropolitana;"socio titular";;;1967-08-06;2025-01-01;2025-12-31;SI;socio;clave7870;"Santiago Centro"
+15239062-9;"Javiera Pardo Quezada";javiera.pardo67@mail.cl;956521563;921708106;"Av Vicuña Mackenna 2300";"La Reina";13;Metropolitana;administrativo;;;1985-08-17;2025-01-01;2025-12-31;SI;administrativo;clave2089;Providencia
+15551545-7;"Ignacio Alvarez Iturra";ignacio.alvarez598@mail.cl;926058425;961658545;"Av Providencia 1200";Santiago;13;Metropolitana;adicional;24692054-0;;1972-02-15;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+9387435-8;"Loreto Contreras Iturra";loreto.contreras996@mail.cl;;934637533;"Av Irarrazaval 3100";"La Florida";13;Metropolitana;invitado;;;1957-03-07;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+22126807-5;"Kevin Quezada Pardo";kevin.quezada237@mail.cl;;997958901;"Av Irarrazaval 700";"La Reina";13;Metropolitana;invitado;;;1992-02-12;2025-01-01;2025-12-31;NO;;;"Santa Cruz"
+10974923-0;"Ignacio Alvarez Lagos";ignacio.alvarez433@mail.cl;;;"Av Irarrazaval 1300";Concepción;8;Biobío;invitado;;;1951-10-09;2025-01-01;2025-12-31;NO;;;"Santa Cruz"
+23382051-2;"Mauricio Duarte Duarte";mauricio.duarte334@mail.cl;961380958;935478708;"Av Gran Avenida 2900";Santiago;13;Metropolitana;"socio titular";;;1986-06-10;2025-01-01;2025-12-31;SI;socio;clave6835;"Santa Cruz"
+15537181-1;"Patricia Mendez Pardo";patricia.mendez615@mail.cl;;997030938;"Av Alameda 1300";"Las Condes";13;Metropolitana;administrativo;;;2003-05-22;2025-01-01;2025-12-31;SI;administrativo;clave3940;"Santa Cruz"
+7094753-6;"Felicia Ortiz Barrera";felicia.ortiz451@mail.cl;961761867;977764766;"Av Pedro de Valdivia 800";Maipú;13;Metropolitana;invitado;;;;2025-01-01;2025-12-31;NO;;;Providencia
+23115895-2;"Claudio Mendez Nuñez";claudio.mendez686@mail.cl;989894092;927913269;"Av Providencia 1000";"San Miguel";13;Metropolitana;"socio titular";;;1976-07-22;2025-01-01;2025-12-31;SI;socio;clave1451;Providencia
+19241592-6;"Patricia Iturra Duarte";patricia.iturra286@mail.cl;;;"Av Vitacura 900";Ñuñoa;13;Metropolitana;invitado;;;1968-02-09;2025-01-01;2025-12-31;NO;;;Providencia
+12595454-5;"Oscar Mendez Mendez";oscar.mendez74@mail.cl;;984134285;"Av Providencia 2000";Independencia;13;Metropolitana;adicional;22997716-4;;1960-10-26;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+24235327-7;"Beatriz Jara Espinoza";beatriz.jara466@mail.cl;;981992621;"Av Alameda 1600";"Las Condes";13;Metropolitana;adicional;7854704-9;;1984-11-06;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+15482776-5;"Helena Mendez Iturra";helena.mendez621@mail.cl;;913971838;"Av Gran Avenida 1100";"Las Condes";13;Metropolitana;invitado;;;1950-09-13;2025-01-01;2025-12-31;NO;;;"Santa Cruz"
+23961671-2;"Claudio Ortiz Lagos";claudio.ortiz847@mail.cl;;978398978;"Av Providencia 2100";"San Miguel";13;Metropolitana;adicional;14311235-7;;1995-04-02;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+10342757-6;"Kevin Fuentes Barrera";kevin.fuentes499@mail.cl;917212015;952632349;"Av Apoquindo 900";"Las Condes";13;Metropolitana;adicional;16804818-1;;1961-12-17;2025-01-01;2025-12-31;NO;;;Providencia
+12917941-4;"Beatriz Espinoza Jara";beatriz.espinoza681@mail.cl;988291346;978538110;"Av Macul 2800";"La Florida";13;Metropolitana;invitado;;;1962-01-23;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+12510561-0;"Claudio Pardo Henriquez";claudio.pardo98@mail.cl;959163426;971526332;"Av Providencia 3400";Independencia;13;Metropolitana;invitado;;;;2025-01-01;2025-12-31;NO;;;"Santa Cruz"
+15367255-5;"Patricia Lagos Contreras";patricia.lagos710@mail.cl;;;"Av Gran Avenida 800";"La Florida";13;Metropolitana;beneficiario;24692054-0;c—nyuge;1950-05-02;2025-01-01;2025-12-31;NO;;;"Santa Cruz"
+6549118-4;"Ignacio Espinoza Henriquez";ignacio.espinoza384@mail.cl;978994144;946090694;"Av Providencia 2700";"La Florida";13;Metropolitana;adicional;15182198-7;;1990-01-01;2025-01-01;2025-12-31;NO;;;"La Florida"
+22539613-2;"Oscar Quezada Nuñez";oscar.quezada938@mail.cl;955920543;;"Av Alameda 1400";"Viña del Mar";5;Valparaíso;adicional;5214098-6;;1996-12-09;2025-01-01;2025-12-31;NO;;;"Santa Cruz"
+23333409-K;"Loreto Alvarez Barrera";loreto.alvarez310@mail.cl;;986263622;"Av Pedro de Valdivia 2800";"Santa Cruz";6;O'Higgins;administrativo;;;1999-05-22;2025-01-01;2025-12-31;SI;administrativo;clave7774;Providencia
+17782653-7;"Mauricio Ortiz Galdames";mauricio.ortiz431@mail.cl;929521539;994404796;"Av Providencia 800";"San Miguel";13;Metropolitana;"socio titular";;;1990-01-01;2025-01-01;2025-12-31;SI;socio;clave8864;"Santiago Centro"
+17126946-6;"Natalia Nuñez Jara";natalia.nunez103@mail.cl;948763258;983173924;"Av Recoleta 700";"La Florida";13;Metropolitana;invitado;;;1964-07-22;2025-01-01;2025-12-31;NO;;;Providencia
+6149034-5;"Gonzalo Alvarez Nuñez";gonzalo.alvarez211@mail.cl;;942409091;"Av Providencia 2600";Concepción;8;Biobío;administrativo;;;1952-12-07;2025-01-01;2025-12-31;SI;administrativo;clave6552;Providencia
+7474405-2;"Enrique Iturra Iturra";enrique.iturra728@mail.cl;;;"Av Recoleta 2100";"Viña del Mar";5;Valparaíso;invitado;;;1997-05-01;2025-01-01;2025-12-31;NO;;;"La Florida"
+14639479-5;"Patricia Henriquez Quezada";patricia.henriquez283@mail.cl;;;"Av Vicuña Mackenna 2800";"Santa Cruz";6;O'Higgins;adicional;23937539-1;;1977-01-07;2025-01-01;2025-12-31;NO;;;"Santa Cruz"
+24068089-0;"Helena Lagos Quezada";helena.lagos440@mail.cl;;944699050;"Av Vitacura 900";Ñuñoa;13;Metropolitana;invitado;;;1993-05-27;2025-01-01;2025-12-31;NO;;;"La Florida"
+9081387-0;"Felicia Lagos Ortiz";felicia.lagos286@mail.cl;913482878;943415545;"Av Alameda 1600";Concepción;8;Biobío;"socio titular";;;1979-01-21;2025-01-01;2025-12-31;SI;socio;clave5285;Providencia
+15161657-7;"Gonzalo Galdames Iturra";gonzalo.galdames920@mail.cl;;934582292;"Av Irarrazaval 2100";"La Florida";13;Metropolitana;invitado;;;1996-08-24;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+16611772-0;"Patricia Alvarez Fuentes";patricia.alvarez189@mail.cl;;941570987;"Av Macul 3300";Maipú;13;Metropolitana;adicional;11606281-K;;1961-10-02;2025-01-01;2025-12-31;NO;;;"Santa Cruz"
+13084727-7;"Daniela Pardo Iturra";daniela.pardo291@mail.cl;968098381;;"Av Recoleta 3500";"Santa Cruz";6;O'Higgins;invitado;;;;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+21664525-1;"Gonzalo Galdames Henriquez";gonzalo.galdames41@mail.cl;991095720;975207262;"Av Alameda 1300";"Viña del Mar";5;Valparaíso;adicional;15182198-7;;1990-01-01;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+24301503-0;"Natalia Espinoza Ortiz";natalia.espinoza360@mail.cl;916113811;;"Av Apoquindo 2600";"La Florida";13;Metropolitana;"socio titular";;;1975-02-14;2025-01-01;2025-12-31;SI;socio;clave3863;"Santiago Centro"
+9201192-5;"Helena Contreras Galdames";helena.contreras9@mail.cl;950561960;975468098;"Av Vicuña Mackenna 3300";"La Reina";13;Metropolitana;invitado;;;;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+9443042-9;"Daniela Nuñez Quezada";daniela.nunez401@mail.cl;;977031441;"Av Macul 3100";Providencia;13;Metropolitana;invitado;;;1971-09-03;2025-01-01;2025-12-31;NO;;;"Santa Cruz"
+19591265-3;"Claudio Fuentes Quezada";claudio.fuentes327@mail.cl;999220889;948461036;"Av Pedro de Valdivia 800";Ñuñoa;13;Metropolitana;adicional;9081387-0;;1954-12-19;2025-01-01;2025-12-31;NO;;;"Santa Cruz"
+24259004-K;"Gonzalo Espinoza Fuentes";gonzalo.espinoza422@mail.cl;;998080036;"Av Apoquindo 1600";Ñuñoa;13;Metropolitana;"socio titular";;;1974-09-10;2025-01-01;2025-12-31;SI;socio;clave3351;"Santa Cruz"
+7730789-3;"Mauricio Fuentes Pardo";mauricio.fuentes556@mail.cl;;973601353;"Av Recoleta 1500";Independencia;13;Metropolitana;adicional;21325038-8;;1974-09-22;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+17758662-5;"Felicia Nuñez Iturra";felicia.nunez612@mail.cl;958461934;;"Av Alameda 600";"Las Condes";13;Metropolitana;invitado;;;1959-02-05;2025-01-01;2025-12-31;NO;;;Providencia
+22224530-3;"Alvaro Iturra Mendez";alvaro.iturra593@mail.cl;929880068;;"Av Providencia 500";"La Florida";13;Metropolitana;"socio titular";;;1980-08-13;2025-01-01;2025-12-31;SI;socio;clave2936;"La Florida"
+21103105-0;"Patricia Quezada Pardo";patricia.quezada489@mail.cl;;939498379;"Av Vicuña Mackenna 1200";Santiago;13;Metropolitana;"socio titular";;;1953-06-25;2025-01-01;2025-12-31;SI;socio;clave7656;"La Florida"
+7415062-4;"Ignacio Galdames Iturra";ignacio.galdames833@mail.cl;996828010;940913579;"Av Pedro de Valdivia 2500";Santiago;13;Metropolitana;adicional;11750440-9;;1969-02-01;2025-01-01;2025-12-31;NO;;;Providencia
+24480744-5;"Beatriz Barrera Barrera";beatriz.barrera328@mail.cl;953679548;915281125;"Av Vitacura 300";Maipú;13;Metropolitana;"socio titular";;;;2025-01-01;2025-12-31;SI;socio;clave7018;Providencia
+24548958-7;"Loreto Alvarez Fuentes";loreto.alvarez810@mail.cl;;987038511;"Av Alameda 2900";Providencia;13;Metropolitana;"socio titular";;;2002-08-14;2025-01-01;2025-12-31;SI;socio;clave2832;Providencia
+9151881-3;"Helena Jara Barrera";helena.jara775@mail.cl;931193826;960716811;"Av Providencia 800";Providencia;13;Metropolitana;"socio titular";;;1964-07-10;2025-01-01;2025-12-31;SI;socio;clave1066;"Santiago Centro"
+13315526-0;"Mauricio Iturra Lagos";mauricio.iturra757@mail.cl;995258461;945297538;"Av Apoquindo 3500";Santiago;13;Metropolitana;invitado;;;1955-04-11;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+13744577-8;"Claudio Espinoza Pardo";claudio.espinoza287@mail.cl;995035574;;"Av Irarrazaval 1900";Concepción;8;Biobío;invitado;;;1951-12-05;2025-01-01;2025-12-31;NO;;;"La Florida"
+15171957-0;"Gonzalo Ortiz Barrera";gonzalo.ortiz525@mail.cl;926405388;948886187;"Av Gran Avenida 400";"La Florida";13;Metropolitana;adicional;16103628-5;;;2025-01-01;2025-12-31;NO;;;Providencia
+16190379-5;"Daniela Contreras Contreras";daniela.contreras886@mail.cl;;930708363;"Av Recoleta 2300";"La Reina";13;Metropolitana;beneficiario;20848551-2;c—nyuge;1991-06-02;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+23275493-1;"Claudio Mendez Ortiz";claudio.mendez246@mail.cl;937237427;;"Av Vitacura 1300";"Puente Alto";13;Metropolitana;adicional;15913517-9;;1964-02-28;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+7634198-2;"Helena Henriquez Contreras";helena.henriquez677@mail.cl;955540658;989620321;"Av Vitacura 1600";Providencia;13;Metropolitana;invitado;;;1988-08-25;2025-01-01;2025-12-31;NO;;;"Santa Cruz"
+17637824-7;"Javiera Alvarez Espinoza";javiera.alvarez630@mail.cl;929302011;964784595;"Av Gran Avenida 3200";Independencia;13;Metropolitana;invitado;;;;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+24750794-9;"Enrique Alvarez Contreras";enrique.alvarez392@mail.cl;965479830;;"Av Apoquindo 2300";"Las Condes";13;Metropolitana;invitado;;;;2025-01-01;2025-12-31;NO;;;"La Florida"
+11782357-1;"Gonzalo Duarte Contreras";gonzalo.duarte983@mail.cl;;941457891;"Av Alameda 3600";Concepción;8;Biobío;adicional;23382051-2;;2005-12-28;2025-01-01;2025-12-31;NO;;;"Santa Cruz"
+10895823-5;"Felicia Duarte Iturra";felicia.duarte337@mail.cl;968586632;910333232;"Av Vitacura 1600";Providencia;13;Metropolitana;beneficiario;21265551-1;hijo;1953-02-04;2025-01-01;2025-12-31;NO;;;"La Florida"
+19823939-9;"Claudio Ortiz Quezada";claudio.ortiz246@mail.cl;;;"Av Gran Avenida 1800";"Viña del Mar";5;Valparaíso;"socio titular";;;1968-03-21;2025-01-01;2025-12-31;SI;socio;clave1676;"Santa Cruz"
+12529254-2;"Oscar Pardo Espinoza";oscar.pardo673@mail.cl;;921955169;"Av Vicuña Mackenna 2100";"Viña del Mar";5;Valparaíso;"socio titular";;;1954-02-01;2025-01-01;2025-12-31;SI;socio;clave7656;"La Florida"
+10650563-2;"Patricia Ortiz Henriquez";patricia.ortiz223@mail.cl;;;"Av Pedro de Valdivia 2300";"Viña del Mar";5;Valparaíso;invitado;;;1980-10-23;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+23162731-6;"Mauricio Barrera Alvarez";mauricio.barrera935@mail.cl;;992506282;"Av Pedro de Valdivia 1900";Providencia;13;Metropolitana;invitado;;;1960-03-25;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+13824815-1;"Kevin Galdames Espinoza";kevin.galdames113@mail.cl;928815066;925102354;"Av Macul 1300";Providencia;13;Metropolitana;invitado;;;1967-05-25;2025-01-01;2025-12-31;NO;;;"La Florida"
+14353620-3;"Alvaro Contreras Espinoza";alvaro.contreras166@mail.cl;;;"Av Alameda 3400";Providencia;13;Metropolitana;invitado;;;1981-01-04;2025-01-01;2025-12-31;NO;;;"Santa Cruz"
+9376198-7;"Patricia Pardo Contreras";patricia.pardo44@mail.cl;;;"Av Vitacura 1200";Santiago;13;Metropolitana;invitado;;;1993-11-03;2025-01-01;2025-12-31;NO;;;Providencia
+21745718-1;"Enrique Alvarez Quezada";enrique.alvarez222@mail.cl;964128841;980789589;"Av Recoleta 700";"La Reina";13;Metropolitana;invitado;;;1971-07-20;2025-01-01;2025-12-31;NO;;;"La Florida"
+19127158-0;"Claudio Barrera Lagos";claudio.barrera336@mail.cl;;996269762;"Av Vicuña Mackenna 3300";Maipú;13;Metropolitana;adicional;9897596-9;;1968-08-23;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+16734625-1;"Alvaro Nuñez Galdames";alvaro.nunez880@mail.cl;;982623534;"Av Pedro de Valdivia 200";Independencia;13;Metropolitana;adicional;9774947-7;;1971-12-27;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+15681498-9;"Enrique Jara Henriquez";enrique.jara280@mail.cl;;;"Av Gran Avenida 400";"Santa Cruz";6;O'Higgins;adicional;9151881-3;;1982-08-13;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+24973079-3;"Javiera Lagos Contreras";javiera.lagos543@mail.cl;949157812;976281008;"Av Pedro de Valdivia 400";"La Florida";13;Metropolitana;"socio titular";;;1957-11-06;2025-01-01;2025-12-31;SI;socio;clave8402;Providencia
+18512802-4;"Helena Lagos Nuñez";helena.lagos681@mail.cl;985472289;982533708;"Av Recoleta 3900";Independencia;13;Metropolitana;"socio titular";;;1975-07-20;2025-01-01;2025-12-31;SI;socio;clave9447;"Santiago Centro"
+24790376-3;"Claudio Fuentes Nuñez";claudio.fuentes121@mail.cl;942953966;984537444;"Av Vitacura 1400";Independencia;13;Metropolitana;"socio titular";;;2003-10-28;2025-01-01;2025-12-31;SI;socio;clave6295;"Santiago Centro"
+14936708-K;"Alvaro Duarte Espinoza";alvaro.duarte231@mail.cl;;;"Av Pedro de Valdivia 600";Santiago;13;Metropolitana;"socio titular";;;1988-03-22;2025-01-01;2025-12-31;SI;socio;clave5262;"Santa Cruz"
+11035082-1;"Claudio Lagos Barrera";claudio.lagos418@mail.cl;;;"Av Irarrazaval 4000";"San Miguel";13;Metropolitana;adicional;24941085-3;;1975-08-16;2025-01-01;2025-12-31;NO;;;"La Florida"
+6698610-1;"Beatriz Iturra Iturra";beatriz.iturra930@mail.cl;988020498;974573265;"Av Vitacura 700";Concepción;8;Biobío;"socio titular";;;;2025-01-01;2025-12-31;SI;socio;clave2647;"Santa Cruz"
+23741268-0;"Gonzalo Pardo Galdames";gonzalo.pardo194@mail.cl;;964856816;"Av Macul 2500";"La Reina";13;Metropolitana;invitado;;;1986-03-08;2025-01-01;2025-12-31;NO;;;"La Florida"
+17400818-3;"Gonzalo Contreras Contreras";gonzalo.contreras740@mail.cl;;928106457;"Av Vitacura 1200";"Puente Alto";13;Metropolitana;adicional;21103105-0;;1988-06-11;2025-01-01;2025-12-31;NO;;;Providencia
+19150099-7;"Javiera Jara Nuñez";javiera.jara763@mail.cl;;935794306;"Av Alameda 1700";"San Miguel";13;Metropolitana;"socio titular";;;1998-07-23;2025-01-01;2025-12-31;SI;socio;clave7334;"La Florida"
+6879266-5;"Javiera Contreras Contreras";javiera.contreras456@mail.cl;;962064999;"Av Recoleta 2300";Santiago;13;Metropolitana;invitado;;;1967-12-06;2025-01-01;2025-12-31;NO;;;Providencia
+19819820-K;"Javiera Henriquez Alvarez";javiera.henriquez545@mail.cl;;991954914;"Av Pedro de Valdivia 3700";"Puente Alto";13;Metropolitana;beneficiario;22924363-2;c—nyuge;1984-06-13;2025-01-01;2025-12-31;NO;;;"La Florida"
+22405688-5;"Helena Ortiz Iturra";helena.ortiz56@mail.cl;927107538;968590601;"Av Gran Avenida 1900";"La Reina";13;Metropolitana;"socio titular";;;1973-05-26;2025-01-01;2025-12-31;SI;socio;clave6623;Providencia
+10367301-1;"Claudio Contreras Lagos";claudio.contreras904@mail.cl;984457345;923329627;"Av Macul 1800";Independencia;13;Metropolitana;invitado;;;1952-09-27;2025-01-01;2025-12-31;NO;;;"La Florida"
+21899509-8;"Natalia Barrera Fuentes";natalia.barrera151@mail.cl;;967724828;"Av Apoquindo 1700";"Santa Cruz";6;O'Higgins;beneficiario;9774947-7;c—nyuge;1997-03-07;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+21719292-7;"Claudio Ortiz Pardo";claudio.ortiz976@mail.cl;948232374;;"Av Recoleta 2500";Ñuñoa;13;Metropolitana;invitado;;;;2025-01-01;2025-12-31;NO;;;"Santa Cruz"
+7116528-0;"Oscar Iturra Espinoza";oscar.iturra31@mail.cl;;;"Av Alameda 2000";Maipú;13;Metropolitana;adicional;24790376-3;;1988-04-03;2025-01-01;2025-12-31;NO;;;"La Florida"
+7266822-7;"Alvaro Contreras Pardo";alvaro.contreras396@mail.cl;988263063;;"Av Irarrazaval 2400";Santiago;13;Metropolitana;beneficiario;12529254-2;c—nyuge;1969-07-02;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+19148562-9;"Natalia Pardo Fuentes";natalia.pardo497@mail.cl;;;"Av Alameda 3400";Concepción;8;Biobío;beneficiario;5058856-4;c—nyuge;1962-09-02;2025-01-01;2025-12-31;NO;;;"Santa Cruz"
+24569656-6;"Alvaro Jara Barrera";alvaro.jara539@mail.cl;;998966171;"Av Alameda 3500";Independencia;13;Metropolitana;invitado;;;1978-04-16;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+16418718-7;"Javiera Pardo Mendez";javiera.pardo947@mail.cl;971438083;;"Av Gran Avenida 2300";Santiago;13;Metropolitana;adicional;11606281-K;;1988-02-28;2025-01-01;2025-12-31;NO;;;Providencia
+21343984-7;"Enrique Ortiz Mendez";enrique.ortiz12@mail.cl;950370108;932111518;"Av Irarrazaval 3200";"Viña del Mar";5;Valparaíso;invitado;;;1987-04-12;2025-01-01;2025-12-31;NO;;;"La Florida"
+16812745-6;"Kevin Espinoza Quezada";kevin.espinoza199@mail.cl;;;"Av Vitacura 200";"San Miguel";13;Metropolitana;"socio titular";;;1958-08-24;2025-01-01;2025-12-31;SI;socio;clave2280;Providencia
+18880670-8;"Beatriz Espinoza Iturra";beatriz.espinoza943@mail.cl;947944823;950197541;"Av Apoquindo 3300";Ñuñoa;13;Metropolitana;invitado;;;1996-11-12;2025-01-01;2025-12-31;NO;;;"La Florida"
+19251873-3;"Enrique Quezada Jara";enrique.quezada168@mail.cl;;;"Av Vitacura 2500";"Viña del Mar";5;Valparaíso;invitado;;;1955-10-18;2025-01-01;2025-12-31;NO;;;Providencia
+13952414-4;"Loreto Mendez Galdames";loreto.mendez891@mail.cl;947560044;;"Av Irarrazaval 4000";Ñuñoa;13;Metropolitana;adicional;15182198-7;;1990-01-01;2025-01-01;2025-12-31;NO;;;"Santa Cruz"
+6960687-3;"Natalia Mendez Contreras";natalia.mendez408@mail.cl;984316230;;"Av Gran Avenida 3600";"San Miguel";13;Metropolitana;"socio titular";;;1958-02-15;2025-01-01;2025-12-31;SI;socio;clave9922;"Santiago Centro"
+20284557-6;"Loreto Galdames Nuñez";loreto.galdames408@mail.cl;;925043851;"Av Gran Avenida 3900";Concepción;8;Biobío;"socio titular";;;2001-10-01;2025-01-01;2025-12-31;SI;socio;clave6190;"La Florida"
+7568205-0;"Gonzalo Duarte Quezada";gonzalo.duarte582@mail.cl;937854800;962798458;"Av Pedro de Valdivia 3100";Concepción;8;Biobío;administrativo;;;1987-10-03;2025-01-01;2025-12-31;SI;administrativo;clave3863;Providencia
+18793670-5;"Alvaro Lagos Ortiz";alvaro.lagos994@mail.cl;980813210;;"Av Macul 1800";"La Reina";13;Metropolitana;invitado;;;1982-10-21;2025-01-01;2025-12-31;NO;;;"La Florida"
+8298654-5;"Claudio Contreras Quezada";claudio.contreras865@mail.cl;973373140;912817821;"Av Recoleta 1600";"La Florida";13;Metropolitana;adicional;21103105-0;;1973-10-21;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+15912486-K;"Javiera Iturra Quezada";javiera.iturra465@mail.cl;;980536438;"Av Recoleta 200";"Las Condes";13;Metropolitana;"socio titular";;;1968-07-02;2025-01-01;2025-12-31;SI;socio;clave5268;"La Florida"
+20275877-0;"Ignacio Pardo Fuentes";ignacio.pardo853@mail.cl;;960592412;"Av Recoleta 1700";"Santa Cruz";6;O'Higgins;invitado;;;1970-01-24;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+10732135-7;"Javiera Contreras Espinoza";javiera.contreras105@mail.cl;913612679;997324062;"Av Recoleta 1300";Concepción;8;Biobío;beneficiario;15182198-7;hijo;1965-12-21;2025-01-01;2025-12-31;NO;;;"Santa Cruz"
+10912570-9;"Beatriz Contreras Nuñez";beatriz.contreras875@mail.cl;;;"Av Vitacura 1100";"Santa Cruz";6;O'Higgins;invitado;;;1957-04-15;2025-01-01;2025-12-31;NO;;;Providencia
+8355124-0;"Ignacio Barrera Fuentes";ignacio.barrera658@mail.cl;911201693;934605694;"Av Vicuña Mackenna 3400";Santiago;13;Metropolitana;invitado;;;2002-10-11;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+22995069-K;"Kevin Quezada Duarte";kevin.quezada850@mail.cl;;942473620;"Av Irarrazaval 2600";Concepción;8;Biobío;adicional;22924363-2;;1968-04-24;2025-01-01;2025-12-31;NO;;;"La Florida"
+24917111-5;"Ignacio Espinoza Duarte";ignacio.espinoza37@mail.cl;986434400;;"Av Vicuña Mackenna 2000";Independencia;13;Metropolitana;adicional;24973079-3;;1978-08-06;2025-01-01;2025-12-31;NO;;;"Santa Cruz"
+24990383-3;"Mauricio Henriquez Nuñez";mauricio.henriquez885@mail.cl;;964648680;"Av Irarrazaval 2500";"Las Condes";13;Metropolitana;"socio titular";;;1983-01-18;2025-01-01;2025-12-31;SI;socio;clave8530;"Santiago Centro"
+6183714-0;"Patricia Ortiz Barrera";patricia.ortiz584@mail.cl;958325874;947300438;"Av Alameda 500";Concepción;8;Biobío;"socio titular";;;1958-01-17;2025-01-01;2025-12-31;SI;socio;clave1168;Providencia
+6717385-6;"Gonzalo Lagos Jara";gonzalo.lagos248@mail.cl;967084354;;"Av Irarrazaval 2200";Concepción;8;Biobío;"socio titular";;;1957-06-13;2025-01-01;2025-12-31;SI;socio;clave7656;"Santa Cruz"
+18594306-2;"Ignacio Mendez Galdames";ignacio.mendez662@mail.cl;913678742;;"Av Pedro de Valdivia 1800";Maipú;13;Metropolitana;invitado;;;1959-11-21;2025-01-01;2025-12-31;NO;;;Providencia
+21052824-5;"Kevin Jara Ortiz";kevin.jara4@mail.cl;944655468;;"Av Providencia 3900";Independencia;13;Metropolitana;invitado;;;1966-11-27;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+13388386-K;"Patricia Pardo Alvarez";patricia.pardo357@mail.cl;941524158;943639795;"Av Vitacura 2200";"Las Condes";13;Metropolitana;"socio titular";;;1978-12-08;2025-01-01;2025-12-31;SI;socio;clave6857;Providencia
+13865976-3;"Helena Iturra Fuentes";helena.iturra591@mail.cl;999601998;927512216;"Av Pedro de Valdivia 2100";"San Miguel";13;Metropolitana;invitado;;;;2025-01-01;2025-12-31;NO;;;Providencia
+5230964-6;"Gonzalo Iturra Jara";gonzalo.iturra227@mail.cl;;994277611;"Av Vicuña Mackenna 1000";"La Florida";13;Metropolitana;invitado;;;1982-02-02;2025-01-01;2025-12-31;NO;;;"La Florida"
+22786063-4;"Daniela Fuentes Lagos";daniela.fuentes625@mail.cl;951067253;997036347;"Av Vitacura 3100";"Santa Cruz";6;O'Higgins;invitado;;;1972-06-27;2025-01-01;2025-12-31;NO;;;Providencia
+18181419-5;"Javiera Ortiz Lagos";javiera.ortiz95@mail.cl;;965983946;"Av Apoquindo 200";"La Florida";13;Metropolitana;adicional;19150099-7;;1998-08-05;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+24234047-7;"Natalia Henriquez Galdames";natalia.henriquez809@mail.cl;971861536;;"Av Recoleta 3000";"Puente Alto";13;Metropolitana;"socio titular";;;1999-10-01;2025-01-01;2025-12-31;SI;socio;clave3271;"Santiago Centro"
+13667087-5;"Enrique Nuñez Galdames";enrique.nunez665@mail.cl;970285036;;"Av Vicuña Mackenna 3200";Independencia;13;Metropolitana;"socio titular";;;;2025-01-01;2025-12-31;SI;socio;clave4070;Providencia
+8449572-7;"Oscar Espinoza Quezada";oscar.espinoza225@mail.cl;;;"Av Providencia 700";"La Reina";13;Metropolitana;invitado;;;1952-11-23;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+6771974-3;"Claudio Barrera Nuñez";claudio.barrera731@mail.cl;;923271265;"Av Gran Avenida 1900";Maipú;13;Metropolitana;adicional;22924363-2;;2001-01-27;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+23695649-0;"Mauricio Alvarez Pardo";mauricio.alvarez674@mail.cl;949976327;928651978;"Av Vicuña Mackenna 2800";Maipú;13;Metropolitana;invitado;;;;2025-01-01;2025-12-31;NO;;;Providencia
+21548898-5;"Ignacio Espinoza Mendez";ignacio.espinoza68@mail.cl;;;"Av Vitacura 2500";"Viña del Mar";5;Valparaíso;invitado;;;1955-10-05;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+18238543-3;"Daniela Ortiz Lagos";daniela.ortiz168@mail.cl;917202852;945806231;"Av Vicuña Mackenna 1600";"Viña del Mar";5;Valparaíso;adicional;15913517-9;;;2025-01-01;2025-12-31;NO;;;"La Florida"
+24411144-0;"Natalia Pardo Henriquez";natalia.pardo124@mail.cl;924529022;917735665;"Av Macul 700";Santiago;13;Metropolitana;"socio titular";;;1963-10-01;2025-01-01;2025-12-31;SI;socio;clave7329;"Santa Cruz"
+16372156-2;"Daniela Mendez Espinoza";daniela.mendez936@mail.cl;932125949;;"Av Apoquindo 2200";"Santa Cruz";6;O'Higgins;invitado;;;1990-01-01;2025-01-01;2025-12-31;NO;;;"La Florida"
+9839211-4;"Natalia Barrera Duarte";natalia.barrera918@mail.cl;995013841;979902765;"Av Macul 400";Providencia;13;Metropolitana;"socio titular";;;1983-10-07;2025-01-01;2025-12-31;SI;socio;clave3192;"La Florida"
+15258690-6;"Beatriz Galdames Quezada";beatriz.galdames277@mail.cl;939291162;911314877;"Av Providencia 3800";Concepción;8;Biobío;"socio titular";;;1985-12-11;2025-01-01;2025-12-31;SI;socio;clave2732;Providencia
+19855757-9;"Alvaro Nuñez Alvarez";alvaro.nunez740@mail.cl;968709741;;"Av Irarrazaval 200";"La Florida";13;Metropolitana;invitado;;;1984-01-16;2025-01-01;2025-12-31;NO;;;"Santa Cruz"
+5067265-4;"Enrique Ortiz Alvarez";enrique.ortiz472@mail.cl;;944511180;"Av Apoquindo 1400";"San Miguel";13;Metropolitana;beneficiario;24548958-7;c—nyuge;1991-06-22;2025-01-01;2025-12-31;NO;;;"Santa Cruz"
+18607072-0;"Natalia Galdames Nuñez";natalia.galdames150@mail.cl;;;"Av Providencia 1000";Independencia;13;Metropolitana;beneficiario;12620839-1;hijo;1954-11-26;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+24522432-K;"Natalia Contreras Ortiz";natalia.contreras479@mail.cl;;920724176;"Av Irarrazaval 100";"Puente Alto";13;Metropolitana;invitado;;;1966-04-27;2025-01-01;2025-12-31;NO;;;"La Florida"
+12625578-0;"Helena Pardo Mendez";helena.pardo334@mail.cl;;;"Av Irarrazaval 300";"La Reina";13;Metropolitana;"socio titular";;;1985-04-08;2025-01-01;2025-12-31;SI;socio;clave3183;"La Florida"
+19810726-3;"Enrique Pardo Fuentes";enrique.pardo692@mail.cl;933986181;965719154;"Av Alameda 3100";"Viña del Mar";5;Valparaíso;invitado;;;;2025-01-01;2025-12-31;NO;;;"La Florida"
+12638691-5;"Felicia Duarte Mendez";felicia.duarte59@mail.cl;992748221;960010182;"Av Apoquindo 1400";Providencia;13;Metropolitana;invitado;;;1989-11-28;2025-01-01;2025-12-31;NO;;;Providencia
+23004145-8;"Daniela Pardo Fuentes";daniela.pardo443@mail.cl;;954604337;"Av Providencia 3000";Providencia;13;Metropolitana;"socio titular";;;1966-06-12;2025-01-01;2025-12-31;SI;socio;clave4023;Providencia
+19213000-K;"Mauricio Jara Henriquez";mauricio.jara634@mail.cl;;969111751;"Av Gran Avenida 3500";Concepción;8;Biobío;invitado;;;1972-05-26;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+13147836-4;"Alvaro Alvarez Henriquez";alvaro.alvarez188@mail.cl;;971731317;"Av Vicuña Mackenna 3200";"La Florida";13;Metropolitana;adicional;9774947-7;;1952-02-18;2025-01-01;2025-12-31;NO;;;Providencia
+7570061-K;"Kevin Barrera Mendez";kevin.barrera533@mail.cl;957935207;;"Av Vicuña Mackenna 3000";"Santa Cruz";6;O'Higgins;invitado;;;1976-01-10;2025-01-01;2025-12-31;NO;;;"Santa Cruz"
+8095331-3;"Natalia Barrera Mendez";natalia.barrera997@mail.cl;920814794;970801989;"Av Recoleta 100";"La Florida";13;Metropolitana;invitado;;;1990-01-01;2025-01-01;2025-12-31;NO;;;"Santa Cruz"
+11943664-8;"Patricia Nuñez Galdames";patricia.nunez415@mail.cl;;963254761;"Av Vicuña Mackenna 3800";Concepción;8;Biobío;adicional;17782653-7;;1960-08-18;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+20643352-3;"Felicia Iturra Ortiz";felicia.iturra241@mail.cl;923710463;;"Av Providencia 700";"Viña del Mar";5;Valparaíso;"socio titular";;;1980-05-02;2025-01-01;2025-12-31;SI;socio;clave8711;"La Florida"
+9158844-7;"Felicia Contreras Mendez";felicia.contreras268@mail.cl;;993000680;"Av Macul 300";"Las Condes";13;Metropolitana;adicional;6183714-0;;1957-01-14;2025-01-01;2025-12-31;NO;;;Providencia
+16430575-9;"Felicia Pardo Fuentes";felicia.pardo138@mail.cl;930894249;;"Av Macul 2500";Maipú;13;Metropolitana;adicional;17526820-0;;1971-09-21;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+10103519-0;"Helena Contreras Barrera";helena.contreras742@mail.cl;;915910474;"Av Providencia 1100";"Viña del Mar";5;Valparaíso;"socio titular";;;1986-06-12;2025-01-01;2025-12-31;SI;socio;clave4850;"Santa Cruz"
+15877590-5;"Claudio Ortiz Ortiz";claudio.ortiz7@mail.cl;943635931;969533317;"Av Apoquindo 1600";Concepción;8;Biobío;adicional;6960687-3;;1981-02-18;2025-01-01;2025-12-31;NO;;;Providencia
+22282708-6;"Alvaro Espinoza Ortiz";alvaro.espinoza120@mail.cl;990027294;966956311;"Av Providencia 2400";"San Miguel";13;Metropolitana;administrativo;;;;2025-01-01;2025-12-31;SI;administrativo;clave9081;"La Florida"
+14123671-7;"Natalia Mendez Fuentes";natalia.mendez412@mail.cl;971889783;;"Av Macul 1600";Independencia;13;Metropolitana;"socio titular";;;2005-06-08;2025-01-01;2025-12-31;SI;socio;clave1552;"La Florida"
+6014819-8;"Gonzalo Galdames Alvarez";gonzalo.galdames420@mail.cl;997479314;;"Av Irarrazaval 700";"San Miguel";13;Metropolitana;"socio titular";;;1952-02-23;2025-01-01;2025-12-31;SI;socio;clave1185;"Santa Cruz"
+5775835-K;"Mauricio Espinoza Iturra";mauricio.espinoza83@mail.cl;996395367;970775955;"Av Irarrazaval 1200";"La Reina";13;Metropolitana;adicional;23271233-3;;2002-02-25;2025-01-01;2025-12-31;NO;;;"La Florida"
+17001494-4;"Daniela Nuñez Ortiz";daniela.nunez898@mail.cl;;941396705;"Av Apoquindo 2900";Maipú;13;Metropolitana;adicional;9151881-3;;1953-03-12;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+23075751-8;"Gonzalo Alvarez Fuentes";gonzalo.alvarez580@mail.cl;;942783845;"Av Pedro de Valdivia 1200";"La Reina";13;Metropolitana;"socio titular";;;1982-11-17;2025-01-01;2025-12-31;SI;socio;clave6413;"Santiago Centro"
+22301077-6;"Enrique Contreras Nuñez";enrique.contreras286@mail.cl;981456021;974605629;"Av Recoleta 900";Ñuñoa;13;Metropolitana;invitado;;;2004-12-24;2025-01-01;2025-12-31;NO;;;"La Florida"
+22617538-5;"Patricia Jara Henriquez";patricia.jara192@mail.cl;;930501554;"Av Alameda 3000";"San Miguel";13;Metropolitana;invitado;;;1989-12-28;2025-01-01;2025-12-31;NO;;;Providencia
+23162459-7;"Helena Iturra Contreras";helena.iturra160@mail.cl;985247770;962739722;"Av Macul 1600";Maipú;13;Metropolitana;adicional;6183714-0;;;2025-01-01;2025-12-31;NO;;;"La Florida"
+12972040-9;"Enrique Fuentes Alvarez";enrique.fuentes795@mail.cl;985532899;918763493;"Av Vicuña Mackenna 2000";Maipú;13;Metropolitana;"socio titular";;;1993-05-08;2025-01-01;2025-12-31;SI;socio;clave6701;Providencia
+6209469-9;"Enrique Iturra Nuñez";enrique.iturra387@mail.cl;914752979;;"Av Irarrazaval 2500";Maipú;13;Metropolitana;invitado;;;1950-01-12;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+17058165-2;"Javiera Nuñez Lagos";javiera.nunez729@mail.cl;;;"Av Macul 600";Maipú;13;Metropolitana;invitado;;;1959-12-10;2025-01-01;2025-12-31;NO;;;Providencia
+10272603-0;"Mauricio Quezada Galdames";mauricio.quezada257@mail.cl;;992660880;"Av Gran Avenida 2800";Ñuñoa;13;Metropolitana;adicional;10103519-0;;1996-05-18;2025-01-01;2025-12-31;NO;;;"La Florida"
+18738609-8;"Enrique Galdames Barrera";enrique.galdames771@mail.cl;966597498;911347632;"Av Vitacura 3600";Santiago;13;Metropolitana;"socio titular";;;;2025-01-01;2025-12-31;SI;socio;clave5968;Providencia
+13342188-2;"Daniela Jara Nuñez";daniela.jara396@mail.cl;;;"Av Gran Avenida 2300";Concepción;8;Biobío;invitado;;;2000-02-17;2025-01-01;2025-12-31;NO;;;"Santa Cruz"
+11361267-3;"Mauricio Alvarez Ortiz";mauricio.alvarez231@mail.cl;990765844;;"Av Vitacura 3500";"La Florida";13;Metropolitana;administrativo;;;;2025-01-01;2025-12-31;SI;administrativo;clave6332;"La Florida"
+6158380-7;"Ignacio Contreras Quezada";ignacio.contreras4@mail.cl;957749950;926357178;"Av Recoleta 200";Concepción;8;Biobío;adicional;6014819-8;;1987-06-21;2025-01-01;2025-12-31;NO;;;"La Florida"
+12857635-5;"Beatriz Galdames Nuñez";beatriz.galdames886@mail.cl;975997881;973929659;"Av Irarrazaval 1100";Ñuñoa;13;Metropolitana;"socio titular";;;1953-09-17;2025-01-01;2025-12-31;SI;socio;clave1646;"Santa Cruz"
+6433429-8;"Alvaro Quezada Barrera";alvaro.quezada627@mail.cl;;;"Av Alameda 400";"Puente Alto";13;Metropolitana;"socio titular";;;1976-03-26;2025-01-01;2025-12-31;SI;socio;clave6559;"La Florida"
+22620225-0;"Alvaro Fuentes Mendez";alvaro.fuentes565@mail.cl;;999869793;"Av Providencia 1900";"Puente Alto";13;Metropolitana;invitado;;;1951-12-23;2025-01-01;2025-12-31;NO;;;"La Florida"
+11289436-5;"Patricia Iturra Alvarez";patricia.iturra659@mail.cl;987847565;;"Av Vicuña Mackenna 3500";"Santa Cruz";6;O'Higgins;adicional;21265551-1;;2004-02-20;2025-01-01;2025-12-31;NO;;;Providencia
+12577366-4;"Loreto Lagos Ortiz";loreto.lagos543@mail.cl;;;"Av Alameda 1700";Ñuñoa;13;Metropolitana;invitado;;;1975-12-22;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+13541303-8;"Daniela Nuñez Mendez";daniela.nunez404@mail.cl;920954125;;"Av Pedro de Valdivia 1000";"Puente Alto";13;Metropolitana;adicional;18512802-4;;1988-12-25;2025-01-01;2025-12-31;NO;;;"Santa Cruz"
+19414204-8;"Oscar Barrera Galdames";oscar.barrera253@mail.cl;990175232;964371247;"Av Providencia 3700";Providencia;13;Metropolitana;"socio titular";;;1975-07-16;2025-01-01;2025-12-31;SI;socio;clave5814;"Santiago Centro"
+15819439-2;"Javiera Alvarez Henriquez";javiera.alvarez140@mail.cl;;;"Av Vitacura 1900";"San Miguel";13;Metropolitana;"socio titular";;;1983-01-18;2025-01-01;2025-12-31;SI;socio;clave4459;Providencia
+18963461-7;"Oscar Ortiz Alvarez";oscar.ortiz889@mail.cl;949182084;956428642;"Av Vicuña Mackenna 3000";"Viña del Mar";5;Valparaíso;"socio titular";;;1956-11-24;2025-01-01;2025-12-31;SI;socio;clave7043;"Santiago Centro"
+11377635-8;"Felicia Fuentes Alvarez";felicia.fuentes628@mail.cl;950917699;;"Av Irarrazaval 700";"Puente Alto";13;Metropolitana;adicional;22224530-3;;;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+9166513-1;"Alvaro Barrera Espinoza";alvaro.barrera974@mail.cl;965896521;;"Av Irarrazaval 1300";Maipú;13;Metropolitana;adicional;14311235-7;;;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+23785297-4;"Mauricio Henriquez Barrera";mauricio.henriquez591@mail.cl;913427318;934376699;"Av Apoquindo 200";"Las Condes";13;Metropolitana;invitado;;;1977-09-25;2025-01-01;2025-12-31;NO;;;Providencia
+10507406-9;"Enrique Mendez Iturra";enrique.mendez880@mail.cl;934725670;929371444;"Av Apoquindo 1100";"Viña del Mar";5;Valparaíso;"socio titular";;;1999-06-05;2025-01-01;2025-12-31;SI;socio;clave5617;"La Florida"
+22208261-7;"Daniela Contreras Lagos";daniela.contreras181@mail.cl;927019932;;"Av Vicuña Mackenna 1700";Concepción;8;Biobío;adicional;9151881-3;;1994-01-08;2025-01-01;2025-12-31;NO;;;"La Florida"
+12584413-8;"Ignacio Iturra Espinoza";ignacio.iturra155@mail.cl;987622501;;"Av Recoleta 1400";"La Florida";13;Metropolitana;beneficiario;18963461-7;c—nyuge;1998-05-16;2025-01-01;2025-12-31;NO;;;"Santa Cruz"
+18991450-4;"Alvaro Mendez Iturra";alvaro.mendez873@mail.cl;;915497077;"Av Providencia 1100";"Las Condes";13;Metropolitana;adicional;10507406-9;;1990-09-06;2025-01-01;2025-12-31;NO;;;Providencia
+18363264-7;"Kevin Nuñez Nuñez";kevin.nunez325@mail.cl;979916320;985529033;"Av Vitacura 700";Santiago;13;Metropolitana;"socio titular";;;;2025-01-01;2025-12-31;SI;socio;clave3899;"La Florida"
+7066411-9;"Gonzalo Espinoza Barrera";gonzalo.espinoza429@mail.cl;958152590;942644537;"Av Macul 3600";"Viña del Mar";5;Valparaíso;"socio titular";;;1974-09-07;2025-01-01;2025-12-31;SI;socio;clave5878;"Santa Cruz"
+5428565-5;"Mauricio Espinoza Lagos";mauricio.espinoza763@mail.cl;;943593731;"Av Apoquindo 2800";"San Miguel";13;Metropolitana;invitado;;;1955-08-23;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+18062173-3;"Loreto Espinoza Galdames";loreto.espinoza288@mail.cl;956515485;916926575;"Av Providencia 2700";"Santa Cruz";6;O'Higgins;invitado;;;1964-09-09;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+22661111-8;"Loreto Iturra Espinoza";loreto.iturra132@mail.cl;929406730;923300514;"Av Macul 3900";"La Reina";13;Metropolitana;adicional;6960687-3;;1951-09-11;2025-01-01;2025-12-31;NO;;;Providencia
+11934649-5;"Ignacio Duarte Espinoza";ignacio.duarte453@mail.cl;986852118;939303623;"Av Pedro de Valdivia 700";Ñuñoa;13;Metropolitana;"socio titular";;;1966-11-20;2025-01-01;2025-12-31;SI;socio;clave6167;"La Florida"
+17960701-8;"Mauricio Mendez Henriquez";mauricio.mendez539@mail.cl;;924839769;"Av Vicuña Mackenna 500";"Santa Cruz";6;O'Higgins;"socio titular";;;1987-04-12;2025-01-01;2025-12-31;SI;socio;clave4329;"Santiago Centro"
+24183297-K;"Claudio Galdames Pardo";claudio.galdames727@mail.cl;914232598;;"Av Alameda 1900";Maipú;13;Metropolitana;administrativo;;;1961-08-15;2025-01-01;2025-12-31;SI;administrativo;clave6155;"La Florida"
+24694518-7;"Loreto Jara Jara";loreto.jara156@mail.cl;919832261;;"Av Gran Avenida 2900";Ñuñoa;13;Metropolitana;adicional;18963461-7;;1974-11-25;2025-01-01;2025-12-31;NO;;;"La Florida"
+24847039-9;"Helena Iturra Galdames";helena.iturra203@mail.cl;978920726;934421332;"Av Vicuña Mackenna 3100";Concepción;8;Biobío;adicional;23075751-8;;1981-02-07;2025-01-01;2025-12-31;NO;;;Providencia
+15633095-7;"Patricia Quezada Galdames";patricia.quezada503@mail.cl;962781163;925703524;"Av Gran Avenida 2200";"Santa Cruz";6;O'Higgins;adicional;24692054-0;;;2025-01-01;2025-12-31;NO;;;Providencia
+7683669-8;"Helena Jara Henriquez";helena.jara782@mail.cl;930701563;949291727;"Av Irarrazaval 1300";"San Miguel";13;Metropolitana;invitado;;;1995-07-14;2025-01-01;2025-12-31;NO;;;"Santa Cruz"
+19249511-3;"Alvaro Nuñez Ortiz";alvaro.nunez759@mail.cl;934535245;;"Av Apoquindo 200";Santiago;13;Metropolitana;invitado;;;1990-01-01;2025-01-01;2025-12-31;NO;;;"La Florida"
+11188989-9;"Loreto Galdames Quezada";loreto.galdames125@mail.cl;919989388;;"Av Alameda 3200";"La Florida";13;Metropolitana;invitado;;;1978-02-06;2025-01-01;2025-12-31;NO;;;"La Florida"
+16440104-9;"Gonzalo Duarte Mendez";gonzalo.duarte772@mail.cl;992135509;983165079;"Av Apoquindo 700";"La Reina";13;Metropolitana;"socio titular";;;1982-03-04;2025-01-01;2025-12-31;SI;socio;clave7860;Providencia
+8353928-3;"Felicia Quezada Ortiz";felicia.quezada992@mail.cl;930126888;;"Av Providencia 2600";"Santa Cruz";6;O'Higgins;adicional;11606281-K;;1987-04-08;2025-01-01;2025-12-31;NO;;;"Santa Cruz"
+24729805-3;"Gonzalo Contreras Mendez";gonzalo.contreras196@mail.cl;938586290;971553359;"Av Recoleta 2000";Concepción;8;Biobío;invitado;;;1971-03-09;2025-01-01;2025-12-31;NO;;;"La Florida"
+6428766-4;"Daniela Alvarez Espinoza";daniela.alvarez445@mail.cl;929894846;;"Av Irarrazaval 3900";"San Miguel";13;Metropolitana;invitado;;;1952-07-25;2025-01-01;2025-12-31;NO;;;"Santa Cruz"
+17317597-3;"Felicia Barrera Henriquez";felicia.barrera617@mail.cl;;960416586;"Av Providencia 1300";Maipú;13;Metropolitana;"socio titular";;;1980-11-26;2025-01-01;2025-12-31;SI;socio;clave3501;Providencia
+20841931-5;"Javiera Ortiz Contreras";javiera.ortiz341@mail.cl;;971307389;"Av Irarrazaval 600";"Viña del Mar";5;Valparaíso;adicional;20789127-4;;1976-03-21;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+21971159-K;"Javiera Iturra Fuentes";javiera.iturra885@mail.cl;965984311;911391304;"Av Apoquindo 900";"San Miguel";13;Metropolitana;"socio titular";;;1975-04-17;2025-01-01;2025-12-31;SI;socio;clave1964;"Santiago Centro"
+21739535-6;"Kevin Contreras Galdames";kevin.contreras496@mail.cl;953669652;981130163;"Av Pedro de Valdivia 600";Ñuñoa;13;Metropolitana;"socio titular";;;1983-05-01;2025-01-01;2025-12-31;SI;socio;clave3055;"Santiago Centro"
+19243461-0;"Felicia Lagos Duarte";felicia.lagos428@mail.cl;;;"Av Alameda 2900";"Viña del Mar";5;Valparaíso;invitado;;;1968-10-24;2025-01-01;2025-12-31;NO;;;"La Florida"
+11190490-1;"Felicia Iturra Mendez";felicia.iturra492@mail.cl;998756048;992474128;"Av Vicuña Mackenna 2400";"Santa Cruz";6;O'Higgins;"socio titular";;;;2025-01-01;2025-12-31;SI;socio;clave8158;"La Florida"
+9971708-4;"Ignacio Contreras Mendez";ignacio.contreras66@mail.cl;;957504643;"Av Providencia 3500";"San Miguel";13;Metropolitana;adicional;17526820-0;;2003-03-21;2025-01-01;2025-12-31;NO;;;"La Florida"
+14019572-3;"Oscar Pardo Nuñez";oscar.pardo603@mail.cl;;970002778;"Av Apoquindo 2400";"Puente Alto";13;Metropolitana;adicional;12625578-0;;2003-11-18;2025-01-01;2025-12-31;NO;;;"Santa Cruz"
+22435720-6;"Gonzalo Quezada Ortiz";gonzalo.quezada889@mail.cl;;964054429;"Av Providencia 300";Santiago;13;Metropolitana;invitado;;;1997-11-28;2025-01-01;2025-12-31;NO;;;"Santa Cruz"
+18029495-3;"Helena Quezada Barrera";helena.quezada104@mail.cl;;;"Av Irarrazaval 900";Santiago;13;Metropolitana;adicional;24692054-0;;1951-09-26;2025-01-01;2025-12-31;NO;;;Providencia
+13224755-2;"Beatriz Jara Quezada";beatriz.jara75@mail.cl;925517572;966514422;"Av Vitacura 1200";"La Reina";13;Metropolitana;adicional;10507406-9;;2000-03-11;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+20360184-0;"Gonzalo Pardo Fuentes";gonzalo.pardo283@mail.cl;944887133;992408356;"Av Vicuña Mackenna 3700";Independencia;13;Metropolitana;adicional;13388386-K;;1983-12-13;2025-01-01;2025-12-31;NO;;;"Santa Cruz"
+22788212-3;"Javiera Jara Contreras";javiera.jara557@mail.cl;;;"Av Vicuña Mackenna 3700";Maipú;13;Metropolitana;invitado;;;2004-10-08;2025-01-01;2025-12-31;NO;;;"Santa Cruz"
+23809521-2;"Mauricio Contreras Ortiz";mauricio.contreras676@mail.cl;976232865;;"Av Providencia 4000";"San Miguel";13;Metropolitana;beneficiario;22924363-2;c—nyuge;;2025-01-01;2025-12-31;NO;;;"La Florida"
+18061597-0;"Felicia Alvarez Duarte";felicia.alvarez745@mail.cl;;911049197;"Av Vitacura 400";Concepción;8;Biobío;beneficiario;15912486-K;c—nyuge;2004-10-05;2025-01-01;2025-12-31;NO;;;"La Florida"
+9463863-1;"Mauricio Pardo Espinoza";mauricio.pardo254@mail.cl;;;"Av Apoquindo 2500";"Santa Cruz";6;O'Higgins;"socio titular";;;1957-10-10;2025-01-01;2025-12-31;SI;socio;clave7779;"Santiago Centro"
+15527103-5;"Enrique Pardo Iturra";enrique.pardo486@mail.cl;;;"Av Apoquindo 2800";"San Miguel";13;Metropolitana;adicional;18963461-7;;1996-11-02;2025-01-01;2025-12-31;NO;;;"Santa Cruz"
+10109590-8;"Alvaro Espinoza Jara";alvaro.espinoza758@mail.cl;957314625;951524394;"Av Macul 3800";"San Miguel";13;Metropolitana;adicional;9081387-0;;1989-06-08;2025-01-01;2025-12-31;NO;;;Providencia
+12480957-6;"Felicia Galdames Lagos";felicia.galdames521@mail.cl;;;"Av Vicuña Mackenna 3500";Maipú;13;Metropolitana;"socio titular";;;1978-02-18;2025-01-01;2025-12-31;SI;socio;clave9198;Providencia
+23161927-5;"Felicia Henriquez Pardo";felicia.henriquez314@mail.cl;;;"Av Recoleta 700";"Las Condes";13;Metropolitana;adicional;23075751-8;;1955-12-24;2025-01-01;2025-12-31;NO;;;"Santa Cruz"
+18910992-K;"Felicia Contreras Quezada";felicia.contreras666@mail.cl;;942152455;"Av Vicuña Mackenna 3100";"Las Condes";13;Metropolitana;invitado;;;1988-04-17;2025-01-01;2025-12-31;NO;;;"La Florida"
+9407714-1;"Patricia Barrera Ortiz";patricia.barrera117@mail.cl;931623214;948498362;"Av Vicuña Mackenna 2700";"La Florida";13;Metropolitana;invitado;;;1990-01-01;2025-01-01;2025-12-31;NO;;;Providencia
+13729766-3;"Javiera Barrera Barrera";javiera.barrera129@mail.cl;984573922;928636534;"Av Recoleta 1700";Ñuñoa;13;Metropolitana;"socio titular";;;;2025-01-01;2025-12-31;SI;socio;clave5091;Providencia
+16794678-K;"Natalia Lagos Ortiz";natalia.lagos702@mail.cl;911166398;;"Av Vicuña Mackenna 2000";Independencia;13;Metropolitana;beneficiario;15913517-9;c—nyuge;2005-07-11;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+9494537-2;"Felicia Quezada Nuñez";felicia.quezada186@mail.cl;954371589;;"Av Recoleta 2200";"Santa Cruz";6;O'Higgins;adicional;24259004-K;;1990-01-01;2025-01-01;2025-12-31;NO;;;"Santa Cruz"
+12473060-0;"Natalia Nuñez Duarte";natalia.nunez270@mail.cl;924462797;970142251;"Av Irarrazaval 2500";Santiago;13;Metropolitana;"socio titular";;;2003-04-12;2025-01-01;2025-12-31;SI;socio;clave5448;"Santiago Centro"
+7537758-4;"Felicia Mendez Fuentes";felicia.mendez136@mail.cl;;922545648;"Av Vicuña Mackenna 1600";Independencia;13;Metropolitana;beneficiario;9151881-3;c—nyuge;1953-01-25;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+20860514-3;"Loreto Lagos Duarte";loreto.lagos224@mail.cl;922261284;985798799;"Av Recoleta 2100";Ñuñoa;13;Metropolitana;invitado;;;1976-03-12;2025-01-01;2025-12-31;NO;;;"La Florida"
+15546391-0;"Javiera Duarte Contreras";javiera.duarte811@mail.cl;966033100;988159009;"Av Pedro de Valdivia 300";"Santa Cruz";6;O'Higgins;adicional;17960701-8;;1994-06-23;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+12477156-0;"Alvaro Lagos Duarte";alvaro.lagos189@mail.cl;981282302;930729954;"Av Pedro de Valdivia 2700";"La Reina";13;Metropolitana;"socio titular";;;;2025-01-01;2025-12-31;SI;socio;clave4276;Providencia
+14436680-8;"Mauricio Iturra Nuñez";mauricio.iturra636@mail.cl;922796556;933355079;"Av Gran Avenida 1300";"La Reina";13;Metropolitana;"socio titular";;;;2025-01-01;2025-12-31;SI;socio;clave5347;"Santa Cruz"
+20849694-8;"Loreto Quezada Contreras";loreto.quezada591@mail.cl;931377337;988045755;"Av Macul 1100";"San Miguel";13;Metropolitana;"socio titular";;;1990-01-01;2025-01-01;2025-12-31;SI;socio;clave1760;"Santa Cruz"
+24197045-0;"Natalia Mendez Henriquez";natalia.mendez608@mail.cl;968756786;952242033;"Av Macul 2900";"La Florida";13;Metropolitana;invitado;;;1961-04-04;2025-01-01;2025-12-31;NO;;;Providencia
+5413202-6;"Oscar Fuentes Barrera";oscar.fuentes435@mail.cl;;973810612;"Av Macul 3900";"La Reina";13;Metropolitana;"socio titular";;;1988-01-03;2025-01-01;2025-12-31;SI;socio;clave3271;Providencia
+16034924-7;"Natalia Duarte Alvarez";natalia.duarte779@mail.cl;990292500;983827810;"Av Alameda 2100";"San Miguel";13;Metropolitana;administrativo;;;1990-01-01;2025-01-01;2025-12-31;SI;administrativo;clave8433;"Santiago Centro"
+19924887-1;"Alvaro Nuñez Jara";alvaro.nunez562@mail.cl;986935032;;"Av Providencia 600";Independencia;13;Metropolitana;invitado;;;;2025-01-01;2025-12-31;NO;;;"Santa Cruz"
+12742803-4;"Gonzalo Ortiz Pardo";gonzalo.ortiz471@mail.cl;;;"Av Recoleta 1500";Ñuñoa;13;Metropolitana;adicional;11190490-1;;1983-12-14;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+5984818-6;"Beatriz Pardo Pardo";beatriz.pardo909@mail.cl;917914544;976878316;"Av Vicuña Mackenna 1400";"Puente Alto";13;Metropolitana;invitado;;;1997-03-14;2025-01-01;2025-12-31;NO;;;"La Florida"
+9766704-7;"Javiera Quezada Mendez";javiera.quezada974@mail.cl;929168716;970468030;"Av Pedro de Valdivia 2300";"Puente Alto";13;Metropolitana;administrativo;;;1980-06-26;2025-01-01;2025-12-31;SI;administrativo;clave2784;Providencia
+5347862-K;"Oscar Contreras Pardo";oscar.contreras280@mail.cl;;924710603;"Av Gran Avenida 3000";"La Reina";13;Metropolitana;adicional;12529254-2;;1973-11-28;2025-01-01;2025-12-31;NO;;;Providencia
+13634710-1;"Daniela Ortiz Pardo";daniela.ortiz535@mail.cl;;;"Av Providencia 3000";Providencia;13;Metropolitana;invitado;;;1973-06-24;2025-01-01;2025-12-31;NO;;;Providencia
+7002432-2;"Loreto Alvarez Iturra";loreto.alvarez534@mail.cl;998975886;922025996;"Av Pedro de Valdivia 1300";Ñuñoa;13;Metropolitana;"socio titular";;;1959-07-24;2025-01-01;2025-12-31;SI;socio;clave3460;Providencia
+15678405-2;"Oscar Galdames Contreras";oscar.galdames980@mail.cl;933305115;;"Av Gran Avenida 2700";Providencia;13;Metropolitana;adicional;21265551-1;;1987-08-14;2025-01-01;2025-12-31;NO;;;"La Florida"
+7337201-1;"Alvaro Iturra Ortiz";alvaro.iturra754@mail.cl;984773313;;"Av Vicuña Mackenna 1000";"San Miguel";13;Metropolitana;"socio titular";;;;2025-01-01;2025-12-31;SI;socio;clave7762;"La Florida"
+7234502-9;"Natalia Jara Barrera";natalia.jara209@mail.cl;999579284;;"Av Alameda 2000";"San Miguel";13;Metropolitana;invitado;;;2002-09-17;2025-01-01;2025-12-31;NO;;;"La Florida"
+9501051-2;"Felicia Nuñez Mendez";felicia.nunez945@mail.cl;965576946;;"Av Vicuña Mackenna 2400";"Santa Cruz";6;O'Higgins;"socio titular";;;1992-09-11;2025-01-01;2025-12-31;SI;socio;clave6529;"La Florida"
+9730763-6;"Oscar Contreras Ortiz";oscar.contreras440@mail.cl;;945348421;"Av Providencia 3400";Maipú;13;Metropolitana;adicional;19823939-9;;1980-08-01;2025-01-01;2025-12-31;NO;;;"Santa Cruz"
+11309417-6;"Mauricio Quezada Ortiz";mauricio.quezada66@mail.cl;916932916;;"Av Irarrazaval 200";Ñuñoa;13;Metropolitana;"socio titular";;;;2025-01-01;2025-12-31;SI;socio;clave3446;"Santiago Centro"
+7003542-1;"Claudio Nuñez Fuentes";claudio.nunez541@mail.cl;959504284;910191303;"Av Vitacura 900";Concepción;8;Biobío;"socio titular";;;;2025-01-01;2025-12-31;SI;socio;clave2093;"Santa Cruz"
+5645003-3;"Alvaro Espinoza Fuentes";alvaro.espinoza363@mail.cl;965121710;;"Av Recoleta 1200";"Santa Cruz";6;O'Higgins;invitado;;;1959-04-20;2025-01-01;2025-12-31;NO;;;Providencia
+9776909-5;"Beatriz Mendez Fuentes";beatriz.mendez655@mail.cl;910021064;945565684;"Av Irarrazaval 2500";"Puente Alto";13;Metropolitana;invitado;;;1990-01-01;2025-01-01;2025-12-31;NO;;;Providencia
+16028753-5;"Gonzalo Fuentes Henriquez";gonzalo.fuentes350@mail.cl;985628202;;"Av Pedro de Valdivia 1300";Maipú;13;Metropolitana;"socio titular";;;;2025-01-01;2025-12-31;SI;socio;clave5365;"Santiago Centro"
+16866213-0;"Claudio Jara Ortiz";claudio.jara612@mail.cl;916871052;920979759;"Av Vitacura 1700";"Santa Cruz";6;O'Higgins;invitado;;;1974-05-21;2025-01-01;2025-12-31;NO;;;"Santa Cruz"
+21295080-7;"Helena Alvarez Espinoza";helena.alvarez166@mail.cl;985391824;;"Av Macul 1400";"Las Condes";13;Metropolitana;invitado;;;;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+22162861-6;"Oscar Nuñez Alvarez";oscar.nunez669@mail.cl;957094487;938005148;"Av Alameda 2500";Providencia;13;Metropolitana;"socio titular";;;1971-02-13;2025-01-01;2025-12-31;SI;socio;clave6848;Providencia
+14958381-5;"Claudio Mendez Henriquez";claudio.mendez137@mail.cl;955332035;;"Av Vitacura 1400";"San Miguel";13;Metropolitana;invitado;;;1966-04-08;2025-01-01;2025-12-31;NO;;;"La Florida"
+12037120-7;"Daniela Iturra Espinoza";daniela.iturra841@mail.cl;996375239;937308178;"Av Pedro de Valdivia 3100";Santiago;13;Metropolitana;"socio titular";;;1993-12-18;2025-01-01;2025-12-31;SI;socio;clave5466;"La Florida"
+20627319-4;"Ignacio Henriquez Fuentes";ignacio.henriquez148@mail.cl;943515760;963861122;"Av Pedro de Valdivia 1200";Providencia;13;Metropolitana;"socio titular";;;2003-02-28;2025-01-01;2025-12-31;SI;socio;clave6702;Providencia
+13507592-2;"Javiera Mendez Ortiz";javiera.mendez292@mail.cl;947576025;;"Av Vitacura 1000";Ñuñoa;13;Metropolitana;adicional;18738609-8;;1951-05-16;2025-01-01;2025-12-31;NO;;;"La Florida"
+11319584-3;"Javiera Henriquez Espinoza";javiera.henriquez232@mail.cl;972716635;;"Av Gran Avenida 3600";Providencia;13;Metropolitana;adicional;10103519-0;;2003-12-23;2025-01-01;2025-12-31;NO;;;"La Florida"
+6003226-2;"Ignacio Barrera Henriquez";ignacio.barrera272@mail.cl;;949252476;"Av Irarrazaval 1300";Providencia;13;Metropolitana;beneficiario;21265551-1;hijo;1963-08-11;2025-01-01;2025-12-31;NO;;;"Santa Cruz"
+7436266-4;"Javiera Espinoza Alvarez";javiera.espinoza111@mail.cl;968993471;978561879;"Av Providencia 2100";Ñuñoa;13;Metropolitana;"socio titular";;;2005-03-11;2025-01-01;2025-12-31;SI;socio;clave3049;"La Florida"
+20236860-3;"Helena Pardo Contreras";helena.pardo138@mail.cl;942235582;987503444;"Av Recoleta 1800";"Viña del Mar";5;Valparaíso;"socio titular";;;1985-08-16;2025-01-01;2025-12-31;SI;socio;clave9173;"Santa Cruz"
+9409532-8;"Javiera Alvarez Lagos";javiera.alvarez743@mail.cl;;;"Av Apoquindo 3100";Ñuñoa;13;Metropolitana;invitado;;;1960-11-07;2025-01-01;2025-12-31;NO;;;"La Florida"
+16307464-8;"Kevin Jara Galdames";kevin.jara726@mail.cl;;921998563;"Av Vicuña Mackenna 2200";"Las Condes";13;Metropolitana;"socio titular";;;1961-02-23;2025-01-01;2025-12-31;SI;socio;clave8485;"Santiago Centro"
+23744043-9;"Beatriz Alvarez Fuentes";beatriz.alvarez464@mail.cl;977553965;;"Av Macul 2800";"La Florida";13;Metropolitana;invitado;;;1979-09-22;2025-01-01;2025-12-31;NO;;;Providencia
+23654299-8;"Enrique Espinoza Quezada";enrique.espinoza628@mail.cl;;976638299;"Av Recoleta 300";"Santa Cruz";6;O'Higgins;"socio titular";;;1971-11-07;2025-01-01;2025-12-31;SI;socio;clave7284;"Santa Cruz"
+23313331-0;"Natalia Quezada Contreras";natalia.quezada306@mail.cl;920881317;970019159;"Av Vicuña Mackenna 3600";"La Reina";13;Metropolitana;"socio titular";;;1963-08-05;2025-01-01;2025-12-31;SI;socio;clave4210;"Santiago Centro"
+12998685-9;"Beatriz Barrera Pardo";beatriz.barrera954@mail.cl;948527905;948451782;"Av Macul 1900";"Puente Alto";13;Metropolitana;"socio titular";;;1977-09-20;2025-01-01;2025-12-31;SI;socio;clave6523;"Santa Cruz"
+9931130-4;"Natalia Ortiz Jara";natalia.ortiz806@mail.cl;927804168;;"Av Apoquindo 1800";Santiago;13;Metropolitana;adicional;22405688-5;;1955-10-02;2025-01-01;2025-12-31;NO;;;"La Florida"
+9291293-0;"Javiera Contreras Barrera";javiera.contreras70@mail.cl;;943115524;"Av Vicuña Mackenna 2800";"Las Condes";13;Metropolitana;"socio titular";;;1981-02-22;2025-01-01;2025-12-31;SI;socio;clave3567;Providencia
+11241661-7;"Natalia Espinoza Lagos";natalia.espinoza680@mail.cl;993152062;;"Av Recoleta 900";Concepción;8;Biobío;adicional;17782653-7;;1990-01-01;2025-01-01;2025-12-31;NO;;;Providencia
+20916583-K;"Helena Quezada Jara";helena.quezada9@mail.cl;;;"Av Pedro de Valdivia 1500";Independencia;13;Metropolitana;adicional;13667087-5;;2001-02-27;2025-01-01;2025-12-31;NO;;;"La Florida"
+10847718-0;"Gonzalo Lagos Fuentes";gonzalo.lagos424@mail.cl;925471798;934234264;"Av Macul 1000";"San Miguel";13;Metropolitana;"socio titular";;;1961-04-17;2025-01-01;2025-12-31;SI;socio;clave4097;"Santiago Centro"
+23796414-4;"Natalia Nuñez Mendez";natalia.nunez227@mail.cl;;964516345;"Av Apoquindo 2500";Providencia;13;Metropolitana;"socio titular";;;1994-07-28;2025-01-01;2025-12-31;SI;socio;clave2037;"Santa Cruz"
+10968159-8;"Felicia Fuentes Espinoza";felicia.fuentes738@mail.cl;921115071;938044454;"Av Irarrazaval 2000";"Santa Cruz";6;O'Higgins;"socio titular";;;1990-01-01;2025-01-01;2025-12-31;SI;socio;clave6543;Providencia
+23760052-5;"Helena Galdames Lagos";helena.galdames261@mail.cl;;;"Av Vicuña Mackenna 500";"Puente Alto";13;Metropolitana;"socio titular";;;2003-05-25;2025-01-01;2025-12-31;SI;socio;clave9460;"Santa Cruz"
+9979897-1;"Alvaro Nuñez Quezada";alvaro.nunez538@mail.cl;963445365;956808414;"Av Macul 300";Ñuñoa;13;Metropolitana;administrativo;;;1967-10-25;2025-01-01;2025-12-31;SI;administrativo;clave5533;Providencia
+5970124-K;"Mauricio Lagos Espinoza";mauricio.lagos461@mail.cl;;;"Av Recoleta 1900";Independencia;13;Metropolitana;"socio titular";;;1990-01-08;2025-01-01;2025-12-31;SI;socio;clave9445;"Santa Cruz"
+16260289-6;"Alvaro Ortiz Pardo";alvaro.ortiz736@mail.cl;953457476;;"Av Pedro de Valdivia 2000";Santiago;13;Metropolitana;beneficiario;7066411-9;c—nyuge;1996-11-22;2025-01-01;2025-12-31;NO;;;"La Florida"
+19206433-3;"Alvaro Mendez Espinoza";alvaro.mendez318@mail.cl;960623174;957906906;"Av Vicuña Mackenna 4000";Concepción;8;Biobío;"socio titular";;;1978-03-22;2025-01-01;2025-12-31;SI;socio;clave1001;"Santiago Centro"
+10514301-K;"Alvaro Alvarez Lagos";alvaro.alvarez468@mail.cl;;962056230;"Av Recoleta 3500";"Las Condes";13;Metropolitana;adicional;19823939-9;;2003-01-10;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+5992294-7;"Felicia Galdames Duarte";felicia.galdames364@mail.cl;919804968;976014446;"Av Recoleta 2400";Maipú;13;Metropolitana;administrativo;;;1952-02-12;2025-01-01;2025-12-31;SI;administrativo;clave2886;Providencia
+9316860-7;"Kevin Pardo Fuentes";kevin.pardo915@mail.cl;945304730;983017879;"Av Providencia 2600";"San Miguel";13;Metropolitana;administrativo;;;1981-05-21;2025-01-01;2025-12-31;SI;administrativo;clave9289;"La Florida"
+17131999-4;"Kevin Iturra Jara";kevin.iturra343@mail.cl;;949320782;"Av Providencia 1600";Concepción;8;Biobío;adicional;24887596-8;;1980-01-18;2025-01-01;2025-12-31;NO;;;"La Florida"
+6944737-6;"Loreto Quezada Fuentes";loreto.quezada172@mail.cl;935265637;;"Av Vicuña Mackenna 3600";"Las Condes";13;Metropolitana;beneficiario;23796414-4;c—nyuge;;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+11228688-8;"Mauricio Nuñez Jara";mauricio.nunez272@mail.cl;946569494;925434630;"Av Apoquindo 300";Concepción;8;Biobío;adicional;12480957-6;;1973-05-04;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+16024563-8;"Oscar Lagos Nuñez";oscar.lagos20@mail.cl;960650447;918016992;"Av Gran Avenida 3300";"Las Condes";13;Metropolitana;adicional;12037120-7;;1980-12-13;2025-01-01;2025-12-31;NO;;;"Santa Cruz"
+17098755-1;"Loreto Iturra Alvarez";loreto.iturra963@mail.cl;984210426;926290140;"Av Irarrazaval 1000";"Santa Cruz";6;O'Higgins;invitado;;;1982-11-03;2025-01-01;2025-12-31;NO;;;Providencia
+15926331-2;"Enrique Pardo Henriquez";enrique.pardo875@mail.cl;998889924;;"Av Vitacura 3000";"La Reina";13;Metropolitana;"socio titular";;;;2025-01-01;2025-12-31;SI;socio;clave4212;Providencia
+6555858-0;"Felicia Iturra Espinoza";felicia.iturra31@mail.cl;980117526;963585090;"Av Recoleta 1200";"Santa Cruz";6;O'Higgins;invitado;;;1952-08-12;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+22310528-9;"Claudio Jara Espinoza";claudio.jara407@mail.cl;;;"Av Apoquindo 3100";"La Reina";13;Metropolitana;"socio titular";;;1952-11-05;2025-01-01;2025-12-31;SI;socio;clave6730;"La Florida"
+12264680-7;"Daniela Galdames Fuentes";daniela.galdames670@mail.cl;;;"Av Providencia 1200";"Las Condes";13;Metropolitana;adicional;9151881-3;;1963-10-15;2025-01-01;2025-12-31;NO;;;"La Florida"
+18307674-4;"Ignacio Quezada Alvarez";ignacio.quezada542@mail.cl;980073929;955528564;"Av Pedro de Valdivia 2600";Ñuñoa;13;Metropolitana;adicional;17317597-3;;;2025-01-01;2025-12-31;NO;;;"Santa Cruz"
+20731015-8;"Daniela Espinoza Barrera";daniela.espinoza422@mail.cl;929586034;;"Av Pedro de Valdivia 1900";"Santa Cruz";6;O'Higgins;administrativo;;;1994-05-28;2025-01-01;2025-12-31;SI;administrativo;clave1503;Providencia
+20368468-1;"Daniela Espinoza Pardo";daniela.espinoza245@mail.cl;;;"Av Pedro de Valdivia 2800";Maipú;13;Metropolitana;administrativo;;;1964-07-14;2025-01-01;2025-12-31;SI;administrativo;clave9618;"Santa Cruz"
+15328423-7;"Felicia Alvarez Barrera";felicia.alvarez640@mail.cl;923312262;917901592;"Av Macul 2400";Ñuñoa;13;Metropolitana;adicional;12625578-0;;1971-06-27;2025-01-01;2025-12-31;NO;;;"Santa Cruz"
+7266412-4;"Javiera Lagos Fuentes";javiera.lagos395@mail.cl;;;"Av Providencia 3000";"San Miguel";13;Metropolitana;invitado;;;1971-07-10;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+5681790-5;"Felicia Duarte Henriquez";felicia.duarte823@mail.cl;;;"Av Alameda 2000";"San Miguel";13;Metropolitana;invitado;;;1972-09-24;2025-01-01;2025-12-31;NO;;;"La Florida"
+20676715-4;"Javiera Duarte Nuñez";javiera.duarte639@mail.cl;;967093386;"Av Providencia 1100";"Santa Cruz";6;O'Higgins;adicional;7337201-1;;1989-03-04;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+8663068-0;"Loreto Jara Quezada";loreto.jara711@mail.cl;;916019214;"Av Vitacura 1200";"Las Condes";13;Metropolitana;adicional;18512802-4;;1965-07-27;2025-01-01;2025-12-31;NO;;;"La Florida"
+14041737-8;"Alvaro Espinoza Espinoza";alvaro.espinoza262@mail.cl;995007096;926475127;"Av Irarrazaval 600";"Santa Cruz";6;O'Higgins;"socio titular";;;;2025-01-01;2025-12-31;SI;socio;clave8032;"La Florida"
+24451538-K;"Loreto Lagos Mendez";loreto.lagos943@mail.cl;;968994371;"Av Irarrazaval 2500";"La Florida";13;Metropolitana;invitado;;;1955-10-20;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+7740237-3;"Javiera Quezada Quezada";javiera.quezada185@mail.cl;992958837;;"Av Providencia 1400";"Puente Alto";13;Metropolitana;adicional;12170069-7;;1974-08-25;2025-01-01;2025-12-31;NO;;;"La Florida"
+24293519-5;"Natalia Barrera Lagos";natalia.barrera776@mail.cl;970824860;;"Av Irarrazaval 1900";Santiago;13;Metropolitana;"socio titular";;;1971-01-01;2025-01-01;2025-12-31;SI;socio;clave8701;Providencia
+19261261-6;"Javiera Barrera Lagos";javiera.barrera296@mail.cl;;955795633;"Av Providencia 2500";"San Miguel";13;Metropolitana;"socio titular";;;1979-11-28;2025-01-01;2025-12-31;SI;socio;clave2155;"La Florida"
+23242040-5;"Helena Quezada Henriquez";helena.quezada650@mail.cl;962880984;;"Av Irarrazaval 1200";"Las Condes";13;Metropolitana;invitado;;;2002-08-08;2025-01-01;2025-12-31;NO;;;"Santa Cruz"
+6720375-5;"Felicia Alvarez Henriquez";felicia.alvarez828@mail.cl;922348143;;"Av Vitacura 2600";"Santa Cruz";6;O'Higgins;invitado;;;1982-07-02;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+22969649-1;"Mauricio Iturra Pardo";mauricio.iturra371@mail.cl;936374916;935466247;"Av Pedro de Valdivia 1200";Ñuñoa;13;Metropolitana;"socio titular";;;1996-10-06;2025-01-01;2025-12-31;SI;socio;clave9634;"La Florida"
+7883666-0;"Javiera Nuñez Henriquez";javiera.nunez441@mail.cl;960262687;;"Av Pedro de Valdivia 400";"Viña del Mar";5;Valparaíso;invitado;;;1980-10-03;2025-01-01;2025-12-31;NO;;;"Santa Cruz"
+8764506-1;"Enrique Lagos Duarte";enrique.lagos22@mail.cl;;;"Av Vitacura 100";Ñuñoa;13;Metropolitana;invitado;;;1994-03-21;2025-01-01;2025-12-31;NO;;;"Santa Cruz"
+23302382-5;"Claudio Nuñez Iturra";claudio.nunez659@mail.cl;923732515;918882128;"Av Pedro de Valdivia 900";Providencia;13;Metropolitana;adicional;9291293-0;;;2025-01-01;2025-12-31;NO;;;Providencia
+17155891-3;"Ignacio Alvarez Alvarez";ignacio.alvarez605@mail.cl;983084621;999568468;"Av Pedro de Valdivia 2700";Independencia;13;Metropolitana;invitado;;;;2025-01-01;2025-12-31;NO;;;"Santa Cruz"
+10519321-1;"Ignacio Iturra Contreras";ignacio.iturra790@mail.cl;949583698;915270693;"Av Apoquindo 3600";"La Reina";13;Metropolitana;invitado;;;1961-10-24;2025-01-01;2025-12-31;NO;;;Providencia
+13266400-5;"Claudio Pardo Duarte";claudio.pardo962@mail.cl;937581684;999327794;"Av Recoleta 3400";"Viña del Mar";5;Valparaíso;invitado;;;1963-06-03;2025-01-01;2025-12-31;NO;;;Providencia
+21199312-K;"Patricia Henriquez Espinoza";patricia.henriquez877@mail.cl;;971654188;"Av Recoleta 1900";"Puente Alto";13;Metropolitana;"socio titular";;;1984-01-11;2025-01-01;2025-12-31;SI;socio;clave2038;Providencia
+8275193-9;"Mauricio Lagos Alvarez";mauricio.lagos63@mail.cl;;;"Av Recoleta 3900";Independencia;13;Metropolitana;"socio titular";;;1972-02-13;2025-01-01;2025-12-31;SI;socio;clave4360;"La Florida"
+16500811-1;"Loreto Ortiz Barrera";loreto.ortiz909@mail.cl;922913946;955806176;"Av Vitacura 2000";Santiago;13;Metropolitana;administrativo;;;1959-11-15;2025-01-01;2025-12-31;SI;administrativo;clave1445;"La Florida"
+10721566-2;"Claudio Lagos Jara";claudio.lagos67@mail.cl;;924690486;"Av Providencia 2100";Santiago;13;Metropolitana;adicional;13667087-5;;1980-02-17;2025-01-01;2025-12-31;NO;;;Providencia
+20842130-1;"Alvaro Iturra Duarte";alvaro.iturra711@mail.cl;984316083;;"Av Vitacura 300";"La Florida";13;Metropolitana;invitado;;;2001-12-08;2025-01-01;2025-12-31;NO;;;Providencia
+19974131-4;"Javiera Iturra Galdames";javiera.iturra741@mail.cl;979386511;951239630;"Av Irarrazaval 3900";Santiago;13;Metropolitana;adicional;18363264-7;;1990-01-01;2025-01-01;2025-12-31;NO;;;"La Florida"
+14148760-4;"Kevin Henriquez Duarte";kevin.henriquez843@mail.cl;;961268859;"Av Gran Avenida 3600";Ñuñoa;13;Metropolitana;"socio titular";;;1952-04-17;2025-01-01;2025-12-31;SI;socio;clave5464;"La Florida"
+15064216-7;"Alvaro Alvarez Fuentes";alvaro.alvarez410@mail.cl;933452175;942596525;"Av Vitacura 3100";Ñuñoa;13;Metropolitana;"socio titular";;;1965-12-11;2025-01-01;2025-12-31;SI;socio;clave9236;"La Florida"
+8669404-2;"Beatriz Espinoza Fuentes";beatriz.espinoza766@mail.cl;;;"Av Recoleta 600";Maipú;13;Metropolitana;invitado;;;1984-04-26;2025-01-01;2025-12-31;NO;;;Providencia
+11599705-K;"Javiera Henriquez Quezada";javiera.henriquez985@mail.cl;951183832;998959788;"Av Pedro de Valdivia 1200";"Santa Cruz";6;O'Higgins;"socio titular";;;1990-01-01;2025-01-01;2025-12-31;SI;socio;clave7770;"Santiago Centro"
+15391982-8;"Gonzalo Nuñez Barrera";gonzalo.nunez46@mail.cl;;;"Av Vicuña Mackenna 3500";Concepción;8;Biobío;invitado;;;1988-03-13;2025-01-01;2025-12-31;NO;;;"La Florida"
+15563994-6;"Daniela Jara Galdames";daniela.jara896@mail.cl;;984168503;"Av Irarrazaval 2000";"La Reina";13;Metropolitana;"socio titular";;;1982-09-02;2025-01-01;2025-12-31;SI;socio;clave8893;"Santiago Centro"
+5763971-7;"Felicia Barrera Contreras";felicia.barrera711@mail.cl;991662303;910047337;"Av Irarrazaval 3300";Concepción;8;Biobío;adicional;24293519-5;;;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+9512775-4;"Gonzalo Fuentes Mendez";gonzalo.fuentes188@mail.cl;932239586;916185505;"Av Providencia 4000";"Puente Alto";13;Metropolitana;adicional;21265551-1;;1988-12-28;2025-01-01;2025-12-31;NO;;;"La Florida"
+10217660-K;"Natalia Alvarez Jara";natalia.alvarez112@mail.cl;994554050;;"Av Recoleta 3200";"Viña del Mar";5;Valparaíso;administrativo;;;1990-01-01;2025-01-01;2025-12-31;SI;administrativo;clave3775;"Santa Cruz"
+15964724-2;"Gonzalo Ortiz Quezada";gonzalo.ortiz918@mail.cl;997456353;999108711;"Av Vicuña Mackenna 3300";"Las Condes";13;Metropolitana;"socio titular";;;;2025-01-01;2025-12-31;SI;socio;clave2490;"La Florida"
+5522419-6;"Ignacio Iturra Barrera";ignacio.iturra72@mail.cl;910809237;958380674;"Av Vicuña Mackenna 200";Concepción;8;Biobío;adicional;19206433-3;;1990-01-01;2025-01-01;2025-12-31;NO;;;"Santa Cruz"
+11781761-K;"Loreto Mendez Ortiz";loreto.mendez663@mail.cl;922537179;;"Av Recoleta 3300";Providencia;13;Metropolitana;"socio titular";;;1961-06-07;2025-01-01;2025-12-31;SI;socio;clave4471;"La Florida"
+8802505-9;"Javiera Espinoza Henriquez";javiera.espinoza141@mail.cl;;999807643;"Av Recoleta 200";Concepción;8;Biobío;administrativo;;;1978-06-21;2025-01-01;2025-12-31;SI;administrativo;clave9636;"Santiago Centro"
+11423343-9;"Javiera Alvarez Alvarez";javiera.alvarez772@mail.cl;952651526;;"Av Alameda 400";"San Miguel";13;Metropolitana;"socio titular";;;1990-01-01;2025-01-01;2025-12-31;SI;socio;clave4046;"Santa Cruz"
+15493862-1;"Felicia Espinoza Galdames";felicia.espinoza110@mail.cl;945154430;968431818;"Av Macul 3200";Ñuñoa;13;Metropolitana;invitado;;;1975-01-20;2025-01-01;2025-12-31;NO;;;Providencia
+15066563-9;"Gonzalo Ortiz Henriquez";gonzalo.ortiz252@mail.cl;956808473;917862149;"Av Pedro de Valdivia 1800";"Viña del Mar";5;Valparaíso;"socio titular";;;1996-07-21;2025-01-01;2025-12-31;SI;socio;clave7957;"Santiago Centro"
+24208096-3;"Patricia Jara Barrera";patricia.jara627@mail.cl;;982824759;"Av Gran Avenida 1900";Santiago;13;Metropolitana;adicional;22924363-2;;1964-12-17;2025-01-01;2025-12-31;NO;;;Providencia
+7464559-3;"Daniela Barrera Mendez";daniela.barrera343@mail.cl;926017929;;"Av Pedro de Valdivia 2600";"Puente Alto";13;Metropolitana;adicional;23382051-2;;1977-12-15;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+11719585-6;"Daniela Quezada Mendez";daniela.quezada923@mail.cl;984097547;;"Av Macul 2100";"Santa Cruz";6;O'Higgins;administrativo;;;2000-11-01;2025-01-01;2025-12-31;SI;administrativo;clave2426;"Santa Cruz"
+20158143-5;"Kevin Henriquez Espinoza";kevin.henriquez787@mail.cl;;;"Av Irarrazaval 3000";"La Florida";13;Metropolitana;invitado;;;1952-01-17;2025-01-01;2025-12-31;NO;;;"Santa Cruz"
+7860031-4;"Daniela Nuñez Barrera";daniela.nunez750@mail.cl;960992112;;"Av Recoleta 100";Maipú;13;Metropolitana;invitado;;;1976-03-21;2025-01-01;2025-12-31;NO;;;"La Florida"
+17748008-8;"Mauricio Galdames Mendez";mauricio.galdames151@mail.cl;988475684;982799995;"Av Alameda 1500";Concepción;8;Biobío;invitado;;;1990-03-12;2025-01-01;2025-12-31;NO;;;"La Florida"
+24466704-K;"Ignacio Barrera Contreras";ignacio.barrera351@mail.cl;937122388;981422292;"Av Alameda 400";"San Miguel";13;Metropolitana;adicional;24259004-K;;1990-01-01;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+20545503-5;"Patricia Pardo Iturra";patricia.pardo670@mail.cl;984011598;;"Av Pedro de Valdivia 1300";"San Miguel";13;Metropolitana;administrativo;;;1990-01-01;2025-01-01;2025-12-31;SI;administrativo;clave6689;Providencia
+7233761-1;"Oscar Espinoza Barrera";oscar.espinoza845@mail.cl;912496000;;"Av Alameda 2800";Santiago;13;Metropolitana;beneficiario;24973079-3;c—nyuge;;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+6632842-2;"Ignacio Jara Mendez";ignacio.jara626@mail.cl;922707830;945475026;"Av Gran Avenida 900";Ñuñoa;13;Metropolitana;"socio titular";;;1955-06-25;2025-01-01;2025-12-31;SI;socio;clave4659;Providencia
+8843281-9;"Patricia Mendez Alvarez";patricia.mendez771@mail.cl;974177376;;"Av Vitacura 2900";Independencia;13;Metropolitana;"socio titular";;;1960-03-01;2025-01-01;2025-12-31;SI;socio;clave2856;"La Florida"
+21831442-2;"Mauricio Ortiz Quezada";mauricio.ortiz467@mail.cl;;;"Av Vitacura 1600";Providencia;13;Metropolitana;invitado;;;1974-10-23;2025-01-01;2025-12-31;NO;;;"Santa Cruz"
+5925734-K;"Beatriz Contreras Mendez";beatriz.contreras788@mail.cl;;916944198;"Av Alameda 700";"La Reina";13;Metropolitana;"socio titular";;;1975-03-16;2025-01-01;2025-12-31;SI;socio;clave4719;Providencia
+14812670-4;"Beatriz Pardo Espinoza";beatriz.pardo185@mail.cl;988508208;;"Av Irarrazaval 1300";Providencia;13;Metropolitana;"socio titular";;;1990-01-01;2025-01-01;2025-12-31;SI;socio;clave8126;"Santiago Centro"
+8330933-4;"Kevin Pardo Iturra";kevin.pardo498@mail.cl;937143189;972139955;"Av Pedro de Valdivia 100";"La Reina";13;Metropolitana;beneficiario;23271233-3;c—nyuge;1976-11-05;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+7611248-7;"Ignacio Jara Ortiz";ignacio.jara737@mail.cl;979922790;921677049;"Av Vitacura 1200";Maipú;13;Metropolitana;adicional;16028753-5;;1951-04-24;2025-01-01;2025-12-31;NO;;;Providencia
+9423746-7;"Ignacio Henriquez Barrera";ignacio.henriquez874@mail.cl;959251567;;"Av Macul 500";Santiago;13;Metropolitana;"socio titular";;;1977-07-26;2025-01-01;2025-12-31;SI;socio;clave2933;Providencia
+10345669-K;"Daniela Jara Duarte";daniela.jara165@mail.cl;;927914562;"Av Alameda 800";Ñuñoa;13;Metropolitana;"socio titular";;;2005-11-25;2025-01-01;2025-12-31;SI;socio;clave5802;"La Florida"
+13273860-2;"Helena Quezada Nuñez";helena.quezada854@mail.cl;;975330819;"Av Recoleta 2500";Providencia;13;Metropolitana;invitado;;;1998-02-15;2025-01-01;2025-12-31;NO;;;Providencia
+15086127-6;"Claudio Mendez Espinoza";claudio.mendez366@mail.cl;946172895;981401322;"Av Pedro de Valdivia 1200";"Santa Cruz";6;O'Higgins;adicional;14436680-8;;1981-01-24;2025-01-01;2025-12-31;NO;;;"Santa Cruz"
+8475226-6;"Mauricio Pardo Duarte";mauricio.pardo573@mail.cl;943771383;973624587;"Av Vitacura 3200";"La Florida";13;Metropolitana;invitado;;;;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+14566356-3;"Oscar Fuentes Quezada";oscar.fuentes383@mail.cl;915766784;984171722;"Av Alameda 3000";"Santa Cruz";6;O'Higgins;invitado;;;1977-06-27;2025-01-01;2025-12-31;NO;;;Providencia
+5280134-6;"Claudio Quezada Nuñez";claudio.quezada515@mail.cl;984916632;976684586;"Av Pedro de Valdivia 2100";"Santa Cruz";6;O'Higgins;adicional;24692054-0;;2005-01-18;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+24274032-7;"Beatriz Jara Pardo";beatriz.jara108@mail.cl;973310879;997842006;"Av Providencia 3200";"San Miguel";13;Metropolitana;invitado;;;1980-01-20;2025-01-01;2025-12-31;NO;;;"La Florida"
+21289513-K;"Javiera Jara Lagos";javiera.jara480@mail.cl;953106024;;"Av Irarrazaval 1500";"San Miguel";13;Metropolitana;"socio titular";;;1973-12-21;2025-01-01;2025-12-31;SI;socio;clave3642;"La Florida"
+11008623-7;"Enrique Mendez Barrera";enrique.mendez707@mail.cl;;;"Av Irarrazaval 200";Maipú;13;Metropolitana;adicional;16701421-6;;1982-05-06;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+18881751-3;"Claudio Galdames Lagos";claudio.galdames186@mail.cl;951942044;;"Av Vicuña Mackenna 2900";"La Florida";13;Metropolitana;"socio titular";;;1991-10-17;2025-01-01;2025-12-31;SI;socio;clave1198;"Santiago Centro"
+10816329-1;"Patricia Quezada Ortiz";patricia.quezada53@mail.cl;994435592;927559886;"Av Alameda 1100";"Las Condes";13;Metropolitana;adicional;17526820-0;;1979-02-09;2025-01-01;2025-12-31;NO;;;Providencia
+7896760-9;"Oscar Lagos Barrera";oscar.lagos302@mail.cl;992383130;995602088;"Av Vitacura 1200";Ñuñoa;13;Metropolitana;"socio titular";;;;2025-01-01;2025-12-31;SI;socio;clave9003;"La Florida"
+15447218-5;"Oscar Henriquez Contreras";oscar.henriquez117@mail.cl;948474866;;"Av Alameda 2000";Independencia;13;Metropolitana;adicional;6698610-1;;1964-10-10;2025-01-01;2025-12-31;NO;;;Providencia
+12672650-3;"Kevin Alvarez Galdames";kevin.alvarez381@mail.cl;;968897326;"Av Macul 2300";Providencia;13;Metropolitana;administrativo;;;1953-09-03;2025-01-01;2025-12-31;SI;administrativo;clave4666;"La Florida"
+23216211-2;"Beatriz Pardo Henriquez";beatriz.pardo639@mail.cl;929088121;939900072;"Av Vicuña Mackenna 1700";"Puente Alto";13;Metropolitana;adicional;24692054-0;;1975-05-13;2025-01-01;2025-12-31;NO;;;"La Florida"
+21475195-K;"Alvaro Jara Contreras";alvaro.jara915@mail.cl;;;"Av Macul 1200";Concepción;8;Biobío;invitado;;;1999-07-23;2025-01-01;2025-12-31;NO;;;"Santa Cruz"
+23091773-6;"Natalia Henriquez Lagos";natalia.henriquez786@mail.cl;;961326332;"Av Gran Avenida 3200";Ñuñoa;13;Metropolitana;adicional;14436680-8;;1984-02-24;2025-01-01;2025-12-31;NO;;;"Santa Cruz"
+7833932-2;"Javiera Iturra Pardo";javiera.iturra349@mail.cl;995644649;948966241;"Av Recoleta 500";Independencia;13;Metropolitana;administrativo;;;1993-06-13;2025-01-01;2025-12-31;SI;administrativo;clave9760;"Santa Cruz"
+19231647-2;"Patricia Nuñez Espinoza";patricia.nunez982@mail.cl;947940420;991467461;"Av Alameda 1600";"La Florida";13;Metropolitana;invitado;;;;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+6530838-K;"Mauricio Galdames Quezada";mauricio.galdames7@mail.cl;;;"Av Alameda 3000";"Puente Alto";13;Metropolitana;adicional;7337201-1;;1966-02-17;2025-01-01;2025-12-31;NO;;;"Santa Cruz"
+16047420-3;"Felicia Galdames Iturra";felicia.galdames213@mail.cl;;955992244;"Av Recoleta 1500";"Puente Alto";13;Metropolitana;invitado;;;1990-01-01;2025-01-01;2025-12-31;NO;;;"La Florida"
+11904520-7;"Enrique Ortiz Quezada";enrique.ortiz365@mail.cl;;;"Av Recoleta 2000";"Viña del Mar";5;Valparaíso;adicional;16701421-6;;2001-09-26;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+5756416-4;"Claudio Alvarez Mendez";claudio.alvarez162@mail.cl;;920653687;"Av Alameda 1300";Santiago;13;Metropolitana;adicional;21265551-1;;2000-11-17;2025-01-01;2025-12-31;NO;;;Providencia
+20510893-9;"Gonzalo Iturra Henriquez";gonzalo.iturra122@mail.cl;990492355;935156189;"Av Vitacura 2700";"San Miguel";13;Metropolitana;adicional;13667087-5;;1965-08-28;2025-01-01;2025-12-31;NO;;;"Santa Cruz"
+6770343-K;"Gonzalo Duarte Henriquez";gonzalo.duarte86@mail.cl;;996647495;"Av Providencia 2800";"San Miguel";13;Metropolitana;invitado;;;1954-05-14;2025-01-01;2025-12-31;NO;;;Providencia
+22484595-2;"Javiera Barrera Ortiz";javiera.barrera150@mail.cl;;958975264;"Av Gran Avenida 2000";Independencia;13;Metropolitana;adicional;16028753-5;;1978-01-14;2025-01-01;2025-12-31;NO;;;Providencia
+20302459-2;"Enrique Fuentes Lagos";enrique.fuentes383@mail.cl;920725779;964054981;"Av Macul 500";Concepción;8;Biobío;invitado;;;;2025-01-01;2025-12-31;NO;;;Providencia
+23109167-K;"Ignacio Henriquez Duarte";ignacio.henriquez49@mail.cl;;938894236;"Av Gran Avenida 200";"San Miguel";13;Metropolitana;adicional;14041737-8;;1993-01-01;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+16613654-7;"Claudio Iturra Lagos";claudio.iturra622@mail.cl;955057915;976099221;"Av Alameda 2600";Independencia;13;Metropolitana;invitado;;;2005-10-05;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+8320208-4;"Natalia Duarte Pardo";natalia.duarte222@mail.cl;;;"Av Recoleta 1200";Independencia;13;Metropolitana;invitado;;;1976-10-17;2025-01-01;2025-12-31;NO;;;"La Florida"
+9171985-1;"Claudio Barrera Duarte";claudio.barrera577@mail.cl;960346922;929648072;"Av Recoleta 2800";"Viña del Mar";5;Valparaíso;"socio titular";;;1980-07-22;2025-01-01;2025-12-31;SI;socio;clave9876;"Santiago Centro"
+7487315-4;"Natalia Henriquez Quezada";natalia.henriquez835@mail.cl;;;"Av Irarrazaval 2900";"Puente Alto";13;Metropolitana;administrativo;;;1995-05-03;2025-01-01;2025-12-31;SI;administrativo;clave8732;"Santiago Centro"
+11246331-3;"Javiera Quezada Espinoza";javiera.quezada301@mail.cl;930225832;945383637;"Av Pedro de Valdivia 4000";Maipú;13;Metropolitana;invitado;;;1963-10-07;2025-01-01;2025-12-31;NO;;;"Santa Cruz"
+22743904-1;"Helena Alvarez Quezada";helena.alvarez211@mail.cl;;918222715;"Av Apoquindo 1700";Ñuñoa;13;Metropolitana;invitado;;;1996-04-02;2025-01-01;2025-12-31;NO;;;Providencia
+20052797-6;"Patricia Fuentes Ortiz";patricia.fuentes877@mail.cl;;;"Av Irarrazaval 3700";"San Miguel";13;Metropolitana;invitado;;;1954-05-13;2025-01-01;2025-12-31;NO;;;"Santa Cruz"
+22081253-7;"Loreto Barrera Alvarez";loreto.barrera204@mail.cl;;;"Av Apoquindo 1900";"Viña del Mar";5;Valparaíso;invitado;;;1991-02-28;2025-01-01;2025-12-31;NO;;;"Santa Cruz"
+20483239-0;"Loreto Fuentes Mendez";loreto.fuentes398@mail.cl;967936928;;"Av Providencia 3400";Concepción;8;Biobío;invitado;;;1996-10-16;2025-01-01;2025-12-31;NO;;;Providencia
+16889395-7;"Beatriz Mendez Barrera";beatriz.mendez600@mail.cl;926984069;;"Av Pedro de Valdivia 2800";Maipú;13;Metropolitana;invitado;;;1962-08-05;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+14006506-4;"Loreto Contreras Nuñez";loreto.contreras556@mail.cl;;;"Av Vitacura 3700";Independencia;13;Metropolitana;"socio titular";;;1965-11-08;2025-01-01;2025-12-31;SI;socio;clave4980;"La Florida"
+8305238-4;"Mauricio Galdames Lagos";mauricio.galdames98@mail.cl;978829341;965094701;"Av Vitacura 200";"La Florida";13;Metropolitana;administrativo;;;2001-04-25;2025-01-01;2025-12-31;SI;administrativo;clave2686;Providencia
+20849572-0;"Beatriz Contreras Barrera";beatriz.contreras961@mail.cl;;;"Av Vicuña Mackenna 1400";Independencia;13;Metropolitana;invitado;;;1987-08-18;2025-01-01;2025-12-31;NO;;;"Santa Cruz"
+18010769-K;"Helena Espinoza Quezada";helena.espinoza578@mail.cl;966081911;;"Av Gran Avenida 1900";Concepción;8;Biobío;"socio titular";;;1986-01-23;2025-01-01;2025-12-31;SI;socio;clave8500;"Santa Cruz"
+8509469-6;"Beatriz Quezada Espinoza";beatriz.quezada451@mail.cl;;;"Av Vitacura 400";Concepción;8;Biobío;"socio titular";;;1981-07-28;2025-01-01;2025-12-31;SI;socio;clave7429;"Santiago Centro"
+21282283-3;"Patricia Fuentes Fuentes";patricia.fuentes330@mail.cl;;982071726;"Av Recoleta 2500";"Viña del Mar";5;Valparaíso;adicional;23796414-4;;1967-09-27;2025-01-01;2025-12-31;NO;;;"La Florida"
+17772242-1;"Enrique Quezada Contreras";enrique.quezada88@mail.cl;953180805;;"Av Providencia 1100";Concepción;8;Biobío;invitado;;;;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+16261368-5;"Daniela Duarte Barrera";daniela.duarte655@mail.cl;;946058124;"Av Pedro de Valdivia 1500";Santiago;13;Metropolitana;"socio titular";;;1979-08-01;2025-01-01;2025-12-31;SI;socio;clave4370;"La Florida"
+13655605-3;"Natalia Fuentes Mendez";natalia.fuentes177@mail.cl;;910306755;"Av Alameda 700";"Puente Alto";13;Metropolitana;adicional;6960687-3;;2005-09-26;2025-01-01;2025-12-31;NO;;;"La Florida"
+22807802-6;"Loreto Galdames Contreras";loreto.galdames63@mail.cl;978763094;933915738;"Av Vicuña Mackenna 2100";"Puente Alto";13;Metropolitana;"socio titular";;;1990-01-01;2025-01-01;2025-12-31;SI;socio;clave3622;Providencia
+21398799-2;"Beatriz Jara Mendez";beatriz.jara687@mail.cl;;;"Av Macul 1500";"La Reina";13;Metropolitana;adicional;15912486-K;;1993-02-12;2025-01-01;2025-12-31;NO;;;"La Florida"
+5362794-3;"Natalia Lagos Galdames";natalia.lagos736@mail.cl;933994088;928674341;"Av Irarrazaval 1600";Maipú;13;Metropolitana;"socio titular";;;1989-09-07;2025-01-01;2025-12-31;SI;socio;clave6248;Providencia
+8396504-5;"Kevin Contreras Barrera";kevin.contreras915@mail.cl;;;"Av Macul 1000";"Viña del Mar";5;Valparaíso;adicional;15912486-K;;1976-07-17;2025-01-01;2025-12-31;NO;;;"La Florida"
+6342404-8;"Natalia Ortiz Duarte";natalia.ortiz727@mail.cl;947425198;965968889;"Av Recoleta 2500";"Las Condes";13;Metropolitana;invitado;;;1964-04-14;2025-01-01;2025-12-31;NO;;;Providencia
+17207697-1;"Javiera Fuentes Jara";javiera.fuentes992@mail.cl;971571433;924833081;"Av Pedro de Valdivia 2800";Santiago;13;Metropolitana;administrativo;;;1975-07-12;2025-01-01;2025-12-31;SI;administrativo;clave2723;Providencia
+18159934-0;"Patricia Duarte Jara";patricia.duarte276@mail.cl;990894560;;"Av Recoleta 2900";Independencia;13;Metropolitana;administrativo;;;1962-10-06;2025-01-01;2025-12-31;SI;administrativo;clave5343;"Santa Cruz"
+6833542-6;"Oscar Mendez Fuentes";oscar.mendez480@mail.cl;;;"Av Vicuña Mackenna 4000";Maipú;13;Metropolitana;"socio titular";;;1957-04-19;2025-01-01;2025-12-31;SI;socio;clave5629;"Santiago Centro"
+16913526-6;"Felicia Alvarez Jara";felicia.alvarez231@mail.cl;;966453696;"Av Pedro de Valdivia 3400";"San Miguel";13;Metropolitana;beneficiario;12037120-7;c—nyuge;1985-07-09;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+11805245-5;"Patricia Ortiz Espinoza";patricia.ortiz328@mail.cl;943327619;930019403;"Av Pedro de Valdivia 400";"La Florida";13;Metropolitana;invitado;;;;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+5022332-9;"Patricia Henriquez Pardo";patricia.henriquez653@mail.cl;;989624864;"Av Alameda 3300";"La Florida";13;Metropolitana;"socio titular";;;2003-06-20;2025-01-01;2025-12-31;SI;socio;clave6252;Providencia
+12572104-4;"Ignacio Contreras Duarte";ignacio.contreras164@mail.cl;918247149;;"Av Irarrazaval 1800";"Puente Alto";13;Metropolitana;adicional;9081387-0;;1981-05-04;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+14093618-9;"Oscar Iturra Iturra";oscar.iturra315@mail.cl;;;"Av Apoquindo 2800";Independencia;13;Metropolitana;"socio titular";;;1960-11-17;2025-01-01;2025-12-31;SI;socio;clave8253;Providencia
+19315520-0;"Oscar Pardo Contreras";oscar.pardo14@mail.cl;952103872;;"Av Irarrazaval 2900";Santiago;13;Metropolitana;"socio titular";;;;2025-01-01;2025-12-31;SI;socio;clave8069;Providencia
+24331529-8;"Natalia Contreras Iturra";natalia.contreras966@mail.cl;917944682;937632514;"Av Vitacura 1700";"Viña del Mar";5;Valparaíso;"socio titular";;;1990-01-01;2025-01-01;2025-12-31;SI;socio;clave1319;"La Florida"
+20099638-0;"Kevin Alvarez Barrera";kevin.alvarez643@mail.cl;;;"Av Vitacura 3800";Maipú;13;Metropolitana;"socio titular";;;1980-06-12;2025-01-01;2025-12-31;SI;socio;clave9753;"Santa Cruz"
+12557365-7;"Patricia Jara Fuentes";patricia.jara416@mail.cl;950351647;;"Av Recoleta 200";Santiago;13;Metropolitana;adicional;5413202-6;;1971-06-05;2025-01-01;2025-12-31;NO;;;"Santa Cruz"
+21059175-3;"Daniela Alvarez Mendez";daniela.alvarez8@mail.cl;955768270;997870853;"Av Recoleta 1900";"Las Condes";13;Metropolitana;adicional;19150099-7;;1960-07-09;2025-01-01;2025-12-31;NO;;;Providencia
+23481787-6;"Felicia Quezada Barrera";felicia.quezada863@mail.cl;938854811;980503099;"Av Apoquindo 2600";Santiago;13;Metropolitana;administrativo;;;1986-01-15;2025-01-01;2025-12-31;SI;administrativo;clave8294;"La Florida"
+17886064-K;"Helena Lagos Lagos";helena.lagos709@mail.cl;962205093;982007872;"Av Vicuña Mackenna 3700";"Puente Alto";13;Metropolitana;"socio titular";;;;2025-01-01;2025-12-31;SI;socio;clave8007;"Santa Cruz"
+18936500-4;"Kevin Fuentes Jara";kevin.fuentes459@mail.cl;;;"Av Apoquindo 1300";"Viña del Mar";5;Valparaíso;invitado;;;1958-09-07;2025-01-01;2025-12-31;NO;;;"La Florida"
+14644110-6;"Mauricio Jara Barrera";mauricio.jara36@mail.cl;986388449;;"Av Recoleta 1600";Santiago;13;Metropolitana;invitado;;;1996-12-05;2025-01-01;2025-12-31;NO;;;Providencia
+19072108-6;"Ignacio Pardo Duarte";ignacio.pardo783@mail.cl;;;"Av Irarrazaval 2900";"La Florida";13;Metropolitana;beneficiario;12170069-7;c—nyuge;1985-04-18;2025-01-01;2025-12-31;NO;;;"La Florida"
+17217897-9;"Natalia Fuentes Fuentes";natalia.fuentes76@mail.cl;954787834;;"Av Vicuña Mackenna 1800";"La Florida";13;Metropolitana;adicional;6960687-3;;1967-05-14;2025-01-01;2025-12-31;NO;;;"Santa Cruz"
+17810585-K;"Mauricio Nuñez Ortiz";mauricio.nunez809@mail.cl;951999147;;"Av Gran Avenida 2900";"San Miguel";13;Metropolitana;"socio titular";;;1990-01-01;2025-01-01;2025-12-31;SI;socio;clave7018;Providencia
+14641351-K;"Kevin Henriquez Ortiz";kevin.henriquez562@mail.cl;915503301;940414384;"Av Gran Avenida 2400";"Las Condes";13;Metropolitana;invitado;;;1990-01-01;2025-01-01;2025-12-31;NO;;;Providencia
+23071040-6;"Patricia Nuñez Henriquez";patricia.nunez551@mail.cl;990963511;954067800;"Av Macul 3600";Independencia;13;Metropolitana;administrativo;;;1952-11-22;2025-01-01;2025-12-31;SI;administrativo;clave8380;"La Florida"
+19569691-8;"Beatriz Lagos Duarte";beatriz.lagos219@mail.cl;;940247908;"Av Irarrazaval 2600";Providencia;13;Metropolitana;adicional;11190490-1;;1957-11-25;2025-01-01;2025-12-31;NO;;;Providencia
+15912717-6;"Felicia Pardo Quezada";felicia.pardo266@mail.cl;911958106;960853418;"Av Vicuña Mackenna 300";"La Florida";13;Metropolitana;"socio titular";;;1984-11-17;2025-01-01;2025-12-31;SI;socio;clave5959;"Santa Cruz"
+23914009-2;"Mauricio Ortiz Contreras";mauricio.ortiz435@mail.cl;;937798128;"Av Pedro de Valdivia 3100";Independencia;13;Metropolitana;adicional;19261261-6;;1966-08-23;2025-01-01;2025-12-31;NO;;;"La Florida"
+16025204-9;"Alvaro Contreras Ortiz";alvaro.contreras98@mail.cl;;961595320;"Av Vicuña Mackenna 1600";"La Florida";13;Metropolitana;invitado;;;1962-07-01;2025-01-01;2025-12-31;NO;;;Providencia
+17174065-7;"Enrique Pardo Duarte";enrique.pardo891@mail.cl;931786251;;"Av Irarrazaval 3900";Ñuñoa;13;Metropolitana;beneficiario;18512802-4;c—nyuge;1966-11-02;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+19200941-3;"Daniela Barrera Ortiz";daniela.barrera430@mail.cl;;;"Av Vicuña Mackenna 1400";"La Florida";13;Metropolitana;adicional;17810585-K;;1960-10-17;2025-01-01;2025-12-31;NO;;;Providencia
+17547797-7;"Ignacio Jara Nuñez";ignacio.jara747@mail.cl;976028349;982670295;"Av Apoquindo 3900";Maipú;13;Metropolitana;"socio titular";;;1980-12-23;2025-01-01;2025-12-31;SI;socio;clave5191;Providencia
+14778798-7;"Alvaro Iturra Nuñez";alvaro.iturra288@mail.cl;967106908;993354566;"Av Alameda 2100";Concepción;8;Biobío;adicional;11190490-1;;1988-02-06;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+22345094-6;"Mauricio Ortiz Barrera";mauricio.ortiz166@mail.cl;;916879706;"Av Pedro de Valdivia 2600";"La Florida";13;Metropolitana;beneficiario;14148760-4;hijo;2002-09-10;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+22429733-5;"Beatriz Henriquez Nuñez";beatriz.henriquez682@mail.cl;;947302456;"Av Pedro de Valdivia 3800";Santiago;13;Metropolitana;"socio titular";;;1998-08-06;2025-01-01;2025-12-31;SI;socio;clave5429;"La Florida"
+15638097-0;"Beatriz Duarte Barrera";beatriz.duarte269@mail.cl;;;"Av Pedro de Valdivia 500";Concepción;8;Biobío;invitado;;;1956-04-08;2025-01-01;2025-12-31;NO;;;Providencia
+9630985-6;"Helena Pardo Fuentes";helena.pardo625@mail.cl;933843623;;"Av Apoquindo 3800";"Las Condes";13;Metropolitana;invitado;;;1966-02-02;2025-01-01;2025-12-31;NO;;;"La Florida"
+16237573-3;"Kevin Quezada Contreras";kevin.quezada562@mail.cl;982169299;928017885;"Av Pedro de Valdivia 300";Concepción;8;Biobío;adicional;21739535-6;;1997-10-16;2025-01-01;2025-12-31;NO;;;"La Florida"
+11414231-K;"Beatriz Quezada Ortiz";beatriz.quezada231@mail.cl;982080090;;"Av Gran Avenida 900";"La Reina";13;Metropolitana;"socio titular";;;1996-11-02;2025-01-01;2025-12-31;SI;socio;clave2076;Providencia
+5179475-3;"Beatriz Espinoza Quezada";beatriz.espinoza70@mail.cl;;954632826;"Av Gran Avenida 3500";"La Reina";13;Metropolitana;invitado;;;1980-01-11;2025-01-01;2025-12-31;NO;;;"La Florida"
+8664633-1;"Claudio Mendez Jara";claudio.mendez137@mail.cl;984560801;932699329;"Av Recoleta 2000";"Puente Alto";13;Metropolitana;invitado;;;;2025-01-01;2025-12-31;NO;;;Providencia
+18749342-0;"Javiera Quezada Galdames";javiera.quezada607@mail.cl;975585421;;"Av Macul 2500";"Santa Cruz";6;O'Higgins;"socio titular";;;1968-04-05;2025-01-01;2025-12-31;SI;socio;clave7428;"Santiago Centro"
+8951069-4;"Kevin Ortiz Fuentes";kevin.ortiz607@mail.cl;988282832;916957496;"Av Vitacura 3900";Providencia;13;Metropolitana;invitado;;;;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+12824309-7;"Felicia Espinoza Barrera";felicia.espinoza650@mail.cl;924101567;926364089;"Av Pedro de Valdivia 900";"San Miguel";13;Metropolitana;adicional;10847718-0;;1990-01-01;2025-01-01;2025-12-31;NO;;;Providencia
+24610405-0;"Helena Galdames Quezada";helena.galdames126@mail.cl;942244646;;"Av Providencia 100";Maipú;13;Metropolitana;"socio titular";;;1990-01-01;2025-01-01;2025-12-31;SI;socio;clave5371;"Santa Cruz"
+11237636-4;"Javiera Fuentes Nuñez";javiera.fuentes842@mail.cl;;;"Av Macul 500";Providencia;13;Metropolitana;adicional;9501051-2;;1960-11-21;2025-01-01;2025-12-31;NO;;;"La Florida"
+22139740-1;"Claudio Contreras Jara";claudio.contreras288@mail.cl;960417679;948976906;"Av Alameda 1200";Concepción;8;Biobío;administrativo;;;1999-05-18;2025-01-01;2025-12-31;SI;administrativo;clave3037;"Santa Cruz"
+18620130-2;"Patricia Contreras Espinoza";patricia.contreras711@mail.cl;;917477304;"Av Irarrazaval 300";"Las Condes";13;Metropolitana;"socio titular";;;1962-02-05;2025-01-01;2025-12-31;SI;socio;clave7909;"Santiago Centro"
+22664198-K;"Ignacio Iturra Nuñez";ignacio.iturra548@mail.cl;971096471;;"Av Vicuña Mackenna 3300";"San Miguel";13;Metropolitana;beneficiario;7002432-2;c—nyuge;1991-09-04;2025-01-01;2025-12-31;NO;;;"Santa Cruz"
+14018480-2;"Alvaro Barrera Ortiz";alvaro.barrera5@mail.cl;;;"Av Alameda 2900";"San Miguel";13;Metropolitana;beneficiario;12037120-7;c—nyuge;1974-12-02;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+11050786-0;"Natalia Henriquez Jara";natalia.henriquez291@mail.cl;942129006;;"Av Apoquindo 1600";Santiago;13;Metropolitana;invitado;;;1987-09-13;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+5104120-8;"Ignacio Lagos Fuentes";ignacio.lagos827@mail.cl;927987102;942103220;"Av Providencia 2300";Providencia;13;Metropolitana;adicional;11423343-9;;1969-09-07;2025-01-01;2025-12-31;NO;;;Providencia
+6899006-8;"Helena Ortiz Ortiz";helena.ortiz660@mail.cl;924133222;;"Av Irarrazaval 1900";"Puente Alto";13;Metropolitana;adicional;6717385-6;;;2025-01-01;2025-12-31;NO;;;"La Florida"
+11882029-0;"Patricia Pardo Jara";patricia.pardo79@mail.cl;;952523505;"Av Vicuña Mackenna 2600";"Santa Cruz";6;O'Higgins;"socio titular";;;1980-08-12;2025-01-01;2025-12-31;SI;socio;clave7678;"Santiago Centro"
+20844457-3;"Kevin Fuentes Quezada";kevin.fuentes152@mail.cl;939433192;;"Av Macul 700";"Viña del Mar";5;Valparaíso;invitado;;;1990-01-01;2025-01-01;2025-12-31;NO;;;"Santa Cruz"
+24701290-7;"Kevin Barrera Lagos";kevin.barrera557@mail.cl;988441215;;"Av Recoleta 100";Concepción;8;Biobío;administrativo;;;;2025-01-01;2025-12-31;SI;administrativo;clave2536;Providencia
+11173162-4;"Enrique Jara Ortiz";enrique.jara198@mail.cl;929103287;931987562;"Av Irarrazaval 500";"Viña del Mar";5;Valparaíso;invitado;;;1990-01-01;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+7897186-K;"Claudio Quezada Pardo";claudio.quezada645@mail.cl;;971231774;"Av Recoleta 800";Providencia;13;Metropolitana;invitado;;;1965-11-16;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+18376101-3;"Oscar Lagos Alvarez";oscar.lagos920@mail.cl;;965300925;"Av Apoquindo 1700";"San Miguel";13;Metropolitana;administrativo;;;1960-05-17;2025-01-01;2025-12-31;SI;administrativo;clave4846;Providencia
+17507120-2;"Kevin Iturra Espinoza";kevin.iturra90@mail.cl;947365399;939841150;"Av Alameda 3000";"San Miguel";13;Metropolitana;invitado;;;1952-12-01;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+19423046-K;"Felicia Ortiz Mendez";felicia.ortiz831@mail.cl;;;"Av Gran Avenida 1000";Independencia;13;Metropolitana;"socio titular";;;1965-05-14;2025-01-01;2025-12-31;SI;socio;clave6047;"Santiago Centro"
+6849160-6;"Loreto Jara Alvarez";loreto.jara448@mail.cl;983071743;;"Av Recoleta 1600";"San Miguel";13;Metropolitana;"socio titular";;;;2025-01-01;2025-12-31;SI;socio;clave5077;"Santa Cruz"
+12306559-K;"Enrique Quezada Alvarez";enrique.quezada972@mail.cl;;963256027;"Av Recoleta 100";"La Reina";13;Metropolitana;invitado;;;1964-07-11;2025-01-01;2025-12-31;NO;;;"Santa Cruz"
+18131919-4;"Loreto Contreras Ortiz";loreto.contreras912@mail.cl;;971491206;"Av Providencia 2600";"La Florida";13;Metropolitana;beneficiario;14311235-7;c—nyuge;1998-08-21;2025-01-01;2025-12-31;NO;;;Providencia
+12623444-9;"Helena Fuentes Barrera";helena.fuentes83@mail.cl;;970768238;"Av Vitacura 3800";Ñuñoa;13;Metropolitana;"socio titular";;;1981-03-26;2025-01-01;2025-12-31;SI;socio;clave6518;"Santa Cruz"
+10727597-5;"Beatriz Galdames Lagos";beatriz.galdames954@mail.cl;935154792;970079395;"Av Irarrazaval 900";Ñuñoa;13;Metropolitana;"socio titular";;;1997-07-04;2025-01-01;2025-12-31;SI;socio;clave4186;"Santa Cruz"
+15759772-8;"Daniela Jara Pardo";daniela.jara491@mail.cl;912917217;;"Av Providencia 500";"Las Condes";13;Metropolitana;"socio titular";;;2002-02-26;2025-01-01;2025-12-31;SI;socio;clave1839;Providencia
+10331505-0;"Kevin Pardo Mendez";kevin.pardo483@mail.cl;958733545;973547731;"Av Vicuña Mackenna 2300";Concepción;8;Biobío;invitado;;;1990-01-01;2025-01-01;2025-12-31;NO;;;"La Florida"
+19596472-6;"Ignacio Barrera Iturra";ignacio.barrera482@mail.cl;951354351;;"Av Pedro de Valdivia 2000";Independencia;13;Metropolitana;adicional;17526820-0;;1990-01-01;2025-01-01;2025-12-31;NO;;;Providencia
+20066325-K;"Gonzalo Nuñez Quezada";gonzalo.nunez120@mail.cl;;979629550;"Av Recoleta 2900";"La Reina";13;Metropolitana;invitado;;;1986-03-22;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+13040029-9;"Gonzalo Contreras Ortiz";gonzalo.contreras890@mail.cl;;980316668;"Av Irarrazaval 300";"La Florida";13;Metropolitana;invitado;;;1958-01-27;2025-01-01;2025-12-31;NO;;;"Santa Cruz"
+17613680-4;"Beatriz Barrera Duarte";beatriz.barrera66@mail.cl;928406860;;"Av Vitacura 2900";"Viña del Mar";5;Valparaíso;adicional;18963461-7;;1958-12-01;2025-01-01;2025-12-31;NO;;;Providencia
+5354498-3;"Kevin Lagos Henriquez";kevin.lagos65@mail.cl;963205982;961078051;"Av Irarrazaval 300";"La Reina";13;Metropolitana;adicional;7002432-2;;1953-10-25;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+11655875-0;"Enrique Duarte Alvarez";enrique.duarte53@mail.cl;934354854;;"Av Pedro de Valdivia 3100";Concepción;8;Biobío;"socio titular";;;;2025-01-01;2025-12-31;SI;socio;clave6218;Providencia
+19780543-9;"Claudio Barrera Alvarez";claudio.barrera846@mail.cl;;950682535;"Av Pedro de Valdivia 600";"Viña del Mar";5;Valparaíso;invitado;;;1998-11-14;2025-01-01;2025-12-31;NO;;;"La Florida"
+15378102-8;"Felicia Nuñez Fuentes";felicia.nunez973@mail.cl;;;"Av Recoleta 3600";"Las Condes";13;Metropolitana;"socio titular";;;2001-02-17;2025-01-01;2025-12-31;SI;socio;clave6634;"Santiago Centro"
+17817213-1;"Felicia Quezada Pardo";felicia.quezada800@mail.cl;976711774;967732865;"Av Irarrazaval 3000";Santiago;13;Metropolitana;adicional;12480957-6;;1966-03-14;2025-01-01;2025-12-31;NO;;;"Santa Cruz"
+21522640-9;"Kevin Contreras Fuentes";kevin.contreras862@mail.cl;940932678;959162191;"Av Gran Avenida 1300";"La Florida";13;Metropolitana;adicional;19423046-K;;1978-12-10;2025-01-01;2025-12-31;NO;;;"La Florida"
+18701738-6;"Claudio Lagos Galdames";claudio.lagos319@mail.cl;969006640;;"Av Gran Avenida 2700";Concepción;8;Biobío;"socio titular";;;2002-04-05;2025-01-01;2025-12-31;SI;socio;clave5307;"Santiago Centro"
+12938018-7;"Enrique Quezada Quezada";enrique.quezada990@mail.cl;997502444;990038908;"Av Recoleta 2800";"La Reina";13;Metropolitana;invitado;;;1963-06-26;2025-01-01;2025-12-31;NO;;;"La Florida"
+8880675-1;"Enrique Pardo Ortiz";enrique.pardo270@mail.cl;;;"Av Irarrazaval 3100";Ñuñoa;13;Metropolitana;"socio titular";;;1969-09-10;2025-01-01;2025-12-31;SI;socio;clave9887;"Santiago Centro"
+15716836-3;"Helena Henriquez Iturra";helena.henriquez914@mail.cl;;997662302;"Av Recoleta 2100";"Las Condes";13;Metropolitana;invitado;;;1969-08-21;2025-01-01;2025-12-31;NO;;;Providencia
+16213417-5;"Ignacio Nuñez Galdames";ignacio.nunez687@mail.cl;;915534678;"Av Pedro de Valdivia 600";"Puente Alto";13;Metropolitana;invitado;;;1985-12-27;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+13459508-6;"Oscar Fuentes Nuñez";oscar.fuentes119@mail.cl;;;"Av Pedro de Valdivia 400";"Las Condes";13;Metropolitana;administrativo;;;2001-06-20;2025-01-01;2025-12-31;SI;administrativo;clave3268;Providencia
+15514475-0;"Loreto Contreras Henriquez";loreto.contreras415@mail.cl;986509364;957832750;"Av Providencia 700";Maipú;13;Metropolitana;"socio titular";;;1958-02-20;2025-01-01;2025-12-31;SI;socio;clave3825;"Santa Cruz"
+21082199-6;"Daniela Jara Iturra";daniela.jara223@mail.cl;;964208829;"Av Apoquindo 1600";"Santa Cruz";6;O'Higgins;adicional;16028753-5;;1973-01-22;2025-01-01;2025-12-31;NO;;;"Santa Cruz"
+18058319-K;"Enrique Quezada Lagos";enrique.quezada467@mail.cl;;;"Av Gran Avenida 3300";"Viña del Mar";5;Valparaíso;invitado;;;1951-03-13;2025-01-01;2025-12-31;NO;;;"La Florida"
+9177063-6;"Natalia Barrera Jara";natalia.barrera289@mail.cl;;;"Av Providencia 3400";"La Reina";13;Metropolitana;invitado;;;1982-02-21;2025-01-01;2025-12-31;NO;;;"Santa Cruz"
+10792926-6;"Claudio Espinoza Galdames";claudio.espinoza413@mail.cl;951139827;974176652;"Av Alameda 2600";"Santa Cruz";6;O'Higgins;adicional;24941085-3;;1982-11-01;2025-01-01;2025-12-31;NO;;;"Santa Cruz"
+24617995-6;"Gonzalo Alvarez Galdames";gonzalo.alvarez4@mail.cl;;969314945;"Av Providencia 200";"Puente Alto";13;Metropolitana;"socio titular";;;2000-11-09;2025-01-01;2025-12-31;SI;socio;clave5129;Providencia
+24405205-3;"Felicia Nuñez Galdames";felicia.nunez905@mail.cl;;969972309;"Av Pedro de Valdivia 2800";Providencia;13;Metropolitana;adicional;20627319-4;;1995-09-26;2025-01-01;2025-12-31;NO;;;"Santa Cruz"
+6257015-6;"Javiera Ortiz Galdames";javiera.ortiz138@mail.cl;;913023830;"Av Alameda 1600";"Santa Cruz";6;O'Higgins;adicional;24331529-8;;1990-01-01;2025-01-01;2025-12-31;NO;;;"La Florida"
+11743695-0;"Loreto Barrera Barrera";loreto.barrera318@mail.cl;;934887461;"Av Providencia 2400";"Viña del Mar";5;Valparaíso;invitado;;;1958-07-16;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+8137828-2;"Patricia Nuñez Jara";patricia.nunez668@mail.cl;;;"Av Providencia 200";"La Reina";13;Metropolitana;invitado;;;1992-08-14;2025-01-01;2025-12-31;NO;;;"Santa Cruz"
+21021130-6;"Patricia Nuñez Alvarez";patricia.nunez950@mail.cl;;;"Av Vitacura 1700";"Puente Alto";13;Metropolitana;invitado;;;1965-10-11;2025-01-01;2025-12-31;NO;;;Providencia
+17510421-6;"Daniela Alvarez Ortiz";daniela.alvarez31@mail.cl;941542023;;"Av Recoleta 2900";Independencia;13;Metropolitana;invitado;;;;2025-01-01;2025-12-31;NO;;;"La Florida"
+23237758-5;"Oscar Barrera Pardo";oscar.barrera891@mail.cl;;970767880;"Av Gran Avenida 2800";"La Florida";13;Metropolitana;adicional;9171985-1;;1989-12-23;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+14768234-4;"Gonzalo Henriquez Contreras";gonzalo.henriquez493@mail.cl;911986180;986343835;"Av Macul 1100";Concepción;8;Biobío;"socio titular";;;;2025-01-01;2025-12-31;SI;socio;clave7295;"La Florida"
+12178247-2;"Mauricio Pardo Quezada";mauricio.pardo885@mail.cl;;954067185;"Av Vitacura 1000";"Santa Cruz";6;O'Higgins;adicional;20849694-8;;1951-02-09;2025-01-01;2025-12-31;NO;;;"Santa Cruz"
+13396617-K;"Helena Espinoza Nuñez";helena.espinoza920@mail.cl;;960899940;"Av Providencia 1500";Maipú;13;Metropolitana;"socio titular";;;2003-07-19;2025-01-01;2025-12-31;SI;socio;clave1865;"Santiago Centro"
+16460340-7;"Felicia Quezada Espinoza";felicia.quezada162@mail.cl;987378230;953347835;"Av Recoleta 2600";"Puente Alto";13;Metropolitana;invitado;;;1970-09-13;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+7400263-3;"Oscar Quezada Fuentes";oscar.quezada823@mail.cl;992959209;985620798;"Av Alameda 2100";"San Miguel";13;Metropolitana;"socio titular";;;1958-12-03;2025-01-01;2025-12-31;SI;socio;clave9033;"La Florida"
+14353176-7;"Beatriz Alvarez Duarte";beatriz.alvarez787@mail.cl;;;"Av Vicuña Mackenna 1900";Santiago;13;Metropolitana;invitado;;;1968-02-05;2025-01-01;2025-12-31;NO;;;"La Florida"
+13561224-3;"Javiera Contreras Galdames";javiera.contreras599@mail.cl;987296745;;"Av Alameda 400";"Puente Alto";13;Metropolitana;adicional;24480744-5;;1960-05-06;2025-01-01;2025-12-31;NO;;;"La Florida"
+6823781-5;"Claudio Duarte Jara";claudio.duarte902@mail.cl;971809786;914978995;"Av Recoleta 3700";"Viña del Mar";5;Valparaíso;invitado;;;;2025-01-01;2025-12-31;NO;;;"La Florida"
+6168484-0;"Ignacio Nuñez Iturra";ignacio.nunez444@mail.cl;;;"Av Macul 3800";"Puente Alto";13;Metropolitana;"socio titular";;;1950-08-13;2025-01-01;2025-12-31;SI;socio;clave6449;Providencia
+10098345-1;"Javiera Henriquez Henriquez";javiera.henriquez528@mail.cl;988563291;;"Av Pedro de Valdivia 3000";Ñuñoa;13;Metropolitana;"socio titular";;;1985-06-19;2025-01-01;2025-12-31;SI;socio;clave2406;"Santa Cruz"
+20831330-4;"Felicia Lagos Lagos";felicia.lagos627@mail.cl;938416411;947080379;"Av Vicuña Mackenna 2800";Ñuñoa;13;Metropolitana;invitado;;;1986-01-26;2025-01-01;2025-12-31;NO;;;Providencia
+17953951-9;"Daniela Quezada Jara";daniela.quezada775@mail.cl;926600341;972317740;"Av Alameda 1900";"Viña del Mar";5;Valparaíso;"socio titular";;;1990-01-01;2025-01-01;2025-12-31;SI;socio;clave8802;"Santa Cruz"
+9832684-7;"Patricia Alvarez Jara";patricia.alvarez665@mail.cl;;911871700;"Av Vitacura 2400";Independencia;13;Metropolitana;adicional;19261261-6;;1981-02-28;2025-01-01;2025-12-31;NO;;;Providencia
+12988739-7;"Alvaro Galdames Alvarez";alvaro.galdames84@mail.cl;997430456;919935898;"Av Vicuña Mackenna 300";"Las Condes";13;Metropolitana;"socio titular";;;1955-05-07;2025-01-01;2025-12-31;SI;socio;clave9320;"Santa Cruz"
+20326749-5;"Enrique Contreras Henriquez";enrique.contreras288@mail.cl;;;"Av Vitacura 2100";"La Reina";13;Metropolitana;invitado;;;1993-06-02;2025-01-01;2025-12-31;NO;;;"La Florida"
+19332937-3;"Daniela Ortiz Nuñez";daniela.ortiz519@mail.cl;976070830;;"Av Macul 2900";Maipú;13;Metropolitana;beneficiario;18701738-6;c—nyuge;1990-01-01;2025-01-01;2025-12-31;NO;;;Providencia
+22959274-2;"Javiera Iturra Lagos";javiera.iturra467@mail.cl;925355712;932590073;"Av Vicuña Mackenna 400";"Las Condes";13;Metropolitana;"socio titular";;;1983-05-08;2025-01-01;2025-12-31;SI;socio;clave8268;"Santa Cruz"
+24013513-2;"Helena Barrera Espinoza";helena.barrera754@mail.cl;;942633448;"Av Providencia 3500";Independencia;13;Metropolitana;adicional;22807802-6;;1963-05-17;2025-01-01;2025-12-31;NO;;;"La Florida"
+24647654-3;"Javiera Alvarez Nuñez";javiera.alvarez320@mail.cl;964098217;;"Av Irarrazaval 3900";Independencia;13;Metropolitana;"socio titular";;;1950-10-25;2025-01-01;2025-12-31;SI;socio;clave7974;"La Florida"
+10090715-1;"Daniela Alvarez Fuentes";daniela.alvarez787@mail.cl;936058733;;"Av Providencia 3200";"La Florida";13;Metropolitana;adicional;20099638-0;;2001-07-07;2025-01-01;2025-12-31;NO;;;"Santa Cruz"
+20434283-0;"Natalia Fuentes Lagos";natalia.fuentes453@mail.cl;992365813;;"Av Gran Avenida 2300";Maipú;13;Metropolitana;adicional;7854704-9;;;2025-01-01;2025-12-31;NO;;;Providencia
+22070632-K;"Felicia Barrera Espinoza";felicia.barrera335@mail.cl;986697970;953335082;"Av Vicuña Mackenna 400";"Viña del Mar";5;Valparaíso;"socio titular";;;1990-01-03;2025-01-01;2025-12-31;SI;socio;clave8581;Providencia
+22415350-3;"Oscar Contreras Alvarez";oscar.contreras261@mail.cl;;;"Av Recoleta 300";"San Miguel";13;Metropolitana;invitado;;;1983-04-08;2025-01-01;2025-12-31;NO;;;"La Florida"
+7592324-4;"Javiera Nuñez Fuentes";javiera.nunez765@mail.cl;996099812;975168875;"Av Macul 900";"Santa Cruz";6;O'Higgins;adicional;18749342-0;;2001-11-19;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+22361351-9;"Enrique Duarte Pardo";enrique.duarte753@mail.cl;;911983983;"Av Vicuña Mackenna 3300";"Viña del Mar";5;Valparaíso;invitado;;;1957-10-23;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+8715656-7;"Claudio Mendez Pardo";claudio.mendez196@mail.cl;;985745504;"Av Providencia 700";"Viña del Mar";5;Valparaíso;invitado;;;1979-12-03;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+5303482-9;"Mauricio Galdames Iturra";mauricio.galdames741@mail.cl;920205714;963368354;"Av Alameda 200";Santiago;13;Metropolitana;"socio titular";;;1955-02-02;2025-01-01;2025-12-31;SI;socio;clave3730;"Santiago Centro"
+10416475-7;"Natalia Espinoza Fuentes";natalia.espinoza880@mail.cl;;;"Av Irarrazaval 1900";Providencia;13;Metropolitana;adicional;20284557-6;;1960-09-28;2025-01-01;2025-12-31;NO;;;"Santa Cruz"
+8013295-6;"Enrique Henriquez Galdames";enrique.henriquez163@mail.cl;;;"Av Providencia 1800";Ñuñoa;13;Metropolitana;invitado;;;1979-06-02;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+20063035-1;"Kevin Lagos Alvarez";kevin.lagos56@mail.cl;980120922;999689496;"Av Pedro de Valdivia 2100";Ñuñoa;13;Metropolitana;"socio titular";;;1985-04-07;2025-01-01;2025-12-31;SI;socio;clave5884;Providencia
+19667549-3;"Helena Contreras Henriquez";helena.contreras249@mail.cl;976341399;990467417;"Av Alameda 3000";"Puente Alto";13;Metropolitana;invitado;;;1990-01-01;2025-01-01;2025-12-31;NO;;;"Santa Cruz"
+21860072-7;"Ignacio Fuentes Lagos";ignacio.fuentes423@mail.cl;969812469;;"Av Macul 1200";Providencia;13;Metropolitana;"socio titular";;;1975-06-19;2025-01-01;2025-12-31;SI;socio;clave8599;"Santa Cruz"
+8718403-K;"Mauricio Jara Mendez";mauricio.jara895@mail.cl;967158049;;"Av Providencia 1800";"San Miguel";13;Metropolitana;administrativo;;;1998-02-25;2025-01-01;2025-12-31;SI;administrativo;clave2607;"Santa Cruz"
+13969886-K;"Natalia Iturra Espinoza";natalia.iturra594@mail.cl;918651910;954086147;"Av Providencia 3200";"Santa Cruz";6;O'Higgins;invitado;;;;2025-01-01;2025-12-31;NO;;;Providencia
+9037457-5;"Kevin Henriquez Galdames";kevin.henriquez329@mail.cl;979586500;;"Av Irarrazaval 2000";Santiago;13;Metropolitana;"socio titular";;;1975-12-16;2025-01-01;2025-12-31;SI;socio;clave5632;"La Florida"
+7539089-0;"Beatriz Henriquez Galdames";beatriz.henriquez754@mail.cl;;;"Av Irarrazaval 3200";"Las Condes";13;Metropolitana;adicional;21103105-0;;1986-12-22;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+5878959-3;"Kevin Jara Fuentes";kevin.jara524@mail.cl;944438605;987859025;"Av Pedro de Valdivia 1600";"Viña del Mar";5;Valparaíso;invitado;;;1993-12-01;2025-01-01;2025-12-31;NO;;;"La Florida"
+24267233-K;"Patricia Alvarez Pardo";patricia.alvarez408@mail.cl;;;"Av Providencia 3000";"La Reina";13;Metropolitana;invitado;;;1993-02-24;2025-01-01;2025-12-31;NO;;;"Santa Cruz"
+7156539-4;"Daniela Barrera Quezada";daniela.barrera145@mail.cl;974571440;936082869;"Av Providencia 3300";"Puente Alto";13;Metropolitana;"socio titular";;;1999-04-10;2025-01-01;2025-12-31;SI;socio;clave3043;"Santa Cruz"
+19655604-4;"Javiera Iturra Mendez";javiera.iturra506@mail.cl;939040227;;"Av Apoquindo 1600";Santiago;13;Metropolitana;"socio titular";;;1961-12-18;2025-01-01;2025-12-31;SI;socio;clave5616;"Santiago Centro"
+5417797-6;"Oscar Alvarez Jara";oscar.alvarez465@mail.cl;929487128;947706652;"Av Irarrazaval 1700";Independencia;13;Metropolitana;"socio titular";;;1980-03-14;2025-01-01;2025-12-31;SI;socio;clave6014;"La Florida"
+16001455-5;"Daniela Lagos Galdames";daniela.lagos278@mail.cl;;925323817;"Av Macul 1400";Independencia;13;Metropolitana;"socio titular";;;1959-12-02;2025-01-01;2025-12-31;SI;socio;clave4956;"Santiago Centro"
+21809552-6;"Enrique Pardo Pardo";enrique.pardo610@mail.cl;975920007;;"Av Providencia 100";"San Miguel";13;Metropolitana;invitado;;;1977-12-16;2025-01-01;2025-12-31;NO;;;"Santa Cruz"
+15448522-8;"Loreto Duarte Lagos";loreto.duarte938@mail.cl;986757188;951557201;"Av Irarrazaval 3900";"La Florida";13;Metropolitana;beneficiario;14436680-8;hijo;1968-02-02;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+14299201-9;"Loreto Ortiz Jara";loreto.ortiz687@mail.cl;957935927;956207625;"Av Irarrazaval 2300";"Puente Alto";13;Metropolitana;"socio titular";;;1972-06-09;2025-01-01;2025-12-31;SI;socio;clave2200;"Santiago Centro"
+14327980-4;"Natalia Mendez Nuñez";natalia.mendez974@mail.cl;973861473;940748572;"Av Recoleta 2300";Ñuñoa;13;Metropolitana;adicional;18749342-0;;1967-11-06;2025-01-01;2025-12-31;NO;;;"Santa Cruz"
+11058289-7;"Mauricio Iturra Galdames";mauricio.iturra455@mail.cl;;998153715;"Av Gran Avenida 2400";Ñuñoa;13;Metropolitana;adicional;23796414-4;;1953-06-08;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+20780459-2;"Loreto Contreras Galdames";loreto.contreras261@mail.cl;957861537;918784109;"Av Recoleta 3300";"La Reina";13;Metropolitana;invitado;;;;2025-01-01;2025-12-31;NO;;;"Santa Cruz"
+23768214-9;"Gonzalo Espinoza Duarte";gonzalo.espinoza392@mail.cl;973471679;;"Av Irarrazaval 500";"Viña del Mar";5;Valparaíso;adicional;10727597-5;;1986-07-12;2025-01-01;2025-12-31;NO;;;"La Florida"
+17335400-2;"Alvaro Duarte Iturra";alvaro.duarte913@mail.cl;958376801;;"Av Vicuña Mackenna 1800";"Puente Alto";13;Metropolitana;invitado;;;2005-01-14;2025-01-01;2025-12-31;NO;;;"La Florida"
+5029236-3;"Alvaro Lagos Fuentes";alvaro.lagos766@mail.cl;;;"Av Pedro de Valdivia 2800";Ñuñoa;13;Metropolitana;adicional;22162861-6;;1978-04-11;2025-01-01;2025-12-31;NO;;;"Santa Cruz"
+9333709-3;"Ignacio Fuentes Henriquez";ignacio.fuentes653@mail.cl;964162088;;"Av Pedro de Valdivia 3000";"San Miguel";13;Metropolitana;"socio titular";;;1967-01-24;2025-01-01;2025-12-31;SI;socio;clave9558;"Santiago Centro"
+13223251-2;"Daniela Espinoza Contreras";daniela.espinoza996@mail.cl;982567145;;"Av Gran Avenida 1100";"La Florida";13;Metropolitana;invitado;;;1957-01-22;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+13671240-3;"Oscar Lagos Contreras";oscar.lagos965@mail.cl;933392056;955242736;"Av Vitacura 4000";Independencia;13;Metropolitana;invitado;;;;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+7792119-2;"Oscar Alvarez Nuñez";oscar.alvarez58@mail.cl;;;"Av Apoquindo 900";"Santa Cruz";6;O'Higgins;adicional;18881751-3;;1985-07-04;2025-01-01;2025-12-31;NO;;;Providencia
+5650007-3;"Patricia Alvarez Ortiz";patricia.alvarez167@mail.cl;966413437;912566910;"Av Vicuña Mackenna 1900";Concepción;8;Biobío;invitado;;;1992-01-04;2025-01-01;2025-12-31;NO;;;"La Florida"
+9404066-3;"Patricia Contreras Nuñez";patricia.contreras182@mail.cl;919204422;952122681;"Av Providencia 300";Providencia;13;Metropolitana;"socio titular";;;;2025-01-01;2025-12-31;SI;socio;clave7421;Providencia
+13918839-K;"Alvaro Mendez Quezada";alvaro.mendez815@mail.cl;975392861;;"Av Gran Avenida 1800";"Viña del Mar";5;Valparaíso;"socio titular";;;1966-10-18;2025-01-01;2025-12-31;SI;socio;clave2109;Providencia
+24090257-5;"Daniela Jara Jara";daniela.jara754@mail.cl;956315887;969907403;"Av Providencia 900";"Las Condes";13;Metropolitana;invitado;;;1970-06-18;2025-01-01;2025-12-31;NO;;;"Santa Cruz"
+9426108-2;"Kevin Duarte Contreras";kevin.duarte195@mail.cl;;917071871;"Av Macul 2700";"Viña del Mar";5;Valparaíso;"socio titular";;;1989-11-05;2025-01-01;2025-12-31;SI;socio;clave8327;"Santa Cruz"
+22793403-4;"Patricia Alvarez Mendez";patricia.alvarez917@mail.cl;988863551;;"Av Pedro de Valdivia 1600";"San Miguel";13;Metropolitana;adicional;9423746-7;;1978-03-09;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+14882740-0;"Daniela Pardo Nuñez";daniela.pardo567@mail.cl;911599355;993488456;"Av Irarrazaval 1000";Ñuñoa;13;Metropolitana;invitado;;;1990-01-01;2025-01-01;2025-12-31;NO;;;"La Florida"
+19351673-4;"Gonzalo Barrera Alvarez";gonzalo.barrera673@mail.cl;;;"Av Providencia 2700";Maipú;13;Metropolitana;adicional;24692054-0;;1963-11-08;2025-01-01;2025-12-31;NO;;;Providencia
+20486946-4;"Javiera Pardo Espinoza";javiera.pardo846@mail.cl;956415662;993808554;"Av Vicuña Mackenna 1900";"Las Condes";13;Metropolitana;invitado;;;1974-01-08;2025-01-01;2025-12-31;NO;;;Providencia
+11118333-3;"Ignacio Contreras Iturra";ignacio.contreras744@mail.cl;978716721;;"Av Providencia 400";Ñuñoa;13;Metropolitana;"socio titular";;;;2025-01-01;2025-12-31;SI;socio;clave7600;Providencia
+19212905-2;"Claudio Quezada Jara";claudio.quezada364@mail.cl;;934375515;"Av Alameda 1400";"La Reina";13;Metropolitana;"socio titular";;;1997-01-15;2025-01-01;2025-12-31;SI;socio;clave7448;Providencia
+9229661-K;"Alvaro Quezada Galdames";alvaro.quezada536@mail.cl;;986428667;"Av Pedro de Valdivia 600";"La Florida";13;Metropolitana;invitado;;;1986-08-08;2025-01-01;2025-12-31;NO;;;"Santa Cruz"
+11755161-K;"Mauricio Mendez Mendez";mauricio.mendez890@mail.cl;976970635;950892714;"Av Vitacura 400";Ñuñoa;13;Metropolitana;invitado;;;1966-06-20;2025-01-01;2025-12-31;NO;;;"La Florida"
+15182320-3;"Felicia Lagos Iturra";felicia.lagos153@mail.cl;920936758;;"Av Vicuña Mackenna 2300";Concepción;8;Biobío;invitado;;;1969-03-03;2025-01-01;2025-12-31;NO;;;"La Florida"
+13060813-2;"Mauricio Quezada Mendez";mauricio.quezada108@mail.cl;;;"Av Gran Avenida 800";"Viña del Mar";5;Valparaíso;invitado;;;1977-03-28;2025-01-01;2025-12-31;NO;;;Providencia
+24432729-K;"Oscar Iturra Ortiz";oscar.iturra381@mail.cl;929701284;943632229;"Av Providencia 1800";"Viña del Mar";5;Valparaíso;"socio titular";;;2004-07-11;2025-01-01;2025-12-31;SI;socio;clave2343;Providencia
+13584709-7;"Gonzalo Quezada Henriquez";gonzalo.quezada861@mail.cl;;961031606;"Av Apoquindo 100";Santiago;13;Metropolitana;"socio titular";;;1982-11-23;2025-01-01;2025-12-31;SI;socio;clave8385;"Santiago Centro"
+9185277-2;"Gonzalo Contreras Espinoza";gonzalo.contreras953@mail.cl;;940184481;"Av Macul 600";"Las Condes";13;Metropolitana;"socio titular";;;1965-02-24;2025-01-01;2025-12-31;SI;socio;clave1070;"La Florida"
+12204047-K;"Claudio Mendez Mendez";claudio.mendez538@mail.cl;;;"Av Apoquindo 3600";Ñuñoa;13;Metropolitana;"socio titular";;;1968-11-27;2025-01-01;2025-12-31;SI;socio;clave1361;"La Florida"
+23814404-3;"Patricia Jara Jara";patricia.jara808@mail.cl;;948457482;"Av Macul 1000";Providencia;13;Metropolitana;"socio titular";;;2005-08-11;2025-01-01;2025-12-31;SI;socio;clave1083;"Santa Cruz"
+22805009-1;"Beatriz Jara Lagos";beatriz.jara569@mail.cl;975739510;;"Av Alameda 1000";Ñuñoa;13;Metropolitana;adicional;22070632-K;;2000-02-07;2025-01-01;2025-12-31;NO;;;"Santa Cruz"
+5816381-3;"Mauricio Duarte Galdames";mauricio.duarte119@mail.cl;;988018935;"Av Alameda 4000";Independencia;13;Metropolitana;"socio titular";;;1981-10-08;2025-01-01;2025-12-31;SI;socio;clave5095;"La Florida"
+13347152-9;"Oscar Contreras Fuentes";oscar.contreras40@mail.cl;984350263;914684964;"Av Vitacura 1900";"La Florida";13;Metropolitana;adicional;17960701-8;;1980-05-06;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+6787202-9;"Claudio Fuentes Contreras";claudio.fuentes102@mail.cl;987634128;;"Av Providencia 3400";Santiago;13;Metropolitana;adicional;16001455-5;;1967-04-11;2025-01-01;2025-12-31;NO;;;"La Florida"
+20041509-4;"Mauricio Ortiz Henriquez";mauricio.ortiz529@mail.cl;941522742;;"Av Vicuña Mackenna 1800";Independencia;13;Metropolitana;"socio titular";;;1988-01-12;2025-01-01;2025-12-31;SI;socio;clave6058;"La Florida"
+23351146-3;"Enrique Jara Barrera";enrique.jara235@mail.cl;939706488;966785003;"Av Vitacura 1100";Ñuñoa;13;Metropolitana;"socio titular";;;1971-05-14;2025-01-01;2025-12-31;SI;socio;clave7947;Providencia
+20274032-4;"Loreto Henriquez Barrera";loreto.henriquez431@mail.cl;;;"Av Apoquindo 100";"Las Condes";13;Metropolitana;"socio titular";;;1958-01-26;2025-01-01;2025-12-31;SI;socio;clave5929;"La Florida"
+15194274-1;"Claudio Lagos Contreras";claudio.lagos400@mail.cl;;910403388;"Av Vicuña Mackenna 4000";"Puente Alto";13;Metropolitana;administrativo;;;1957-11-13;2025-01-01;2025-12-31;SI;administrativo;clave8827;"La Florida"
+16629695-1;"Gonzalo Alvarez Pardo";gonzalo.alvarez384@mail.cl;;967964305;"Av Irarrazaval 1200";Santiago;13;Metropolitana;"socio titular";;;1965-11-28;2025-01-01;2025-12-31;SI;socio;clave4764;"Santa Cruz"
+22648431-0;"Gonzalo Quezada Jara";gonzalo.quezada591@mail.cl;;;"Av Providencia 1500";"La Florida";13;Metropolitana;invitado;;;1994-11-04;2025-01-01;2025-12-31;NO;;;"Santa Cruz"
+21867212-4;"Daniela Pardo Alvarez";daniela.pardo512@mail.cl;;967915242;"Av Pedro de Valdivia 600";Maipú;13;Metropolitana;invitado;;;1962-04-25;2025-01-01;2025-12-31;NO;;;"La Florida"
+16671461-3;"Kevin Pardo Henriquez";kevin.pardo614@mail.cl;978563348;;"Av Recoleta 2200";"Las Condes";13;Metropolitana;invitado;;;1955-10-06;2025-01-01;2025-12-31;NO;;;"La Florida"
+14369816-5;"Alvaro Fuentes Jara";alvaro.fuentes624@mail.cl;912918113;952144308;"Av Vicuña Mackenna 2100";"Las Condes";13;Metropolitana;invitado;;;1962-07-15;2025-01-01;2025-12-31;NO;;;Providencia
+15490942-7;"Javiera Duarte Fuentes";javiera.duarte464@mail.cl;;;"Av Irarrazaval 4000";Maipú;13;Metropolitana;invitado;;;1991-04-21;2025-01-01;2025-12-31;NO;;;Providencia
+16776120-8;"Kevin Ortiz Lagos";kevin.ortiz718@mail.cl;;;"Av Providencia 2200";Ñuñoa;13;Metropolitana;invitado;;;1998-04-28;2025-01-01;2025-12-31;NO;;;Providencia
+6483392-8;"Felicia Fuentes Fuentes";felicia.fuentes878@mail.cl;;938467103;"Av Vicuña Mackenna 1200";"Las Condes";13;Metropolitana;invitado;;;1992-08-15;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+22287411-4;"Natalia Contreras Quezada";natalia.contreras772@mail.cl;938648888;914015125;"Av Gran Avenida 4000";"Viña del Mar";5;Valparaíso;invitado;;;1989-06-01;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+19026061-5;"Loreto Iturra Ortiz";loreto.iturra183@mail.cl;;954452366;"Av Gran Avenida 3700";"La Florida";13;Metropolitana;invitado;;;1967-03-17;2025-01-01;2025-12-31;NO;;;Providencia
+9158397-6;"Daniela Nuñez Galdames";daniela.nunez803@mail.cl;996274376;;"Av Vitacura 1000";Ñuñoa;13;Metropolitana;adicional;20848551-2;;;2025-01-01;2025-12-31;NO;;;"Santa Cruz"
+23960505-2;"Beatriz Barrera Galdames";beatriz.barrera866@mail.cl;980392688;;"Av Macul 2200";"Puente Alto";13;Metropolitana;administrativo;;;1972-11-20;2025-01-01;2025-12-31;SI;administrativo;clave8831;Providencia
+6307329-6;"Loreto Galdames Alvarez";loreto.galdames779@mail.cl;;949168200;"Av Pedro de Valdivia 1100";Providencia;13;Metropolitana;"socio titular";;;1958-03-16;2025-01-01;2025-12-31;SI;socio;clave5214;"La Florida"
+18478099-2;"Patricia Fuentes Espinoza";patricia.fuentes83@mail.cl;997643196;973426245;"Av Recoleta 1800";Maipú;13;Metropolitana;"socio titular";;;2002-03-27;2025-01-01;2025-12-31;SI;socio;clave9680;"Santiago Centro"
+19508040-2;"Claudio Nuñez Duarte";claudio.nunez686@mail.cl;988522290;921054366;"Av Alameda 3600";"Santa Cruz";6;O'Higgins;invitado;;;1980-11-02;2025-01-01;2025-12-31;NO;;;"La Florida"
+13408836-2;"Enrique Fuentes Iturra";enrique.fuentes491@mail.cl;;;"Av Vitacura 3900";"San Miguel";13;Metropolitana;"socio titular";;;1963-05-19;2025-01-01;2025-12-31;SI;socio;clave7774;"Santa Cruz"
+18586183-K;"Natalia Fuentes Nuñez";natalia.fuentes63@mail.cl;;;"Av Providencia 900";"Viña del Mar";5;Valparaíso;"socio titular";;;1989-06-25;2025-01-01;2025-12-31;SI;socio;clave6954;"Santiago Centro"
+15704187-8;"Mauricio Lagos Nuñez";mauricio.lagos189@mail.cl;;988434612;"Av Providencia 1100";Independencia;13;Metropolitana;invitado;;;1986-09-16;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+20901081-K;"Daniela Espinoza Duarte";daniela.espinoza864@mail.cl;915323925;973064206;"Av Gran Avenida 200";"La Florida";13;Metropolitana;"socio titular";;;1989-11-13;2025-01-01;2025-12-31;SI;socio;clave4912;"Santa Cruz"
+24616191-7;"Claudio Galdames Mendez";claudio.galdames773@mail.cl;;978842799;"Av Recoleta 2400";Independencia;13;Metropolitana;"socio titular";;;1974-07-12;2025-01-01;2025-12-31;SI;socio;clave5518;Providencia
+9196057-5;"Mauricio Galdames Alvarez";mauricio.galdames736@mail.cl;;995407238;"Av Vicuña Mackenna 800";"La Reina";13;Metropolitana;invitado;;;1984-12-20;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+7329658-7;"Mauricio Alvarez Contreras";mauricio.alvarez327@mail.cl;;927317498;"Av Alameda 3200";Santiago;13;Metropolitana;"socio titular";;;2001-04-22;2025-01-01;2025-12-31;SI;socio;clave4184;"Santa Cruz"
+10400237-4;"Loreto Duarte Jara";loreto.duarte649@mail.cl;932167767;952702103;"Av Alameda 3100";Santiago;13;Metropolitana;adicional;24617995-6;;;2025-01-01;2025-12-31;NO;;;"Santa Cruz"
+10673180-2;"Ignacio Iturra Mendez";ignacio.iturra209@mail.cl;962971317;967127717;"Av Macul 900";Independencia;13;Metropolitana;"socio titular";;;1961-08-09;2025-01-01;2025-12-31;SI;socio;clave2793;"La Florida"
+15047825-1;"Natalia Barrera Nuñez";natalia.barrera542@mail.cl;;938687422;"Av Recoleta 3700";"La Florida";13;Metropolitana;invitado;;;1970-06-22;2025-01-01;2025-12-31;NO;;;"Santa Cruz"
+24991399-5;"Loreto Mendez Fuentes";loreto.mendez866@mail.cl;;968120325;"Av Apoquindo 500";Independencia;13;Metropolitana;adicional;24941085-3;;1974-08-06;2025-01-01;2025-12-31;NO;;;"Santa Cruz"
+23137635-6;"Patricia Iturra Espinoza";patricia.iturra288@mail.cl;;911994691;"Av Apoquindo 700";Independencia;13;Metropolitana;"socio titular";;;1986-01-20;2025-01-01;2025-12-31;SI;socio;clave4502;"Santa Cruz"
+24991937-3;"Loreto Pardo Galdames";loreto.pardo776@mail.cl;;982315739;"Av Providencia 3300";"San Miguel";13;Metropolitana;adicional;11118333-3;;1990-02-20;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+10846722-3;"Loreto Quezada Espinoza";loreto.quezada644@mail.cl;;954923076;"Av Vicuña Mackenna 600";Independencia;13;Metropolitana;adicional;12735469-3;;1992-10-28;2025-01-01;2025-12-31;NO;;;"La Florida"
+10308769-4;"Oscar Galdames Galdames";oscar.galdames930@mail.cl;946321979;917856989;"Av Irarrazaval 1800";"San Miguel";13;Metropolitana;adicional;20848551-2;;;2025-01-01;2025-12-31;NO;;;Providencia
+5712398-2;"Patricia Espinoza Ortiz";patricia.espinoza99@mail.cl;;;"Av Vicuña Mackenna 2600";Independencia;13;Metropolitana;"socio titular";;;1969-06-14;2025-01-01;2025-12-31;SI;socio;clave5179;"La Florida"
+15117518-K;"Javiera Contreras Jara";javiera.contreras154@mail.cl;;940271389;"Av Irarrazaval 1100";Ñuñoa;13;Metropolitana;"socio titular";;;1998-04-13;2025-01-01;2025-12-31;SI;socio;clave8956;"Santiago Centro"
+11135812-5;"Enrique Barrera Barrera";enrique.barrera440@mail.cl;;;"Av Irarrazaval 3000";"Puente Alto";13;Metropolitana;invitado;;;1960-10-11;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+8580613-0;"Kevin Barrera Ortiz";kevin.barrera884@mail.cl;943194211;;"Av Alameda 300";"Las Condes";13;Metropolitana;beneficiario;12477156-0;c—nyuge;;2025-01-01;2025-12-31;NO;;;"La Florida"
+24922328-K;"Alvaro Mendez Lagos";alvaro.mendez714@mail.cl;925356317;;"Av Macul 2200";Ñuñoa;13;Metropolitana;beneficiario;15964724-2;c—nyuge;;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+6323627-6;"Helena Galdames Duarte";helena.galdames199@mail.cl;919070572;954612456;"Av Vicuña Mackenna 1500";"Santa Cruz";6;O'Higgins;invitado;;;2004-07-28;2025-01-01;2025-12-31;NO;;;"Santa Cruz"
+24441689-6;"Helena Alvarez Pardo";helena.alvarez840@mail.cl;;929351941;"Av Apoquindo 2000";"San Miguel";13;Metropolitana;"socio titular";;;1951-04-09;2025-01-01;2025-12-31;SI;socio;clave9054;"La Florida"
+6032592-8;"Mauricio Iturra Mendez";mauricio.iturra127@mail.cl;967869063;;"Av Gran Avenida 1500";Santiago;13;Metropolitana;beneficiario;16701421-6;c—nyuge;;2025-01-01;2025-12-31;NO;;;"La Florida"
+14847068-5;"Alvaro Barrera Lagos";alvaro.barrera619@mail.cl;999165739;;"Av Pedro de Valdivia 1000";Santiago;13;Metropolitana;"socio titular";;;2003-11-26;2025-01-01;2025-12-31;SI;socio;clave1859;"La Florida"
+16483402-6;"Natalia Duarte Fuentes";natalia.duarte412@mail.cl;;;"Av Recoleta 2100";Providencia;13;Metropolitana;"socio titular";;;1999-10-05;2025-01-01;2025-12-31;SI;socio;clave3274;Providencia
+5756364-8;"Felicia Pardo Duarte";felicia.pardo795@mail.cl;;;"Av Vicuña Mackenna 100";Independencia;13;Metropolitana;adicional;24617995-6;;1952-05-17;2025-01-01;2025-12-31;NO;;;"La Florida"
+24927321-K;"Alvaro Lagos Mendez";alvaro.lagos970@mail.cl;928585413;959097680;"Av Providencia 1000";"San Miguel";13;Metropolitana;"socio titular";;;1990-01-01;2025-01-01;2025-12-31;SI;socio;clave1577;Providencia
+20511482-3;"Mauricio Galdames Galdames";mauricio.galdames979@mail.cl;;988491237;"Av Irarrazaval 3800";"Viña del Mar";5;Valparaíso;invitado;;;;2025-01-01;2025-12-31;NO;;;"La Florida"
+5787659-K;"Gonzalo Ortiz Galdames";gonzalo.ortiz682@mail.cl;;;"Av Gran Avenida 3300";"Viña del Mar";5;Valparaíso;beneficiario;17782653-7;c—nyuge;1978-08-26;2025-01-01;2025-12-31;NO;;;"La Florida"
+8453862-0;"Daniela Pardo Mendez";daniela.pardo792@mail.cl;917082882;987601147;"Av Gran Avenida 1300";"Las Condes";13;Metropolitana;invitado;;;1995-05-21;2025-01-01;2025-12-31;NO;;;"La Florida"
+17890183-4;"Natalia Contreras Espinoza";natalia.contreras415@mail.cl;979093984;;"Av Vitacura 200";Maipú;13;Metropolitana;adicional;21038193-7;;;2025-01-01;2025-12-31;NO;;;"La Florida"
+11798052-9;"Kevin Contreras Henriquez";kevin.contreras958@mail.cl;;;"Av Irarrazaval 3800";Providencia;13;Metropolitana;"socio titular";;;1969-08-18;2025-01-01;2025-12-31;SI;socio;clave1852;"La Florida"
+16082611-8;"Patricia Galdames Lagos";patricia.galdames221@mail.cl;959874881;975026695;"Av Vicuña Mackenna 4000";"San Miguel";13;Metropolitana;adicional;8843281-9;;1997-11-19;2025-01-01;2025-12-31;NO;;;"Santa Cruz"
+9697604-6;"Natalia Pardo Pardo";natalia.pardo143@mail.cl;938738529;;"Av Macul 3200";Maipú;13;Metropolitana;invitado;;;1999-08-16;2025-01-01;2025-12-31;NO;;;"Santa Cruz"
+17128668-9;"Patricia Barrera Fuentes";patricia.barrera89@mail.cl;929107758;;"Av Recoleta 3600";Maipú;13;Metropolitana;beneficiario;24617995-6;c—nyuge;1975-07-20;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+5560103-8;"Mauricio Nuñez Contreras";mauricio.nunez789@mail.cl;948234434;953866617;"Av Vicuña Mackenna 3200";"San Miguel";13;Metropolitana;invitado;;;1989-02-20;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+18707007-4;"Ignacio Lagos Contreras";ignacio.lagos161@mail.cl;954244080;;"Av Recoleta 1600";Santiago;13;Metropolitana;invitado;;;1960-07-17;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+14986200-5;"Enrique Espinoza Iturra";enrique.espinoza694@mail.cl;918374488;973677468;"Av Alameda 1500";"Viña del Mar";5;Valparaíso;adicional;21265551-1;;1994-10-03;2025-01-01;2025-12-31;NO;;;"La Florida"
+21924436-3;"Felicia Lagos Mendez";felicia.lagos396@mail.cl;931517696;;"Av Apoquindo 2500";Providencia;13;Metropolitana;invitado;;;1996-08-15;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+17876851-4;"Beatriz Pardo Contreras";beatriz.pardo650@mail.cl;954397702;975072734;"Av Recoleta 3400";Concepción;8;Biobío;"socio titular";;;1990-01-01;2025-01-01;2025-12-31;SI;socio;clave9556;"La Florida"
+8787394-3;"Alvaro Nuñez Pardo";alvaro.nunez579@mail.cl;;945674655;"Av Recoleta 3500";"La Florida";13;Metropolitana;adicional;5925734-K;;1965-12-05;2025-01-01;2025-12-31;NO;;;Providencia
+15544284-0;"Gonzalo Barrera Jara";gonzalo.barrera982@mail.cl;986533361;954028582;"Av Irarrazaval 100";"Viña del Mar";5;Valparaíso;invitado;;;1977-12-10;2025-01-01;2025-12-31;NO;;;"La Florida"
+11994183-0;"Alvaro Nuñez Mendez";alvaro.nunez502@mail.cl;;924799103;"Av Pedro de Valdivia 300";"Viña del Mar";5;Valparaíso;invitado;;;1991-01-16;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+6454950-2;"Natalia Quezada Duarte";natalia.quezada611@mail.cl;962736583;931484431;"Av Pedro de Valdivia 600";"La Florida";13;Metropolitana;adicional;11750440-9;;1967-07-03;2025-01-01;2025-12-31;NO;;;"La Florida"
+15059680-7;"Gonzalo Espinoza Nuñez";gonzalo.espinoza300@mail.cl;;995566355;"Av Providencia 2900";"Las Condes";13;Metropolitana;adicional;10345669-K;;1953-07-08;2025-01-01;2025-12-31;NO;;;"Santa Cruz"
+12247304-K;"Enrique Fuentes Pardo";enrique.fuentes538@mail.cl;922755499;;"Av Vitacura 3100";Maipú;13;Metropolitana;adicional;23814404-3;;2005-01-08;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+13090679-6;"Alvaro Henriquez Galdames";alvaro.henriquez306@mail.cl;;;"Av Macul 2300";"Viña del Mar";5;Valparaíso;adicional;23796414-4;;1990-01-01;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+19331512-7;"Natalia Alvarez Mendez";natalia.alvarez688@mail.cl;937709946;;"Av Alameda 200";Ñuñoa;13;Metropolitana;adicional;15964724-2;;;2025-01-01;2025-12-31;NO;;;"La Florida"
+21256378-1;"Natalia Nuñez Espinoza";natalia.nunez247@mail.cl;;945693295;"Av Vitacura 1000";"Puente Alto";13;Metropolitana;"socio titular";;;1954-03-26;2025-01-01;2025-12-31;SI;socio;clave6463;"Santiago Centro"
+11043538-K;"Oscar Alvarez Ortiz";oscar.alvarez598@mail.cl;;945503461;"Av Alameda 900";"La Florida";13;Metropolitana;administrativo;;;1984-04-18;2025-01-01;2025-12-31;SI;administrativo;clave1030;"La Florida"
+13452047-7;"Alvaro Barrera Nuñez";alvaro.barrera763@mail.cl;;975835566;"Av Irarrazaval 3100";"La Florida";13;Metropolitana;beneficiario;14812670-4;c—nyuge;1975-04-15;2025-01-01;2025-12-31;NO;;;Providencia
+17693558-8;"Beatriz Lagos Galdames";beatriz.lagos23@mail.cl;985634138;930257528;"Av Providencia 2900";"Viña del Mar";5;Valparaíso;adicional;14812670-4;;1983-08-08;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+10931381-5;"Enrique Iturra Barrera";enrique.iturra376@mail.cl;967329404;954458515;"Av Irarrazaval 1200";"San Miguel";13;Metropolitana;beneficiario;10507406-9;c—nyuge;;2025-01-01;2025-12-31;NO;;;"Santa Cruz"
+11945986-9;"Loreto Contreras Duarte";loreto.contreras259@mail.cl;;;"Av Apoquindo 1900";"La Florida";13;Metropolitana;"socio titular";;;1957-12-14;2025-01-01;2025-12-31;SI;socio;clave7715;Providencia
+6849928-3;"Alvaro Lagos Jara";alvaro.lagos611@mail.cl;980620936;942717110;"Av Recoleta 100";Independencia;13;Metropolitana;adicional;6183714-0;;;2025-01-01;2025-12-31;NO;;;"La Florida"
+20484841-6;"Gonzalo Henriquez Galdames";gonzalo.henriquez175@mail.cl;940804945;;"Av Pedro de Valdivia 2300";"Santa Cruz";6;O'Higgins;invitado;;;;2025-01-01;2025-12-31;NO;;;"Santa Cruz"
+14310878-3;"Javiera Henriquez Fuentes";javiera.henriquez750@mail.cl;;;"Av Vicuña Mackenna 600";Concepción;8;Biobío;invitado;;;1975-08-08;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+22986270-7;"Oscar Duarte Barrera";oscar.duarte975@mail.cl;;979145437;"Av Vitacura 3400";Concepción;8;Biobío;invitado;;;1963-04-12;2025-01-01;2025-12-31;NO;;;"Santa Cruz"
+9995567-8;"Claudio Iturra Pardo";claudio.iturra711@mail.cl;959610639;;"Av Pedro de Valdivia 1700";"Viña del Mar";5;Valparaíso;invitado;;;1995-07-23;2025-01-01;2025-12-31;NO;;;Providencia
+8843975-9;"Natalia Ortiz Quezada";natalia.ortiz804@mail.cl;959053387;;"Av Alameda 3500";"Puente Alto";13;Metropolitana;adicional;10098345-1;;1951-05-24;2025-01-01;2025-12-31;NO;;;Providencia
+12262902-3;"Javiera Quezada Nuñez";javiera.quezada910@mail.cl;943530397;;"Av Vitacura 1500";"Santa Cruz";6;O'Higgins;invitado;;;1985-06-24;2025-01-01;2025-12-31;NO;;;Providencia
+13156800-2;"Alvaro Pardo Iturra";alvaro.pardo709@mail.cl;918373037;951198746;"Av Alameda 3700";"San Miguel";13;Metropolitana;invitado;;;;2025-01-01;2025-12-31;NO;;;Providencia
+22569841-4;"Felicia Barrera Ortiz";felicia.barrera530@mail.cl;;;"Av Irarrazaval 2100";"Santa Cruz";6;O'Higgins;invitado;;;1983-04-06;2025-01-01;2025-12-31;NO;;;"Santa Cruz"
+22854219-9;"Javiera Galdames Espinoza";javiera.galdames457@mail.cl;916426878;969798955;"Av Macul 3500";Maipú;13;Metropolitana;"socio titular";;;1976-12-22;2025-01-01;2025-12-31;SI;socio;clave6389;"Santa Cruz"
+10822435-5;"Enrique Barrera Jara";enrique.barrera233@mail.cl;;935502903;"Av Pedro de Valdivia 1600";"San Miguel";13;Metropolitana;beneficiario;9081387-0;hijo;1962-12-04;2025-01-01;2025-12-31;NO;;;"Santa Cruz"
+11289089-0;"Patricia Alvarez Lagos";patricia.alvarez812@mail.cl;995792156;;"Av Recoleta 900";Ñuñoa;13;Metropolitana;invitado;;;1986-01-05;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+11370383-0;"Claudio Nuñez Alvarez";claudio.nunez338@mail.cl;;998652493;"Av Recoleta 3500";"Santa Cruz";6;O'Higgins;invitado;;;1966-02-21;2025-01-01;2025-12-31;NO;;;Providencia
+18882822-1;"Gonzalo Quezada Iturra";gonzalo.quezada119@mail.cl;;942797979;"Av Gran Avenida 2300";Maipú;13;Metropolitana;adicional;9426108-2;;1993-03-14;2025-01-01;2025-12-31;NO;;;"La Florida"
+17955251-5;"Kevin Lagos Pardo";kevin.lagos375@mail.cl;;;"Av Vitacura 1200";Maipú;13;Metropolitana;invitado;;;1981-05-13;2025-01-01;2025-12-31;NO;;;"La Florida"
+6549574-0;"Daniela Duarte Ortiz";daniela.duarte631@mail.cl;;;"Av Vitacura 400";Concepción;8;Biobío;invitado;;;1999-06-23;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+12524749-0;"Oscar Pardo Barrera";oscar.pardo766@mail.cl;945848754;922131022;"Av Alameda 3200";"Las Condes";13;Metropolitana;"socio titular";;;1990-01-01;2025-01-01;2025-12-31;SI;socio;clave4162;Providencia
+11306668-7;"Mauricio Jara Iturra";mauricio.jara546@mail.cl;928415541;942384976;"Av Irarrazaval 3100";Providencia;13;Metropolitana;invitado;;;1958-05-01;2025-01-01;2025-12-31;NO;;;"La Florida"
+6195555-0;"Gonzalo Duarte Nuñez";gonzalo.duarte151@mail.cl;;;"Av Vicuña Mackenna 2200";Independencia;13;Metropolitana;adicional;24990383-3;;1952-10-16;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+19631022-3;"Felicia Jara Jara";felicia.jara316@mail.cl;930407519;988237333;"Av Gran Avenida 600";Ñuñoa;13;Metropolitana;"socio titular";;;2003-10-05;2025-01-01;2025-12-31;SI;socio;clave7624;"La Florida"
+14597834-3;"Mauricio Pardo Jara";mauricio.pardo449@mail.cl;932765101;;"Av Apoquindo 1700";Providencia;13;Metropolitana;administrativo;;;1995-09-14;2025-01-01;2025-12-31;SI;administrativo;clave5314;"La Florida"
+23384486-1;"Natalia Nuñez Fuentes";natalia.nunez959@mail.cl;962399998;999282768;"Av Vitacura 2500";Maipú;13;Metropolitana;invitado;;;2005-09-12;2025-01-01;2025-12-31;NO;;;Providencia
+23619928-2;"Gonzalo Duarte Espinoza";gonzalo.duarte44@mail.cl;;993802482;"Av Providencia 3600";"Viña del Mar";5;Valparaíso;"socio titular";;;1981-03-07;2025-01-01;2025-12-31;SI;socio;clave6403;"La Florida"
+13452573-8;"Mauricio Henriquez Henriquez";mauricio.henriquez912@mail.cl;941994081;954817434;"Av Macul 600";"Puente Alto";13;Metropolitana;invitado;;;1970-09-11;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+7508496-K;"Claudio Nuñez Quezada";claudio.nunez687@mail.cl;921213231;920974901;"Av Alameda 200";"Puente Alto";13;Metropolitana;invitado;;;;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+6053421-7;"Gonzalo Barrera Mendez";gonzalo.barrera300@mail.cl;;937982607;"Av Recoleta 3200";Independencia;13;Metropolitana;"socio titular";;;2001-03-05;2025-01-01;2025-12-31;SI;socio;clave3225;"Santiago Centro"
+17981000-K;"Ignacio Ortiz Contreras";ignacio.ortiz224@mail.cl;969994474;;"Av Vitacura 2300";Santiago;13;Metropolitana;adicional;15258690-6;;1963-10-10;2025-01-01;2025-12-31;NO;;;"La Florida"
+20438372-3;"Patricia Quezada Henriquez";patricia.quezada352@mail.cl;910032588;968325320;"Av Apoquindo 3500";"Las Condes";13;Metropolitana;invitado;;;1989-10-25;2025-01-01;2025-12-31;NO;;;Providencia
+10286041-1;"Beatriz Henriquez Lagos";beatriz.henriquez206@mail.cl;921250664;994449527;"Av Providencia 1900";Concepción;8;Biobío;invitado;;;2001-12-20;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+23423377-7;"Natalia Pardo Nuñez";natalia.pardo110@mail.cl;930146625;;"Av Gran Avenida 2700";"Viña del Mar";5;Valparaíso;adicional;20849694-8;;1960-03-03;2025-01-01;2025-12-31;NO;;;"Santa Cruz"
+21766858-1;"Javiera Duarte Lagos";javiera.duarte421@mail.cl;;;"Av Irarrazaval 4000";"Viña del Mar";5;Valparaíso;adicional;13667087-5;;;2025-01-01;2025-12-31;NO;;;"La Florida"
+11036120-3;"Felicia Espinoza Lagos";felicia.espinoza523@mail.cl;;953272324;"Av Macul 1300";"Puente Alto";13;Metropolitana;invitado;;;1982-12-18;2025-01-01;2025-12-31;NO;;;Providencia
+20773390-3;"Oscar Fuentes Ortiz";oscar.fuentes871@mail.cl;;940597761;"Av Vitacura 3500";"La Florida";13;Metropolitana;invitado;;;1978-02-01;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+20306223-0;"Felicia Fuentes Iturra";felicia.fuentes166@mail.cl;958763216;;"Av Irarrazaval 500";Ñuñoa;13;Metropolitana;"socio titular";;;1978-06-10;2025-01-01;2025-12-31;SI;socio;clave3730;Providencia
+15828937-7;"Daniela Ortiz Fuentes";daniela.ortiz940@mail.cl;;;"Av Pedro de Valdivia 3600";"Puente Alto";13;Metropolitana;"socio titular";;;1991-07-16;2025-01-01;2025-12-31;SI;socio;clave5237;"Santiago Centro"
+18243537-6;"Beatriz Quezada Contreras";beatriz.quezada776@mail.cl;958871177;;"Av Irarrazaval 3500";"Santa Cruz";6;O'Higgins;invitado;;;1988-03-19;2025-01-01;2025-12-31;NO;;;"La Florida"
+9866662-1;"Enrique Henriquez Jara";enrique.henriquez542@mail.cl;;;"Av Irarrazaval 200";Providencia;13;Metropolitana;adicional;18010769-K;;1961-12-10;2025-01-01;2025-12-31;NO;;;Providencia
+23938213-4;"Daniela Contreras Jara";daniela.contreras301@mail.cl;973615871;924827100;"Av Vicuña Mackenna 700";"La Florida";13;Metropolitana;adicional;23351146-3;;1995-09-19;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+10765916-1;"Felicia Contreras Henriquez";felicia.contreras20@mail.cl;928287458;983620126;"Av Macul 1900";Providencia;13;Metropolitana;invitado;;;1975-08-07;2025-01-01;2025-12-31;NO;;;Providencia
+10859996-0;"Javiera Quezada Jara";javiera.quezada123@mail.cl;918602914;;"Av Macul 2100";Providencia;13;Metropolitana;adicional;19150099-7;;;2025-01-01;2025-12-31;NO;;;"Santa Cruz"
+19306051-K;"Patricia Duarte Galdames";patricia.duarte890@mail.cl;948890412;;"Av Gran Avenida 600";"Puente Alto";13;Metropolitana;adicional;16440104-9;;1998-10-02;2025-01-01;2025-12-31;NO;;;"La Florida"
+13082570-2;"Enrique Nuñez Iturra";enrique.nunez209@mail.cl;;946137233;"Av Providencia 2100";"San Miguel";13;Metropolitana;adicional;7156539-4;;1951-12-23;2025-01-01;2025-12-31;NO;;;Providencia
+11978481-6;"Mauricio Henriquez Quezada";mauricio.henriquez605@mail.cl;;;"Av Macul 300";Ñuñoa;13;Metropolitana;"socio titular";;;;2025-01-01;2025-12-31;SI;socio;clave9116;"Santiago Centro"
+11953649-9;"Natalia Galdames Henriquez";natalia.galdames503@mail.cl;;;"Av Providencia 700";"Las Condes";13;Metropolitana;"socio titular";;;1951-06-14;2025-01-01;2025-12-31;SI;socio;clave8231;Providencia
+13495605-4;"Enrique Quezada Duarte";enrique.quezada3@mail.cl;958299446;;"Av Providencia 2700";Santiago;13;Metropolitana;"socio titular";;;2002-04-27;2025-01-01;2025-12-31;SI;socio;clave9360;"Santa Cruz"
+17369207-2;"Mauricio Iturra Ortiz";mauricio.iturra891@mail.cl;977609217;916666730;"Av Irarrazaval 2000";Providencia;13;Metropolitana;invitado;;;1968-08-15;2025-01-01;2025-12-31;NO;;;"Santa Cruz"
+22645027-0;"Mauricio Barrera Jara";mauricio.barrera762@mail.cl;;;"Av Recoleta 900";Santiago;13;Metropolitana;adicional;24941085-3;;1954-04-14;2025-01-01;2025-12-31;NO;;;"La Florida"
+19481249-3;"Enrique Galdames Iturra";enrique.galdames959@mail.cl;916004826;;"Av Macul 1300";"Puente Alto";13;Metropolitana;"socio titular";;;1991-05-26;2025-01-01;2025-12-31;SI;socio;clave8853;"Santa Cruz"
+9219868-5;"Helena Galdames Galdames";helena.galdames315@mail.cl;;954159613;"Av Alameda 2900";"Viña del Mar";5;Valparaíso;"socio titular";;;1999-08-02;2025-01-01;2025-12-31;SI;socio;clave4466;"Santiago Centro"
+15528633-4;"Felicia Quezada Alvarez";felicia.quezada130@mail.cl;;;"Av Apoquindo 3400";"La Florida";13;Metropolitana;invitado;;;;2025-01-01;2025-12-31;NO;;;"Santa Cruz"
+17344170-3;"Enrique Mendez Pardo";enrique.mendez366@mail.cl;;956406125;"Av Providencia 1000";"Viña del Mar";5;Valparaíso;invitado;;;1967-03-04;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+19088273-K;"Patricia Alvarez Alvarez";patricia.alvarez264@mail.cl;917222451;967415876;"Av Recoleta 3200";Santiago;13;Metropolitana;beneficiario;15828937-7;c—nyuge;1953-06-11;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+23421109-9;"Enrique Pardo Barrera";enrique.pardo236@mail.cl;;;"Av Gran Avenida 1100";"La Florida";13;Metropolitana;"socio titular";;;1961-11-11;2025-01-01;2025-12-31;SI;socio;clave4616;Providencia
+19514961-5;"Loreto Jara Nuñez";loreto.jara301@mail.cl;;992358182;"Av Macul 800";Providencia;13;Metropolitana;adicional;14006506-4;;1990-01-01;2025-01-01;2025-12-31;NO;;;"Santa Cruz"
+14890831-1;"Natalia Mendez Pardo";natalia.mendez93@mail.cl;;;"Av Apoquindo 300";"San Miguel";13;Metropolitana;"socio titular";;;1959-07-10;2025-01-01;2025-12-31;SI;socio;clave6520;"Santiago Centro"
+20055673-9;"Felicia Ortiz Lagos";felicia.ortiz730@mail.cl;975749272;977128656;"Av Pedro de Valdivia 1100";Concepción;8;Biobío;adicional;17526820-0;;1974-03-05;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+18168394-5;"Ignacio Alvarez Duarte";ignacio.alvarez911@mail.cl;960042435;912126561;"Av Macul 3200";Ñuñoa;13;Metropolitana;"socio titular";;;1990-01-01;2025-01-01;2025-12-31;SI;socio;clave7311;Providencia
+7218054-2;"Javiera Henriquez Duarte";javiera.henriquez80@mail.cl;947432496;933874903;"Av Vicuña Mackenna 3600";Maipú;13;Metropolitana;"socio titular";;;1968-09-16;2025-01-01;2025-12-31;SI;socio;clave9090;Providencia
+17081627-7;"Beatriz Iturra Galdames";beatriz.iturra126@mail.cl;940230921;;"Av Gran Avenida 1700";"La Reina";13;Metropolitana;adicional;16629695-1;;;2025-01-01;2025-12-31;NO;;;"Santa Cruz"
+19113560-1;"Natalia Lagos Mendez";natalia.lagos776@mail.cl;;;"Av Irarrazaval 2100";Maipú;13;Metropolitana;invitado;;;1977-08-07;2025-01-01;2025-12-31;NO;;;"Santa Cruz"
+6968464-5;"Loreto Pardo Nuñez";loreto.pardo642@mail.cl;;;"Av Alameda 2200";"Las Condes";13;Metropolitana;invitado;;;1997-02-01;2025-01-01;2025-12-31;NO;;;"La Florida"
+21508638-0;"Gonzalo Jara Espinoza";gonzalo.jara76@mail.cl;;;"Av Alameda 1600";Santiago;13;Metropolitana;beneficiario;24973079-3;c—nyuge;1999-12-15;2025-01-01;2025-12-31;NO;;;Providencia
+20598546-8;"Kevin Barrera Pardo";kevin.barrera933@mail.cl;965334499;;"Av Irarrazaval 3300";Concepción;8;Biobío;"socio titular";;;;2025-01-01;2025-12-31;SI;socio;clave5576;"Santa Cruz"
+19301166-7;"Mauricio Henriquez Duarte";mauricio.henriquez749@mail.cl;;;"Av Macul 2300";"Viña del Mar";5;Valparaíso;"socio titular";;;1974-05-01;2025-01-01;2025-12-31;SI;socio;clave5831;"La Florida"
+9398401-3;"Loreto Quezada Iturra";loreto.quezada401@mail.cl;968334433;;"Av Vicuña Mackenna 1300";Providencia;13;Metropolitana;administrativo;;;1982-11-06;2025-01-01;2025-12-31;SI;administrativo;clave7532;"Santa Cruz"
+6961100-1;"Patricia Lagos Lagos";patricia.lagos820@mail.cl;977365402;985807701;"Av Irarrazaval 2500";"La Reina";13;Metropolitana;administrativo;;;1993-05-01;2025-01-01;2025-12-31;SI;administrativo;clave7869;"La Florida"
+24800854-7;"Daniela Alvarez Nuñez";daniela.alvarez268@mail.cl;;975249720;"Av Irarrazaval 2900";Providencia;13;Metropolitana;adicional;9774947-7;;2004-09-06;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+7102539-K;"Gonzalo Jara Jara";gonzalo.jara910@mail.cl;;981551471;"Av Pedro de Valdivia 2900";Maipú;13;Metropolitana;beneficiario;24293519-5;c—nyuge;1979-02-09;2025-01-01;2025-12-31;NO;;;"Santa Cruz"
+11258047-6;"Mauricio Iturra Barrera";mauricio.iturra419@mail.cl;917073092;978390796;"Av Vitacura 1900";Concepción;8;Biobío;adicional;16812745-6;;2002-07-08;2025-01-01;2025-12-31;NO;;;"La Florida"
+16446839-9;"Daniela Contreras Fuentes";daniela.contreras997@mail.cl;950568597;985620544;"Av Recoleta 1000";Providencia;13;Metropolitana;"socio titular";;;;2025-01-01;2025-12-31;SI;socio;clave3482;"Santa Cruz"
+6732478-1;"Daniela Nuñez Pardo";daniela.nunez948@mail.cl;910615606;999318567;"Av Pedro de Valdivia 700";Maipú;13;Metropolitana;invitado;;;1984-02-15;2025-01-01;2025-12-31;NO;;;"Santa Cruz"
+12728713-9;"Ignacio Duarte Fuentes";ignacio.duarte249@mail.cl;987721523;985244944;"Av Providencia 3800";Maipú;13;Metropolitana;"socio titular";;;1970-05-05;2025-01-01;2025-12-31;SI;socio;clave2314;"La Florida"
+17482790-7;"Claudio Espinoza Alvarez";claudio.espinoza123@mail.cl;927894930;;"Av Apoquindo 3300";"Las Condes";13;Metropolitana;"socio titular";;;1960-07-05;2025-01-01;2025-12-31;SI;socio;clave9678;"La Florida"
+19559987-4;"Oscar Mendez Duarte";oscar.mendez449@mail.cl;;957277301;"Av Gran Avenida 3000";"San Miguel";13;Metropolitana;"socio titular";;;2005-04-20;2025-01-01;2025-12-31;SI;socio;clave8550;"Santa Cruz"
+11702872-0;"Gonzalo Galdames Contreras";gonzalo.galdames169@mail.cl;;913634912;"Av Macul 200";"La Reina";13;Metropolitana;"socio titular";;;1967-08-05;2025-01-01;2025-12-31;SI;socio;clave1074;"Santa Cruz"
+9541284-K;"Beatriz Galdames Iturra";beatriz.galdames704@mail.cl;;;"Av Recoleta 1200";Maipú;13;Metropolitana;adicional;15819439-2;;1976-05-18;2025-01-01;2025-12-31;NO;;;Providencia
+7451940-7;"Helena Barrera Henriquez";helena.barrera17@mail.cl;985041939;912809845;"Av Pedro de Valdivia 1900";"San Miguel";13;Metropolitana;"socio titular";;;2004-11-28;2025-01-01;2025-12-31;SI;socio;clave5818;"La Florida"
+20585621-8;"Gonzalo Lagos Barrera";gonzalo.lagos999@mail.cl;;929310264;"Av Alameda 3200";Independencia;13;Metropolitana;adicional;18010769-K;;2003-04-24;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+5021393-5;"Kevin Ortiz Ortiz";kevin.ortiz757@mail.cl;955040192;929560488;"Av Alameda 800";"La Reina";13;Metropolitana;beneficiario;9151881-3;c—nyuge;1989-05-24;2025-01-01;2025-12-31;NO;;;"La Florida"
+24590975-6;"Loreto Nuñez Barrera";loreto.nunez204@mail.cl;;946440688;"Av Macul 100";Ñuñoa;13;Metropolitana;invitado;;;1959-01-09;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+14225782-3;"Mauricio Lagos Mendez";mauricio.lagos907@mail.cl;966651587;939102982;"Av Apoquindo 2400";Maipú;13;Metropolitana;administrativo;;;1954-02-18;2025-01-01;2025-12-31;SI;administrativo;clave6376;Providencia
+21409267-0;"Gonzalo Espinoza Jara";gonzalo.espinoza316@mail.cl;;995936646;"Av Alameda 1900";"Puente Alto";13;Metropolitana;invitado;;;2001-12-20;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+11333836-9;"Natalia Galdames Espinoza";natalia.galdames576@mail.cl;;983531369;"Av Apoquindo 2100";"Puente Alto";13;Metropolitana;adicional;13408836-2;;1984-11-20;2025-01-01;2025-12-31;NO;;;"La Florida"
+8792487-4;"Patricia Nuñez Mendez";patricia.nunez177@mail.cl;983666492;;"Av Apoquindo 800";"Viña del Mar";5;Valparaíso;"socio titular";;;;2025-01-01;2025-12-31;SI;socio;clave2253;"Santiago Centro"
+8309127-4;"Helena Galdames Mendez";helena.galdames843@mail.cl;935133412;940030991;"Av Macul 700";Independencia;13;Metropolitana;beneficiario;17482790-7;c—nyuge;1987-12-04;2025-01-01;2025-12-31;NO;;;Providencia
+23150355-2;"Alvaro Quezada Quezada";alvaro.quezada850@mail.cl;;925049237;"Av Macul 1200";"La Florida";13;Metropolitana;"socio titular";;;;2025-01-01;2025-12-31;SI;socio;clave2044;"La Florida"
+12818601-8;"Gonzalo Iturra Pardo";gonzalo.iturra284@mail.cl;;967692590;"Av Apoquindo 1800";Providencia;13;Metropolitana;"socio titular";;;2003-09-22;2025-01-01;2025-12-31;SI;socio;clave9796;"Santa Cruz"
+14688060-6;"Mauricio Quezada Espinoza";mauricio.quezada600@mail.cl;957070087;947046274;"Av Providencia 700";"Las Condes";13;Metropolitana;adicional;8275193-9;;1956-04-25;2025-01-01;2025-12-31;NO;;;Providencia
+5970403-6;"Kevin Contreras Contreras";kevin.contreras860@mail.cl;;;"Av Apoquindo 2000";"La Reina";13;Metropolitana;invitado;;;1989-02-04;2025-01-01;2025-12-31;NO;;;"La Florida"
+19362961-K;"Patricia Henriquez Henriquez";patricia.henriquez190@mail.cl;;912691565;"Av Alameda 1600";"La Florida";13;Metropolitana;adicional;20598546-8;;1965-04-18;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+6318448-9;"Felicia Henriquez Contreras";felicia.henriquez197@mail.cl;;;"Av Irarrazaval 900";"San Miguel";13;Metropolitana;invitado;;;1996-09-24;2025-01-01;2025-12-31;NO;;;Providencia
+16177762-5;"Oscar Quezada Contreras";oscar.quezada690@mail.cl;978654532;;"Av Alameda 2600";"San Miguel";13;Metropolitana;adicional;11945986-9;;1963-02-17;2025-01-01;2025-12-31;NO;;;Providencia
+7418925-3;"Javiera Lagos Barrera";javiera.lagos723@mail.cl;960140050;930896607;"Av Gran Avenida 4000";Concepción;8;Biobío;"socio titular";;;1985-12-14;2025-01-01;2025-12-31;SI;socio;clave4175;"Santiago Centro"
+19276791-1;"Ignacio Contreras Nuñez";ignacio.contreras785@mail.cl;961123948;;"Av Vicuña Mackenna 3400";"La Reina";13;Metropolitana;"socio titular";;;;2025-01-01;2025-12-31;SI;socio;clave6100;"La Florida"
+8245736-4;"Oscar Iturra Jara";oscar.iturra303@mail.cl;942871058;973747459;"Av Macul 2300";"Viña del Mar";5;Valparaíso;invitado;;;1955-01-11;2025-01-01;2025-12-31;NO;;;"La Florida"
+10476735-4;"Natalia Quezada Fuentes";natalia.quezada805@mail.cl;942765489;970483407;"Av Apoquindo 500";Concepción;8;Biobío;"socio titular";;;1984-09-16;2025-01-01;2025-12-31;SI;socio;clave2340;"Santa Cruz"
+10280368-K;"Beatriz Henriquez Espinoza";beatriz.henriquez535@mail.cl;;915541772;"Av Alameda 1600";Concepción;8;Biobío;"socio titular";;;2002-08-15;2025-01-01;2025-12-31;SI;socio;clave7246;"La Florida"
+7784753-7;"Enrique Fuentes Nuñez";enrique.fuentes445@mail.cl;;;"Av Vitacura 3100";"Las Condes";13;Metropolitana;invitado;;;1991-03-22;2025-01-01;2025-12-31;NO;;;Providencia
+10407534-7;"Patricia Fuentes Galdames";patricia.fuentes849@mail.cl;935174809;985421477;"Av Apoquindo 2200";Maipú;13;Metropolitana;adicional;11945986-9;;1994-05-07;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+22655131-K;"Gonzalo Mendez Espinoza";gonzalo.mendez902@mail.cl;;962040614;"Av Gran Avenida 2600";Concepción;8;Biobío;invitado;;;1971-02-13;2025-01-01;2025-12-31;NO;;;Providencia
+22016768-2;"Enrique Iturra Fuentes";enrique.iturra148@mail.cl;998409880;;"Av Recoleta 2700";"Santa Cruz";6;O'Higgins;adicional;18881751-3;;1978-10-07;2025-01-01;2025-12-31;NO;;;"La Florida"
+24566096-0;"Oscar Mendez Iturra";oscar.mendez363@mail.cl;;927319021;"Av Vicuña Mackenna 1500";"Santa Cruz";6;O'Higgins;administrativo;;;1977-04-10;2025-01-01;2025-12-31;SI;administrativo;clave4906;"Santa Cruz"
+19069332-5;"Beatriz Galdames Duarte";beatriz.galdames674@mail.cl;941805367;;"Av Irarrazaval 1100";"Viña del Mar";5;Valparaíso;adicional;17876851-4;;1987-09-11;2025-01-01;2025-12-31;NO;;;"Santa Cruz"
+10942709-8;"Felicia Espinoza Duarte";felicia.espinoza663@mail.cl;983719111;990252338;"Av Pedro de Valdivia 2200";"La Reina";13;Metropolitana;"socio titular";;;1970-01-06;2025-01-01;2025-12-31;SI;socio;clave7069;"La Florida"
+14594964-5;"Claudio Fuentes Galdames";claudio.fuentes844@mail.cl;967503989;951316046;"Av Irarrazaval 2500";"Viña del Mar";5;Valparaíso;invitado;;;2000-05-17;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+6169628-8;"Ignacio Galdames Barrera";ignacio.galdames415@mail.cl;973661740;960198604;"Av Pedro de Valdivia 1200";"Santa Cruz";6;O'Higgins;"socio titular";;;1950-08-08;2025-01-01;2025-12-31;SI;socio;clave1164;"La Florida"
+9903786-5;"Claudio Pardo Mendez";claudio.pardo48@mail.cl;929039556;;"Av Irarrazaval 1400";"San Miguel";13;Metropolitana;invitado;;;1951-06-01;2025-01-01;2025-12-31;NO;;;"Santa Cruz"
+23532615-9;"Natalia Quezada Alvarez";natalia.quezada657@mail.cl;947830727;;"Av Vitacura 1300";"Santa Cruz";6;O'Higgins;beneficiario;23814404-3;c—nyuge;1987-05-08;2025-01-01;2025-12-31;NO;;;Providencia
+22123646-7;"Daniela Mendez Duarte";daniela.mendez321@mail.cl;;948640900;"Av Pedro de Valdivia 500";Ñuñoa;13;Metropolitana;invitado;;;2001-01-18;2025-01-01;2025-12-31;NO;;;Providencia
+13766616-2;"Patricia Pardo Duarte";patricia.pardo766@mail.cl;942585188;;"Av Vitacura 900";Concepción;8;Biobío;invitado;;;1995-04-19;2025-01-01;2025-12-31;NO;;;"Santa Cruz"
+19456091-5;"Natalia Quezada Galdames";natalia.quezada930@mail.cl;990153124;;"Av Vicuña Mackenna 2000";"La Reina";13;Metropolitana;invitado;;;;2025-01-01;2025-12-31;NO;;;Providencia
+23869043-9;"Loreto Nuñez Iturra";loreto.nunez813@mail.cl;;956627283;"Av Macul 600";"San Miguel";13;Metropolitana;"socio titular";;;1970-10-17;2025-01-01;2025-12-31;SI;socio;clave3036;"Santiago Centro"
+13538403-8;"Loreto Galdames Jara";loreto.galdames695@mail.cl;986832471;975865559;"Av Providencia 1700";Concepción;8;Biobío;beneficiario;6168484-0;c—nyuge;1994-01-23;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+7372053-2;"Enrique Galdames Duarte";enrique.galdames825@mail.cl;947513727;;"Av Alameda 2200";Santiago;13;Metropolitana;invitado;;;1950-04-02;2025-01-01;2025-12-31;NO;;;"Santa Cruz"
+20711164-3;"Mauricio Ortiz Pardo";mauricio.ortiz33@mail.cl;;959216228;"Av Irarrazaval 2800";"San Miguel";13;Metropolitana;"socio titular";;;1953-10-18;2025-01-01;2025-12-31;SI;socio;clave3601;"Santa Cruz"
+13403699-0;"Loreto Fuentes Quezada";loreto.fuentes465@mail.cl;;912797122;"Av Pedro de Valdivia 2400";Ñuñoa;13;Metropolitana;adicional;22310528-9;;1966-12-28;2025-01-01;2025-12-31;NO;;;"Santa Cruz"
+14669673-2;"Mauricio Barrera Henriquez";mauricio.barrera830@mail.cl;;;"Av Vitacura 3100";Ñuñoa;13;Metropolitana;"socio titular";;;1998-10-19;2025-01-01;2025-12-31;SI;socio;clave8596;Providencia
+23340683-K;"Felicia Pardo Henriquez";felicia.pardo618@mail.cl;962214696;;"Av Apoquindo 4000";"La Reina";13;Metropolitana;invitado;;;;2025-01-01;2025-12-31;NO;;;Providencia
+20134868-4;"Kevin Mendez Quezada";kevin.mendez779@mail.cl;914687271;;"Av Vitacura 2000";"La Florida";13;Metropolitana;invitado;;;1999-10-23;2025-01-01;2025-12-31;NO;;;"La Florida"
+15049972-0;"Javiera Fuentes Espinoza";javiera.fuentes407@mail.cl;;989892402;"Av Apoquindo 2900";Ñuñoa;13;Metropolitana;administrativo;;;1955-09-14;2025-01-01;2025-12-31;SI;administrativo;clave8908;"Santiago Centro"
+14724940-3;"Ignacio Duarte Iturra";ignacio.duarte33@mail.cl;;922437428;"Av Recoleta 2600";Santiago;13;Metropolitana;"socio titular";;;1977-07-28;2025-01-01;2025-12-31;SI;socio;clave4454;"Santiago Centro"
+5190592-K;"Natalia Quezada Espinoza";natalia.quezada409@mail.cl;988120551;;"Av Macul 3900";"San Miguel";13;Metropolitana;invitado;;;;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+14889181-8;"Helena Ortiz Nuñez";helena.ortiz851@mail.cl;;914073416;"Av Vicuña Mackenna 2600";"Santa Cruz";6;O'Higgins;"socio titular";;;1981-11-11;2025-01-01;2025-12-31;SI;socio;clave4442;"La Florida"
+6082822-9;"Enrique Jara Contreras";enrique.jara996@mail.cl;979092056;;"Av Vitacura 3500";Ñuñoa;13;Metropolitana;invitado;;;1990-01-01;2025-01-01;2025-12-31;NO;;;"Santa Cruz"
+23270681-3;"Loreto Lagos Contreras";loreto.lagos217@mail.cl;;;"Av Vicuña Mackenna 3800";"Puente Alto";13;Metropolitana;"socio titular";;;2003-09-15;2025-01-01;2025-12-31;SI;socio;clave2355;"Santa Cruz"
+20068284-K;"Javiera Lagos Lagos";javiera.lagos519@mail.cl;;927964754;"Av Macul 2200";Ñuñoa;13;Metropolitana;beneficiario;11414231-K;c—nyuge;2002-09-26;2025-01-01;2025-12-31;NO;;;Providencia
+23488212-0;"Enrique Henriquez Pardo";enrique.henriquez211@mail.cl;927622107;931580702;"Av Macul 2200";"Las Condes";13;Metropolitana;invitado;;;;2025-01-01;2025-12-31;NO;;;Providencia
+5687544-1;"Daniela Espinoza Galdames";daniela.espinoza189@mail.cl;980730766;;"Av Macul 400";"Puente Alto";13;Metropolitana;invitado;;;2001-12-21;2025-01-01;2025-12-31;NO;;;Providencia
+12016259-4;"Kevin Quezada Ortiz";kevin.quezada75@mail.cl;963408903;920825738;"Av Macul 600";"La Reina";13;Metropolitana;"socio titular";;;;2025-01-01;2025-12-31;SI;socio;clave5324;"Santa Cruz"
+23675099-K;"Daniela Quezada Barrera";daniela.quezada114@mail.cl;;953631890;"Av Gran Avenida 500";Maipú;13;Metropolitana;adicional;17317597-3;;1968-05-07;2025-01-01;2025-12-31;NO;;;"Santa Cruz"
+16320800-8;"Enrique Mendez Galdames";enrique.mendez805@mail.cl;;922536546;"Av Apoquindo 100";"Santa Cruz";6;O'Higgins;"socio titular";;;2004-09-27;2025-01-01;2025-12-31;SI;socio;clave1975;"Santiago Centro"
+18881029-2;"Kevin Henriquez Nuñez";kevin.henriquez406@mail.cl;916393156;942389850;"Av Macul 900";Concepción;8;Biobío;invitado;;;1990-01-01;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+8117271-4;"Kevin Jara Lagos";kevin.jara518@mail.cl;;;"Av Alameda 2700";Concepción;8;Biobío;administrativo;;;1954-09-19;2025-01-01;2025-12-31;SI;administrativo;clave2064;Providencia
+12141663-8;"Javiera Quezada Alvarez";javiera.quezada859@mail.cl;;;"Av Apoquindo 3000";Ñuñoa;13;Metropolitana;beneficiario;13667087-5;c—nyuge;1981-10-07;2025-01-01;2025-12-31;NO;;;"Santa Cruz"
+12535976-0;"Claudio Nuñez Ortiz";claudio.nunez920@mail.cl;996395871;936933520;"Av Vitacura 3600";Independencia;13;Metropolitana;beneficiario;24301503-0;c—nyuge;;2025-01-01;2025-12-31;NO;;;"Santa Cruz"
+14547964-9;"Felicia Pardo Lagos";felicia.pardo261@mail.cl;963765395;948061570;"Av Recoleta 4000";Ñuñoa;13;Metropolitana;adicional;12204047-K;;1982-09-19;2025-01-01;2025-12-31;NO;;;"Santa Cruz"
+11808874-3;"Ignacio Espinoza Lagos";ignacio.espinoza117@mail.cl;939555764;;"Av Vitacura 3500";"Santa Cruz";6;O'Higgins;"socio titular";;;1950-07-28;2025-01-01;2025-12-31;SI;socio;clave9142;Providencia
+19369494-2;"Mauricio Lagos Barrera";mauricio.lagos666@mail.cl;922162967;;"Av Alameda 3500";"Las Condes";13;Metropolitana;"socio titular";;;1967-01-03;2025-01-01;2025-12-31;SI;socio;clave9639;"Santa Cruz"
+18292955-7;"Patricia Galdames Nuñez";patricia.galdames138@mail.cl;966613186;946238329;"Av Alameda 800";Ñuñoa;13;Metropolitana;invitado;;;1986-09-17;2025-01-01;2025-12-31;NO;;;"Santa Cruz"
+7902313-2;"Claudio Quezada Duarte";claudio.quezada923@mail.cl;955346901;;"Av Vitacura 3700";Maipú;13;Metropolitana;adicional;12972040-9;;2005-09-20;2025-01-01;2025-12-31;NO;;;"Santa Cruz"
+7453756-1;"Mauricio Iturra Quezada";mauricio.iturra551@mail.cl;983275747;916718490;"Av Irarrazaval 2500";Maipú;13;Metropolitana;invitado;;;1960-04-16;2025-01-01;2025-12-31;NO;;;"Santa Cruz"
+22273968-3;"Mauricio Ortiz Espinoza";mauricio.ortiz168@mail.cl;;938416771;"Av Alameda 1500";"La Florida";13;Metropolitana;beneficiario;14093618-9;c—nyuge;1988-04-22;2025-01-01;2025-12-31;NO;;;Providencia
+21913322-7;"Loreto Barrera Contreras";loreto.barrera171@mail.cl;;971698114;"Av Vicuña Mackenna 3900";Providencia;13;Metropolitana;invitado;;;1994-10-23;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+17273450-2;"Loreto Duarte Fuentes";loreto.duarte235@mail.cl;;;"Av Recoleta 100";Concepción;8;Biobío;invitado;;;1992-06-18;2025-01-01;2025-12-31;NO;;;"La Florida"
+11888769-7;"Enrique Mendez Duarte";enrique.mendez72@mail.cl;;957543591;"Av Providencia 2000";"Santa Cruz";6;O'Higgins;invitado;;;1971-04-09;2025-01-01;2025-12-31;NO;;;Providencia
+8220524-1;"Enrique Contreras Espinoza";enrique.contreras258@mail.cl;937440430;942819215;"Av Alameda 700";"Santa Cruz";6;O'Higgins;"socio titular";;;1955-06-14;2025-01-01;2025-12-31;SI;socio;clave7963;"Santiago Centro"
+14333056-7;"Beatriz Mendez Ortiz";beatriz.mendez509@mail.cl;;970587924;"Av Irarrazaval 2200";"La Reina";13;Metropolitana;beneficiario;9081387-0;c—nyuge;1962-01-15;2025-01-01;2025-12-31;NO;;;Providencia
+12178147-6;"Enrique Ortiz Fuentes";enrique.ortiz851@mail.cl;966081118;941919616;"Av Alameda 2100";Providencia;13;Metropolitana;adicional;24441689-6;;1995-02-24;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+7733684-2;"Alvaro Contreras Contreras";alvaro.contreras966@mail.cl;951752501;;"Av Apoquindo 1900";Independencia;13;Metropolitana;adicional;21971159-K;;1954-09-05;2025-01-01;2025-12-31;NO;;;"La Florida"
+10431820-7;"Oscar Ortiz Jara";oscar.ortiz80@mail.cl;916526182;974387791;"Av Pedro de Valdivia 3700";Maipú;13;Metropolitana;invitado;;;1955-11-28;2025-01-01;2025-12-31;NO;;;Providencia
+21732052-6;"Patricia Alvarez Henriquez";patricia.alvarez341@mail.cl;967115600;967426942;"Av Pedro de Valdivia 1800";Santiago;13;Metropolitana;adicional;24301503-0;;;2025-01-01;2025-12-31;NO;;;"La Florida"
+23399901-6;"Ignacio Contreras Alvarez";ignacio.contreras618@mail.cl;955542168;;"Av Irarrazaval 100";Maipú;13;Metropolitana;administrativo;;;1973-01-09;2025-01-01;2025-12-31;SI;administrativo;clave1274;Providencia
+22307130-9;"Patricia Contreras Iturra";patricia.contreras666@mail.cl;977378277;946860737;"Av Apoquindo 3300";"Santa Cruz";6;O'Higgins;invitado;;;1964-03-03;2025-01-01;2025-12-31;NO;;;"Santa Cruz"
+5719845-1;"Ignacio Contreras Fuentes";ignacio.contreras637@mail.cl;;959600030;"Av Irarrazaval 800";"Puente Alto";13;Metropolitana;"socio titular";;;1999-07-03;2025-01-01;2025-12-31;SI;socio;clave4529;"Santa Cruz"
+13787697-3;"Claudio Mendez Lagos";claudio.mendez638@mail.cl;;933929702;"Av Pedro de Valdivia 1200";Independencia;13;Metropolitana;invitado;;;1985-07-13;2025-01-01;2025-12-31;NO;;;"Santiago Centro"
+12395233-2;"Beatriz Alvarez Quezada";beatriz.alvarez145@mail.cl;;;"Av Alameda 300";"Las Condes";13;Metropolitana;invitado;;;1992-11-01;2025-01-01;2025-12-31;NO;;;"La Florida"
+23080880-5;"Alvaro Galdames Espinoza";alvaro.galdames202@mail.cl;;976905701;"Av Apoquindo 2900";"Las Condes";13;Metropolitana;"socio titular";;;1952-06-16;2025-01-01;2025-12-31;SI;socio;clave6400;Providencia
+18055324-K;"Helena Barrera Quezada";helena.barrera692@mail.cl;;;"Av Gran Avenida 2000";Concepción;8;Biobío;"socio titular";;;1990-03-25;2025-01-01;2025-12-31;SI;socio;clave4096;"La Florida"

@@ -1,0 +1,1153 @@
+linea;archivo;identificador;accion
+;sucursales_lugaresOK.csv;;Se crearon sucursales únicas desde los nombres de negocio del archivo OK.
+;personas_sociosOK.csv;8664633-1;Email duplicado cargado como NULL para respetar UNIQUE(email).
+;reservas_arriendosOK.csv;8459998-0;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;12674136-7;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;15826885-K;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;12192627-K;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;22703981-7;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;8223654-6;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;9039992-6;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;23503123-K;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;18467664-8;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;9487250-2;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;9269949-8;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;22361904-5;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;12385234-6;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;15585247-K;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;6738781-3;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;22378728-2;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;13014055-6;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;15819975-0;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;22156789-7;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;7295878-0;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;5373421-9;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;9795239-6;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;16741119-3;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;19715915-4;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;12578522-0;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;6440714-7;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;24967582-2;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;23302730-8;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;17503226-6;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;15562742-5;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;9183641-6;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;10778324-5;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;6835621-0;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;18881160-4;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;11616558-9;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;5938386-8;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;19599688-1;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;17606228-2;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;5427877-2;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;21287925-8;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;15115625-8;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;24256806-0;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;24619463-7;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;21296743-2;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;10578107-5;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;14843634-7;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;9226402-5;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;15293763-6;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;22367120-9;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;9980250-2;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;8282741-2;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;22855579-7;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;6761777-0;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;11219981-0;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;12013508-2;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;18065705-3;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;9203394-5;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;21912374-4;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;12469531-7;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;5983819-9;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;21947907-7;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;8009585-6;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;8991172-9;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;16170965-4;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;13914038-9;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;9354610-5;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;23250659-8;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;22812135-5;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;13532015-3;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;23046980-6;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;21861927-4;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;7781298-9;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;18193118-3;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;16253483-1;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;11885348-2;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;12887828-9;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;18885368-4;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;16949644-7;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;22075434-0;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;14254375-3;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;15148285-6;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;8482497-6;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;9874086-4;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;9194484-7;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;9259413-0;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;9213225-0;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;17963425-2;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;14155657-6;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;18971062-3;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;10949220-5;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;16657576-1;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;16953331-8;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;16564154-K;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;21841410-9;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;6491083-3;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;7826282-6;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;10238227-7;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;20328291-5;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;23811418-7;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;16968310-7;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;15530992-K;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;20713143-1;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;9680719-8;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;12770855-K;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;23457711-5;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;13288053-0;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;15440317-5;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;17213598-6;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;16276138-2;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;9712455-8;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;19052661-5;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;19631766-K;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;13981951-9;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;9418221-2;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;19344466-0;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;24949712-6;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;18692916-0;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;24795565-8;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;9706683-3;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;24876542-9;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;15088563-9;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;11177094-8;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;20642956-9;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;23804418-9;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;7451183-K;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;6389986-0;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;17230874-0;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;6204457-8;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;21852963-1;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;7989270-K;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;20826590-3;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;17553993-K;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;8409701-2;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;17931290-5;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;5633053-4;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;16012079-7;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;6085414-9;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;12892449-3;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;17647891-8;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;14379507-1;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;19443419-7;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;19407837-4;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;5395622-K;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;14427366-4;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;5149595-0;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;17133976-6;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;11450455-6;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;13479779-7;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;5135966-6;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;20548964-9;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;19195488-2;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;22329198-8;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;20844789-0;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;15345989-4;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;18147916-7;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;15838325-K;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;15600733-1;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;24447412-8;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;23434952-K;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;13505604-9;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;15499152-2;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;24981138-6;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;23731597-9;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;9016221-7;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;5854603-8;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;21231316-5;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;12453493-3;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;16987649-5;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;24179315-K;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;10120385-9;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;23491307-7;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;6559917-1;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;23021174-4;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;22746919-6;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;13734270-7;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;10427547-8;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;22078734-6;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;23684083-2;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;7660832-6;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;13547030-9;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;5757659-6;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;19048151-4;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;12568147-6;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;22074928-2;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;21934163-6;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;8923088-8;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;5350796-4;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;22423432-5;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;13147810-0;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;16990297-6;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;15505875-7;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;7777224-3;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;10527082-8;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;20672079-4;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;21734074-8;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;16848416-K;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;18468277-K;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;19576306-2;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;7997541-9;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;13761426-K;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;18754494-7;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;21217431-9;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;12080481-2;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;18329134-3;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;10934689-6;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;21783745-6;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;9486514-K;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;23369020-1;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;7715981-9;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;12313678-0;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;23939713-1;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;20914133-7;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;18396692-8;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;20997181-K;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;6858349-7;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;22512308-K;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;13792450-1;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;7106046-2;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;24831420-6;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;19895777-1;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;21882154-5;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;14394380-1;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;13604604-7;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;12774842-K;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;7101185-2;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;21821683-8;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;12465454-8;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;20229991-1;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;15954986-0;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;18933016-2;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;15040048-1;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;15083988-2;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;6614380-5;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;12353825-0;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;21454415-6;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;9087517-5;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;5204506-1;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;12809545-4;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;17506787-6;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;8442882-5;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;8119421-1;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;19211618-K;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;11738535-3;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;10698937-0;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;18154120-2;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;19489863-0;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;6261507-9;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;20284960-1;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;9978267-6;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;15677425-1;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;18086493-8;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;9813420-4;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;11316654-1;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;20408365-7;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;12275678-5;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;7544276-9;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;17096666-K;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;15916589-2;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;9108775-8;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;7735551-0;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;7884115-K;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;5645014-9;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;5475559-7;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;20394775-5;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;5058687-1;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;17186404-6;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;13775714-1;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;24505775-K;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;24402541-2;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;8160344-8;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;8805000-2;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;5137322-7;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;17505864-8;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;6365576-7;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;16107528-0;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;12875377-K;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;6126593-7;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;16214968-7;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;16889614-K;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;24859483-7;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;16054257-8;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;13397853-4;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;6884770-2;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;20175120-9;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;24693299-9;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;16451339-4;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;9298423-0;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;17914991-5;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;10981983-2;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;24138079-3;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;21793681-0;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;16759872-2;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;12075076-3;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;17911506-9;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;16288155-8;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;11374837-0;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;5327894-9;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;13519552-9;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;10992904-2;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;22966221-K;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;22381571-5;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;13224751-K;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;10613264-K;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;9564786-3;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;10145466-5;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;11541623-5;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;18568061-4;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;19142269-4;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;22388037-1;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;19104958-6;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;15120266-7;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;18728677-8;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;12027524-0;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;18053720-1;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;17877832-3;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;10776000-8;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;9392933-0;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;14952228-K;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;16114575-0;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;23849659-4;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;16094679-2;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;8086449-3;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;10679568-1;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;20112516-2;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;15447012-3;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;6951223-2;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;19430435-8;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;20078438-3;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;6988936-0;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;7607462-3;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;23303043-0;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;6807678-1;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;24002475-6;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;6512346-0;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;18646254-8;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;16530236-2;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;21099442-4;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;16336276-7;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;16487089-8;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;16972312-5;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;16479158-0;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;10645717-4;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;21351051-7;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;9430073-8;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;10234889-3;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;21743846-2;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;12922397-9;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;24945636-5;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;15804334-3;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;21349217-9;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;10701917-0;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;12730200-6;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;6442121-2;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;6626889-6;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;10701066-1;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;16257735-2;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;18843742-7;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;15795747-3;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;11121655-K;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;17674128-7;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;24740663-8;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;20666104-6;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;14861266-8;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;20086756-4;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;22287381-9;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;7812836-4;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;21554696-9;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;16550967-6;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;23451242-0;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;9381544-0;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;17263289-0;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;13006129-K;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;22852757-2;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;17786278-9;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;20470612-3;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;11263892-K;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;13006208-3;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;10464361-2;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;14150365-0;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;18876546-7;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;16984924-2;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;20812193-6;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;17275270-5;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;11247006-9;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;20609781-7;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;6353165-0;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;14756759-6;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;17678051-7;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;20727566-2;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;22051085-9;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;10289799-4;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;9104379-3;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;23939824-3;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;13554594-5;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;11414686-2;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;18242406-4;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;7500349-8;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;17453904-9;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;12756727-1;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;19727843-9;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;14565689-3;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;21178138-6;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;17470694-8;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;13153945-2;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;5033421-K;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;16460920-0;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;17294352-7;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;11862631-1;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;5779517-4;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;23835968-6;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;24132013-8;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;20859114-2;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;19020373-5;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;20184378-2;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;19544570-2;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;11483413-0;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;18565989-5;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;6436217-8;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;13015768-8;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;22071602-3;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;14292034-4;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;14941850-4;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;12592948-6;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;11012047-8;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;23498184-6;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;7864408-7;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;23433621-5;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;21550158-2;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;13233936-8;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;9571085-9;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;8722237-3;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;18965892-3;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;24639890-9;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;13065663-3;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;7130867-7;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;20194778-2;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;7686256-7;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;15878471-8;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;6126625-9;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;13650113-5;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;7584304-6;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;17049622-1;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;22110547-8;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;24090729-1;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;14584200-K;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;17623443-1;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;8309406-0;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;22885927-3;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;21452115-6;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;8267419-5;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;19937737-K;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;10119752-2;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;24536401-6;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;16887747-1;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;11727551-5;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;6973970-9;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;21162735-2;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;15807009-K;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;8356612-4;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;13537633-7;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;5116250-1;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;15594513-3;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;15941454-K;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;18616868-2;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;17820790-3;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;12341381-4;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;11086191-5;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;22981153-3;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;19197001-2;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;21454860-7;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;22307110-4;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;15944877-0;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;13203913-5;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;15035367-K;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;10216723-6;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;15121060-0;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;11627877-4;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;13953163-9;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;7206185-3;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;11228399-4;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;8701823-7;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;12925543-9;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;20128868-1;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;15505908-7;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;18647741-3;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;20720307-6;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;23435811-1;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;10272070-9;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;16949045-7;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;18776636-2;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;11521745-3;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;19332680-3;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;18426969-4;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;15790934-7;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;19362869-9;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;10478754-1;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;8084042-K;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;8954537-4;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;15047491-4;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;11984768-0;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;6504014-K;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;6946141-7;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;24471464-1;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;10905503-4;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;11218435-K;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;13083215-6;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;22863706-8;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;21863652-7;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;9179703-8;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;12927748-3;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;24027614-3;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;16741872-4;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;17654518-6;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;18910856-7;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;16408231-8;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;24139677-0;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;16825005-3;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;9843733-9;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;12913560-3;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;12891005-0;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;23876696-6;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;9842967-0;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;14582283-1;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;20928234-8;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;7415624-K;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;11640203-3;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;21525938-2;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;6642396-4;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;18602114-2;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;14252158-K;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;22002174-2;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;7962885-9;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;21773123-2;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;5643136-5;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;18750495-3;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;24765561-1;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;22108526-4;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;14651959-8;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;5590602-5;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;24826693-7;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;15338995-0;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;19652678-1;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;13534305-6;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;21156024-K;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;11711378-7;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;7479790-3;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;10837704-6;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;14504614-9;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;19132405-6;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;7261443-7;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;12455581-7;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;13897062-0;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;16304937-6;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;11277963-9;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;24635453-7;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;19484029-2;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;14379495-4;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;15694640-0;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;7613535-5;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;23388767-6;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;14294949-0;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;14586066-0;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;7416582-6;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;8488042-6;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;12651989-3;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;19208091-6;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;22256719-K;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;19161282-5;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;24427724-1;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;13098747-8;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;15762862-3;"Persona reservante no venía en personas_sociosOK; se creó con datos mínimos para mantener la reserva."
+;reservas_arriendosOK.csv;8459998-0;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;12674136-7;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;15826885-K;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;12192627-K;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;22703981-7;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;8223654-6;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;9039992-6;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;23503123-K;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;18467664-8;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;9487250-2;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;9269949-8;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;22361904-5;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;12385234-6;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;15585247-K;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;6738781-3;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;22378728-2;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;13014055-6;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;15819975-0;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;22156789-7;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;7295878-0;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;5373421-9;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;9795239-6;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;16741119-3;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;19715915-4;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;12578522-0;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;6440714-7;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;24967582-2;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;23302730-8;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;17503226-6;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;15562742-5;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;9183641-6;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;10778324-5;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;6835621-0;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;18881160-4;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;11616558-9;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;5938386-8;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;19599688-1;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;17606228-2;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;5427877-2;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;21287925-8;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;15115625-8;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;24256806-0;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;24619463-7;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;21296743-2;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;10578107-5;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;14843634-7;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;9226402-5;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;15293763-6;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;22367120-9;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;9980250-2;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;8282741-2;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;22855579-7;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;6761777-0;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;11219981-0;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;12013508-2;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;18065705-3;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;9203394-5;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;21912374-4;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;12469531-7;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;5983819-9;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;21947907-7;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;8009585-6;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;8991172-9;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;16170965-4;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;13914038-9;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;9354610-5;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;23250659-8;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;22812135-5;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;13532015-3;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;23046980-6;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;21861927-4;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;7781298-9;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;18193118-3;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;16253483-1;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;11885348-2;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;12887828-9;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;18885368-4;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;16949644-7;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;22075434-0;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;14254375-3;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;15148285-6;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;8482497-6;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;9874086-4;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;9194484-7;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;9259413-0;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;9213225-0;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;17963425-2;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;14155657-6;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;18971062-3;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;10949220-5;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;16657576-1;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;16953331-8;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;16564154-K;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;21841410-9;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;6491083-3;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;7826282-6;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;10238227-7;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;20328291-5;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;23811418-7;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;16968310-7;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;15530992-K;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;20713143-1;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;9680719-8;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;12770855-K;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;23457711-5;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;13288053-0;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;15440317-5;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;17213598-6;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;16276138-2;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;9712455-8;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;19052661-5;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;19631766-K;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;13981951-9;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;9418221-2;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;19344466-0;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;24949712-6;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;18692916-0;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;24795565-8;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;9706683-3;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;24876542-9;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;15088563-9;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;11177094-8;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;20642956-9;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;23804418-9;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;7451183-K;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;6389986-0;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;17230874-0;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;6204457-8;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;21852963-1;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;7989270-K;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;20826590-3;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;17553993-K;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;8409701-2;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;17931290-5;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;5633053-4;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;16012079-7;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;6085414-9;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;12892449-3;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;17647891-8;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;14379507-1;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;19443419-7;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;19407837-4;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;5395622-K;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;14427366-4;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;5149595-0;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;17133976-6;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;11450455-6;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;13479779-7;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;5135966-6;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;20548964-9;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;19195488-2;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;22329198-8;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;20844789-0;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;15345989-4;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;18147916-7;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;15838325-K;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;15600733-1;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;24447412-8;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;23434952-K;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;13505604-9;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;15499152-2;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;24981138-6;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;23731597-9;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;9016221-7;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;5854603-8;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;21231316-5;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;12453493-3;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;16987649-5;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;24179315-K;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;10120385-9;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;23491307-7;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;6559917-1;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;23021174-4;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;22746919-6;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;13734270-7;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;10427547-8;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;22078734-6;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;23684083-2;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;7660832-6;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;13547030-9;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;5757659-6;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;19048151-4;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;12568147-6;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;22074928-2;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;21934163-6;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;8923088-8;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;5350796-4;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;22423432-5;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;13147810-0;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;16990297-6;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;15505875-7;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;7777224-3;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;10527082-8;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;20672079-4;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;21734074-8;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;16848416-K;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;18468277-K;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;19576306-2;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;7997541-9;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;13761426-K;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;18754494-7;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;21217431-9;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;12080481-2;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;18329134-3;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;10934689-6;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;21783745-6;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;9486514-K;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;23369020-1;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;7715981-9;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;12313678-0;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;23939713-1;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;20914133-7;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;18396692-8;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;20997181-K;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;6858349-7;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;22512308-K;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;13792450-1;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;7106046-2;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;24831420-6;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;19895777-1;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;21882154-5;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;14394380-1;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;13604604-7;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;12774842-K;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;7101185-2;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;21821683-8;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;12465454-8;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;20229991-1;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;15954986-0;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;18933016-2;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;15040048-1;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;15083988-2;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;6614380-5;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;12353825-0;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;21454415-6;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;9087517-5;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;5204506-1;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;12809545-4;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;17506787-6;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;8442882-5;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;8119421-1;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;19211618-K;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;11738535-3;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;10698937-0;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;18154120-2;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;19489863-0;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;6261507-9;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;20284960-1;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;9978267-6;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;15677425-1;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;18086493-8;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;9813420-4;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;11316654-1;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;20408365-7;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;12275678-5;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;7544276-9;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;17096666-K;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;15916589-2;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;9108775-8;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;7735551-0;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;7884115-K;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;5645014-9;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;5475559-7;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;20394775-5;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;5058687-1;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;17186404-6;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;13775714-1;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;24505775-K;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;24402541-2;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;8160344-8;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;8805000-2;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;5137322-7;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;17505864-8;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;6365576-7;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;16107528-0;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;12875377-K;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;6126593-7;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;16214968-7;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;16889614-K;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;24859483-7;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;16054257-8;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;13397853-4;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;6884770-2;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;20175120-9;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;24693299-9;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;16451339-4;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;9298423-0;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;17914991-5;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;10981983-2;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;24138079-3;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;21793681-0;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;16759872-2;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;12075076-3;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;17911506-9;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;16288155-8;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;11374837-0;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;5327894-9;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;13519552-9;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;10992904-2;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;22966221-K;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;22381571-5;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;13224751-K;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;10613264-K;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;9564786-3;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;10145466-5;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;11541623-5;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;18568061-4;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;19142269-4;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;22388037-1;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;19104958-6;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;15120266-7;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;18728677-8;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;12027524-0;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;18053720-1;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;17877832-3;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;10776000-8;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;9392933-0;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;14952228-K;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;16114575-0;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;23849659-4;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;16094679-2;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;8086449-3;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;10679568-1;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;20112516-2;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;15447012-3;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;6951223-2;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;19430435-8;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;20078438-3;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;6988936-0;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;7607462-3;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;23303043-0;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;6807678-1;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;24002475-6;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;6512346-0;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;18646254-8;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;16530236-2;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;21099442-4;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;16336276-7;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;16487089-8;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;16972312-5;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;16479158-0;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;10645717-4;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;21351051-7;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;9430073-8;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;10234889-3;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;21743846-2;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;12922397-9;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;24945636-5;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;15804334-3;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;21349217-9;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;10701917-0;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;12730200-6;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;6442121-2;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;6626889-6;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;10701066-1;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;16257735-2;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;18843742-7;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;15795747-3;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;11121655-K;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;17674128-7;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;24740663-8;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;20666104-6;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;14861266-8;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;20086756-4;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;22287381-9;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;7812836-4;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;21554696-9;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;16550967-6;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;23451242-0;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;9381544-0;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;17263289-0;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;13006129-K;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;22852757-2;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;17786278-9;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;20470612-3;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;11263892-K;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;13006208-3;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;10464361-2;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;14150365-0;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;18876546-7;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;16984924-2;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;20812193-6;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;17275270-5;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;11247006-9;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;20609781-7;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;6353165-0;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;14756759-6;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;17678051-7;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;20727566-2;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;22051085-9;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;10289799-4;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;9104379-3;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;23939824-3;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;13554594-5;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;11414686-2;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;18242406-4;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;7500349-8;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;17453904-9;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;12756727-1;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;19727843-9;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;14565689-3;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;21178138-6;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;17470694-8;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;13153945-2;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;5033421-K;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;16460920-0;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;17294352-7;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;11862631-1;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;5779517-4;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;23835968-6;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;24132013-8;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;20859114-2;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;19020373-5;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;20184378-2;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;19544570-2;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;11483413-0;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;18565989-5;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;6436217-8;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;13015768-8;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;22071602-3;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;14292034-4;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;14941850-4;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;12592948-6;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;11012047-8;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;23498184-6;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;7864408-7;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;23433621-5;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;21550158-2;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;13233936-8;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;9571085-9;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;8722237-3;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;18965892-3;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;24639890-9;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;13065663-3;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;7130867-7;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;20194778-2;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;7686256-7;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;15878471-8;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;6126625-9;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;13650113-5;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;7584304-6;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;17049622-1;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;22110547-8;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;24090729-1;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;14584200-K;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;17623443-1;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;8309406-0;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;22885927-3;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;21452115-6;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;8267419-5;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;19937737-K;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;10119752-2;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;24536401-6;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;16887747-1;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;11727551-5;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;6973970-9;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;21162735-2;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;15807009-K;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;8356612-4;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;13537633-7;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;5116250-1;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;15594513-3;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;15941454-K;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;18616868-2;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;17820790-3;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;12341381-4;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;11086191-5;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;22981153-3;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;19197001-2;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;21454860-7;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;22307110-4;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;15944877-0;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;13203913-5;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;15035367-K;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;10216723-6;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;15121060-0;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;11627877-4;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;13953163-9;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;7206185-3;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;11228399-4;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;8701823-7;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;12925543-9;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;20128868-1;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;15505908-7;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;18647741-3;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;20720307-6;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;23435811-1;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;10272070-9;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;16949045-7;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;18776636-2;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;11521745-3;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;19332680-3;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;18426969-4;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;15790934-7;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;19362869-9;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;10478754-1;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;8084042-K;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;8954537-4;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;15047491-4;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;11984768-0;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;6504014-K;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;6946141-7;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;24471464-1;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;10905503-4;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;11218435-K;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;13083215-6;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;22863706-8;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;21863652-7;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;9179703-8;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;12927748-3;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;24027614-3;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;16741872-4;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;17654518-6;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;18910856-7;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;16408231-8;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;24139677-0;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;16825005-3;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;9843733-9;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;12913560-3;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;12891005-0;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;23876696-6;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;9842967-0;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;14582283-1;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;20928234-8;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;7415624-K;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;11640203-3;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;21525938-2;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;6642396-4;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;18602114-2;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;14252158-K;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;22002174-2;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;7962885-9;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;21773123-2;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;5643136-5;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;18750495-3;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;24765561-1;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;22108526-4;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;14651959-8;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;5590602-5;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;24826693-7;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;15338995-0;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;19652678-1;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;13534305-6;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;21156024-K;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;11711378-7;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;7479790-3;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;10837704-6;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;14504614-9;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;19132405-6;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;7261443-7;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;12455581-7;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;13897062-0;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;16304937-6;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;11277963-9;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;24635453-7;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;19484029-2;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;14379495-4;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;15694640-0;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;7613535-5;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;23388767-6;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;14294949-0;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;14586066-0;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;7416582-6;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;8488042-6;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;12651989-3;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;19208091-6;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;22256719-K;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;19161282-5;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;24427724-1;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;13098747-8;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;15762862-3;Reservante sin registro de socio previo fue creado como socio titular mínimo para conservar la reserva.
+;reservas_arriendosOK.csv;Piscina 1;"Lugar no venía en sucursales_lugaresOK; se creó con capacidad 1 para conservar reservas."
+;reservas_arriendosOK.csv;Piscina 2;"Lugar no venía en sucursales_lugaresOK; se creó con capacidad 1 para conservar reservas."
+;reservas_arriendosOK.csv;Piscina 2 X;"Lugar no venía en sucursales_lugaresOK; se creó con capacidad 1 para conservar reservas."
+;reservas_arriendosOK.csv;Restaurant 1;"Lugar no venía en sucursales_lugaresOK; se creó con capacidad 1 para conservar reservas."
+;reservas_arriendosOK.csv;Restaurant 1 X;"Lugar no venía en sucursales_lugaresOK; se creó con capacidad 1 para conservar reservas."
+;reservas_arriendosOK.csv;Restaurant 2;"Lugar no venía en sucursales_lugaresOK; se creó con capacidad 1 para conservar reservas."
+;reservas_arriendosOK.csv;Restaurant 2 X;"Lugar no venía en sucursales_lugaresOK; se creó con capacidad 1 para conservar reservas."
+;carga.sql;;Carga SQL finalizada. Las PK internas de sucursal, lugar y reserva fueron generadas durante la carga.
